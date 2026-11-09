@@ -1,0 +1,215 @@
+{
+  "usd_found": 881884.49,
+  "usd_planted": 881884.49,
+  "usd_pct_of_planted": 1.0,
+  "overall": {
+    "found": 625,
+    "planted": 625,
+    "true_pos": 625,
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "by_check": {
+    "stalled_proposals": {
+      "found": 40,
+      "planted": 40,
+      "true_pos": 40,
+      "false_pos": 0,
+      "missed": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "usd_found": 454200.0,
+      "usd_planted": 454200.0,
+      "false_pos_ids": [],
+      "missed_ids": []
+    },
+    "slow_first_response": {
+      "found": 260,
+      "planted": 260,
+      "true_pos": 260,
+      "false_pos": 0,
+      "missed": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "usd_found": 85184.18,
+      "usd_planted": 85184.18,
+      "false_pos_ids": [],
+      "missed_ids": []
+    },
+    "duplicate_leads": {
+      "found": 90,
+      "planted": 90,
+      "true_pos": 90,
+      "false_pos": 0,
+      "missed": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "usd_found": 84850.0,
+      "usd_planted": 84850.0,
+      "false_pos_ids": [],
+      "missed_ids": [],
+      "detail": {
+        "right_original": 90,
+        "right_match_type": 90,
+        "pairs": 90,
+        "recall_exact": 1.0,
+        "recall_fuzzy": 1.0,
+        "duplicate_open_deals": {
+          "found": 12,
+          "planted": 12,
+          "true_pos": 12,
+          "false_pos": 0,
+          "missed": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      }
+    },
+    "missing_required_fields": {
+      "found": 100,
+      "planted": 100,
+      "true_pos": 100,
+      "false_pos": 0,
+      "missed": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "usd_found": 16776.29,
+      "usd_planted": 16776.29,
+      "false_pos_ids": [],
+      "missed_ids": []
+    },
+    "never_followed_up": {
+      "found": 75,
+      "planted": 75,
+      "true_pos": 75,
+      "false_pos": 0,
+      "missed": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "usd_found": 41940.74,
+      "usd_planted": 41940.74,
+      "false_pos_ids": [],
+      "missed_ids": []
+    },
+    "weak_rep_proposal_conversion": {
+      "found": 60,
+      "planted": 60,
+      "true_pos": 60,
+      "false_pos": 0,
+      "missed": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "usd_found": 198933.28,
+      "usd_planted": 198933.28,
+      "false_pos_ids": [],
+      "missed_ids": []
+    }
+  },
+  "duplicate_ablation": {
+    "exact strings (company + name + email)": {
+      "found": 40,
+      "true_pos": 40,
+      "false_pos": 0,
+      "precision": 1.0,
+      "recall": 0.4444444444444444
+    },
+    "email domain only, public domains allowed": {
+      "found": 300,
+      "true_pos": 90,
+      "false_pos": 210,
+      "precision": 0.3,
+      "recall": 1.0
+    },
+    "normalised company + normalised email": {
+      "found": 73,
+      "true_pos": 73,
+      "false_pos": 0,
+      "precision": 1.0,
+      "recall": 0.8111111111111111
+    },
+    "normalised company + exact surname": {
+      "found": 74,
+      "true_pos": 74,
+      "false_pos": 0,
+      "precision": 1.0,
+      "recall": 0.8222222222222222
+    },
+    "normalised company only": {
+      "found": 90,
+      "true_pos": 90,
+      "false_pos": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "check.py rule (company block + email or fuzzy name)": {
+      "found": 90,
+      "true_pos": 90,
+      "false_pos": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  "duplicate_stress_test": {
+    "colleagues_added": 295,
+    "company_only_false_pos": 295,
+    "sweep": [
+      {
+        "name_threshold": 0.5,
+        "found": 90,
+        "true_pos": 90,
+        "false_pos": 0,
+        "missed": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "name_threshold": 0.6,
+        "found": 90,
+        "true_pos": 90,
+        "false_pos": 0,
+        "missed": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "name_threshold": 0.7,
+        "found": 90,
+        "true_pos": 90,
+        "false_pos": 0,
+        "missed": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "name_threshold": 0.8,
+        "found": 90,
+        "true_pos": 90,
+        "false_pos": 0,
+        "missed": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "name_threshold": 0.9,
+        "found": 87,
+        "true_pos": 87,
+        "false_pos": 0,
+        "missed": 3,
+        "precision": 1.0,
+        "recall": 0.9666666666666667
+      },
+      {
+        "name_threshold": 1.0,
+        "found": 87,
+        "true_pos": 87,
+        "false_pos": 0,
+        "missed": 3,
+        "precision": 1.0,
+        "recall": 0.9666666666666667
+      }
+    ]
+  },
+  "flagged_reps": [
+    "R02"
+  ]
+}

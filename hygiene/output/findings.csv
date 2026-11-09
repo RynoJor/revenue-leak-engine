@@ -1,0 +1,626 @@
+check,record_id,detail,usd_at_risk
+duplicate_leads,L01911,"exact duplicate of L00031: identical company, name and email; open deal D0589 ($6,950) double-counts pipeline",6950.0
+duplicate_leads,L01912,fuzzy duplicate of L00042: same email address,0.0
+duplicate_leads,L01913,"exact duplicate of L00047: identical company, name and email",0.0
+duplicate_leads,L01914,fuzzy duplicate of L00064: same email address,0.0
+duplicate_leads,L01915,fuzzy duplicate of L00099: same email address,0.0
+duplicate_leads,L01916,fuzzy duplicate of L00152: name match (Kimberly Henson ~ kimberly henson),0.0
+duplicate_leads,L01917,"exact duplicate of L00153: identical company, name and email; open deal D0590 ($2,450) double-counts pipeline",2450.0
+duplicate_leads,L01918,fuzzy duplicate of L00214: same email address,0.0
+duplicate_leads,L01919,"exact duplicate of L00264: identical company, name and email; open deal D0591 ($9,150) double-counts pipeline",9150.0
+duplicate_leads,L01920,"fuzzy duplicate of L00297: name match (Hannah Brewer ~ Hannah Brewre); open deal D0592 ($1,250) double-counts pipeline",1250.0
+duplicate_leads,L01921,"exact duplicate of L00307: identical company, name and email",0.0
+duplicate_leads,L01922,"exact duplicate of L00322: identical company, name and email",0.0
+duplicate_leads,L01923,"fuzzy duplicate of L00324: same email address; open deal D0593 ($3,850) double-counts pipeline",3850.0
+duplicate_leads,L01924,"exact duplicate of L00375: identical company, name and email",0.0
+duplicate_leads,L01925,"exact duplicate of L00399: identical company, name and email",0.0
+duplicate_leads,L01926,fuzzy duplicate of L00405: same email address,0.0
+duplicate_leads,L01927,"exact duplicate of L00442: identical company, name and email",0.0
+duplicate_leads,L01928,"exact duplicate of L00446: identical company, name and email",0.0
+duplicate_leads,L01929,"exact duplicate of L00460: identical company, name and email; open deal D0594 ($8,750) double-counts pipeline",8750.0
+duplicate_leads,L01930,"fuzzy duplicate of L00481: same email address; open deal D0595 ($4,150) double-counts pipeline",4150.0
+duplicate_leads,L01931,fuzzy duplicate of L00497: same email address,0.0
+duplicate_leads,L01932,fuzzy duplicate of L00513: name match (John Morris ~ J. Morris),0.0
+duplicate_leads,L01933,"exact duplicate of L00520: identical company, name and email",0.0
+duplicate_leads,L01934,"exact duplicate of L00523: identical company, name and email",0.0
+duplicate_leads,L01935,"exact duplicate of L00529: identical company, name and email",0.0
+duplicate_leads,L01936,"exact duplicate of L00542: identical company, name and email",0.0
+duplicate_leads,L01937,"exact duplicate of L00555: identical company, name and email",0.0
+duplicate_leads,L01938,fuzzy duplicate of L00558: same email address,0.0
+duplicate_leads,L01939,"fuzzy duplicate of L00577: name match (Randall Greene ~ randall greene); open deal D0596 ($5,000) double-counts pipeline",5000.0
+duplicate_leads,L01940,"exact duplicate of L00581: identical company, name and email",0.0
+duplicate_leads,L01941,"exact duplicate of L00589: identical company, name and email",0.0
+duplicate_leads,L01942,fuzzy duplicate of L00605: same email address,0.0
+duplicate_leads,L01943,fuzzy duplicate of L00621: same email address,0.0
+duplicate_leads,L01944,fuzzy duplicate of L00633: name match (Kristina Holland ~ kristina holland),0.0
+duplicate_leads,L01945,fuzzy duplicate of L00642: same email address,0.0
+duplicate_leads,L01946,"exact duplicate of L00649: identical company, name and email",0.0
+duplicate_leads,L01947,fuzzy duplicate of L00664: name match (Lindsey Harrison ~ L. Harrison),0.0
+duplicate_leads,L01948,fuzzy duplicate of L00677: name match (Samuel Potts ~ Samuel Potst),0.0
+duplicate_leads,L01949,fuzzy duplicate of L00679: name match (Michael Johnson ~ M. Johnson),0.0
+duplicate_leads,L01950,fuzzy duplicate of L00805: same email address,0.0
+duplicate_leads,L01951,"exact duplicate of L00823: identical company, name and email",0.0
+duplicate_leads,L01952,fuzzy duplicate of L00844: same email address,0.0
+duplicate_leads,L01953,fuzzy duplicate of L00855: same email address,0.0
+duplicate_leads,L01954,fuzzy duplicate of L00857: same email address,0.0
+duplicate_leads,L01955,fuzzy duplicate of L00883: same email address,0.0
+duplicate_leads,L01956,"exact duplicate of L00885: identical company, name and email",0.0
+duplicate_leads,L01957,fuzzy duplicate of L00889: name match (John Santiago ~ John Santiaog),0.0
+duplicate_leads,L01958,fuzzy duplicate of L00922: same email address,0.0
+duplicate_leads,L01959,"exact duplicate of L00941: identical company, name and email",0.0
+duplicate_leads,L01960,"exact duplicate of L00955: identical company, name and email",0.0
+duplicate_leads,L01961,"fuzzy duplicate of L00956: same email address; open deal D0597 ($13,100) double-counts pipeline",13100.0
+duplicate_leads,L01962,fuzzy duplicate of L00966: same email address,0.0
+duplicate_leads,L01963,"exact duplicate of L00971: identical company, name and email",0.0
+duplicate_leads,L01964,"exact duplicate of L00991: identical company, name and email",0.0
+duplicate_leads,L01965,"exact duplicate of L01010: identical company, name and email; open deal D0598 ($5,050) double-counts pipeline",5050.0
+duplicate_leads,L01966,"exact duplicate of L01073: identical company, name and email",0.0
+duplicate_leads,L01967,"exact duplicate of L01074: identical company, name and email",0.0
+duplicate_leads,L01968,fuzzy duplicate of L01100: same email address,0.0
+duplicate_leads,L01969,fuzzy duplicate of L01109: name match (Oscar Taylor ~ O. Taylor),0.0
+duplicate_leads,L01970,fuzzy duplicate of L01140: same email address,0.0
+duplicate_leads,L01971,fuzzy duplicate of L01149: name match (Reginald Goodwin ~ R. Goodwin),0.0
+duplicate_leads,L01972,"exact duplicate of L01279: identical company, name and email",0.0
+duplicate_leads,L01973,fuzzy duplicate of L01299: same email address,0.0
+duplicate_leads,L01974,fuzzy duplicate of L01306: name match (Robert Miles ~ Rob Miles),0.0
+duplicate_leads,L01975,"fuzzy duplicate of L01358: same email address; open deal D0599 ($17,750) double-counts pipeline",17750.0
+duplicate_leads,L01976,"exact duplicate of L01368: identical company, name and email",0.0
+duplicate_leads,L01977,"exact duplicate of L01369: identical company, name and email",0.0
+duplicate_leads,L01978,fuzzy duplicate of L01382: same email address,0.0
+duplicate_leads,L01979,fuzzy duplicate of L01392: same email address,0.0
+duplicate_leads,L01980,"exact duplicate of L01400: identical company, name and email",0.0
+duplicate_leads,L01981,fuzzy duplicate of L01415: same email address,0.0
+duplicate_leads,L01982,fuzzy duplicate of L01452: same email address,0.0
+duplicate_leads,L01983,fuzzy duplicate of L01453: same email address,0.0
+duplicate_leads,L01984,"exact duplicate of L01483: identical company, name and email",0.0
+duplicate_leads,L01985,fuzzy duplicate of L01509: name match (Maurice Weaver ~ maurice weaver),0.0
+duplicate_leads,L01986,"exact duplicate of L01514: identical company, name and email",0.0
+duplicate_leads,L01987,"fuzzy duplicate of L01529: same email address; open deal D0600 ($7,400) double-counts pipeline",7400.0
+duplicate_leads,L01988,fuzzy duplicate of L01542: name match (Martin Young ~ martin young),0.0
+duplicate_leads,L01989,"exact duplicate of L01544: identical company, name and email",0.0
+duplicate_leads,L01990,"exact duplicate of L01561: identical company, name and email",0.0
+duplicate_leads,L01991,fuzzy duplicate of L01567: same email address,0.0
+duplicate_leads,L01992,fuzzy duplicate of L01601: same email address,0.0
+duplicate_leads,L01993,fuzzy duplicate of L01707: name match (Alexandra Haynes ~ alexandra haynes),0.0
+duplicate_leads,L01994,"exact duplicate of L01718: identical company, name and email",0.0
+duplicate_leads,L01995,fuzzy duplicate of L01757: name match (Kaitlyn Evans ~ kaitlyn evans),0.0
+duplicate_leads,L01996,fuzzy duplicate of L01761: name match (Claudia Roberts ~ C. Roberts),0.0
+duplicate_leads,L01997,"exact duplicate of L01825: identical company, name and email",0.0
+duplicate_leads,L01998,fuzzy duplicate of L01859: same email address,0.0
+duplicate_leads,L01999,"exact duplicate of L01897: identical company, name and email",0.0
+duplicate_leads,L02000,"exact duplicate of L01899: identical company, name and email",0.0
+stalled_proposals,D0002,"R01 proposal, no activity for 185 days (last 2026-04-29)",8350.0
+stalled_proposals,D0026,"R01 proposal, no activity for 170 days (last 2026-05-14)",3650.0
+stalled_proposals,D0045,"R03 proposal, no activity for 54 days (last 2026-09-07)",8700.0
+stalled_proposals,D0053,"R01 proposal, no activity for 99 days (last 2026-07-24)",7350.0
+stalled_proposals,D0063,"R01 proposal, no activity for 75 days (last 2026-08-17)",7400.0
+stalled_proposals,D0071,"R04 proposal, no activity for 202 days (last 2026-04-12)",29100.0
+stalled_proposals,D0077,"R03 proposal, no activity for 100 days (last 2026-07-23)",18550.0
+stalled_proposals,D0079,"R03 proposal, no activity for 67 days (last 2026-08-25)",11950.0
+stalled_proposals,D0100,"R04 proposal, no activity for 83 days (last 2026-08-09)",5100.0
+stalled_proposals,D0104,"R01 proposal, no activity for 34 days (last 2026-09-27)",4400.0
+stalled_proposals,D0125,"R05 proposal, no activity for 48 days (last 2026-09-13)",14950.0
+stalled_proposals,D0128,"R01 proposal, no activity for 221 days (last 2026-03-24)",9800.0
+stalled_proposals,D0136,"R03 proposal, no activity for 35 days (last 2026-09-26)",20650.0
+stalled_proposals,D0146,"R03 proposal, no activity for 69 days (last 2026-08-23)",4250.0
+stalled_proposals,D0156,"R04 proposal, no activity for 74 days (last 2026-08-18)",6600.0
+stalled_proposals,D0190,"R06 proposal, no activity for 69 days (last 2026-08-23)",12950.0
+stalled_proposals,D0199,"R05 proposal, no activity for 125 days (last 2026-06-28)",6400.0
+stalled_proposals,D0233,"R04 proposal, no activity for 121 days (last 2026-07-02)",6300.0
+stalled_proposals,D0253,"R01 proposal, no activity for 70 days (last 2026-08-22)",5850.0
+stalled_proposals,D0305,"R01 proposal, no activity for 32 days (last 2026-09-29)",8200.0
+stalled_proposals,D0338,"R03 proposal, no activity for 35 days (last 2026-09-26)",4950.0
+stalled_proposals,D0341,"R06 proposal, no activity for 200 days (last 2026-04-14)",4000.0
+stalled_proposals,D0359,"R04 proposal, no activity for 124 days (last 2026-06-29)",14400.0
+stalled_proposals,D0368,"R05 proposal, no activity for 52 days (last 2026-09-09)",16950.0
+stalled_proposals,D0422,"R01 proposal, no activity for 31 days (last 2026-09-30)",7050.0
+stalled_proposals,D0429,"R05 proposal, no activity for 71 days (last 2026-08-21)",6800.0
+stalled_proposals,D0459,"R05 proposal, no activity for 82 days (last 2026-08-10)",3250.0
+stalled_proposals,D0463,"R05 proposal, no activity for 46 days (last 2026-09-15)",4950.0
+stalled_proposals,D0464,"R03 proposal, no activity for 54 days (last 2026-09-07)",12550.0
+stalled_proposals,D0476,"R06 proposal, no activity for 170 days (last 2026-05-14)",34150.0
+stalled_proposals,D0516,"R05 proposal, no activity for 159 days (last 2026-05-25)",6150.0
+stalled_proposals,D0522,"R05 proposal, no activity for 48 days (last 2026-09-13)",4700.0
+stalled_proposals,D0533,"R01 proposal, no activity for 103 days (last 2026-07-20)",42550.0
+stalled_proposals,D0535,"R04 proposal, no activity for 32 days (last 2026-09-29)",12300.0
+stalled_proposals,D0550,"R05 proposal, no activity for 101 days (last 2026-07-22)",17450.0
+stalled_proposals,D0551,"R03 proposal, no activity for 46 days (last 2026-09-15)",2150.0
+stalled_proposals,D0552,"R04 proposal, no activity for 41 days (last 2026-09-20)",23950.0
+stalled_proposals,D0561,"R01 proposal, no activity for 35 days (last 2026-09-26)",9900.0
+stalled_proposals,D0566,"R05 proposal, no activity for 30 days (last 2026-10-01)",22000.0
+stalled_proposals,D0583,"R06 proposal, no activity for 136 days (last 2026-06-17)",3500.0
+missing_required_fields,L00039,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00083,missing email (cannot be worked),559.21
+missing_required_fields,L00115,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00124,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00137,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00141,missing email (cannot be worked),559.21
+missing_required_fields,L00142,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00147,missing email (cannot be worked),559.21
+missing_required_fields,L00151,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00171,missing email (cannot be worked),559.21
+missing_required_fields,L00195,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00198,missing email (cannot be worked),559.21
+missing_required_fields,L00204,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00207,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00212,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00279,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00310,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00315,missing email (cannot be worked),559.21
+missing_required_fields,L00325,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00333,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00346,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00385,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00392,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00425,missing email (cannot be worked),559.21
+missing_required_fields,L00429,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00435,missing email (cannot be worked),559.21
+missing_required_fields,L00472,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00493,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00500,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00508,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00561,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00584,missing email (cannot be worked),559.21
+missing_required_fields,L00592,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00609,missing email (cannot be worked),559.21
+missing_required_fields,L00626,missing email (cannot be worked),559.21
+missing_required_fields,L00629,missing email (cannot be worked),559.21
+missing_required_fields,L00688,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00696,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00723,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00750,missing email (cannot be worked),559.21
+missing_required_fields,L00765,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00774,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00802,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00817,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00836,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00913,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00931,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L00937,missing email (cannot be worked),559.21
+missing_required_fields,L00969,missing email (cannot be worked),559.21
+missing_required_fields,L01006,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01020,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01054,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01092,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01093,missing email (cannot be worked),559.21
+missing_required_fields,L01107,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01110,missing email (cannot be worked),559.21
+missing_required_fields,L01130,missing email (cannot be worked),559.21
+missing_required_fields,L01139,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01199,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01203,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01208,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01226,missing email (cannot be worked),559.21
+missing_required_fields,L01234,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01269,missing email (cannot be worked),559.21
+missing_required_fields,L01307,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01360,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01397,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01408,missing email (cannot be worked),559.21
+missing_required_fields,L01412,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01413,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01426,missing email (cannot be worked),559.21
+missing_required_fields,L01458,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01479,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01486,missing email (cannot be worked),559.21
+missing_required_fields,L01491,missing email (cannot be worked),559.21
+missing_required_fields,L01500,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01523,missing email (cannot be worked),559.21
+missing_required_fields,L01532,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01555,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01568,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01577,missing email (cannot be worked),559.21
+missing_required_fields,L01616,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01649,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01662,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01671,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01679,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01708,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01720,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01737,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01738,missing email (cannot be worked),559.21
+missing_required_fields,L01745,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01773,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01796,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01807,missing email (cannot be worked),559.21
+missing_required_fields,L01827,"missing company_size (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01841,"missing industry (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01844,missing email (cannot be worked),559.21
+missing_required_fields,L01861,"missing region (routing/reporting gap, valued at $0)",0.0
+missing_required_fields,L01905,missing email (cannot be worked),559.21
+missing_required_fields,L01906,"missing industry (routing/reporting gap, valued at $0)",0.0
+never_followed_up,L00011,"inbound lead from website_form, 62 days old, no first response",559.21
+never_followed_up,L00013,"inbound lead from website_form, 186 days old, no first response",559.21
+never_followed_up,L00037,"inbound lead from content_download, 237 days old, no first response",559.21
+never_followed_up,L00041,"inbound lead from free_trial, 257 days old, no first response",559.21
+never_followed_up,L00074,"inbound lead from free_trial, 238 days old, no first response",559.21
+never_followed_up,L00076,"inbound lead from website_form, 60 days old, no first response",559.21
+never_followed_up,L00096,"inbound lead from demo_request, 79 days old, no first response",559.21
+never_followed_up,L00109,"inbound lead from free_trial, 248 days old, no first response",559.21
+never_followed_up,L00117,"inbound lead from free_trial, 115 days old, no first response",559.21
+never_followed_up,L00145,"inbound lead from free_trial, 88 days old, no first response",559.21
+never_followed_up,L00189,"inbound lead from content_download, 257 days old, no first response",559.21
+never_followed_up,L00203,"inbound lead from content_download, 289 days old, no first response",559.21
+never_followed_up,L00260,"inbound lead from demo_request, 293 days old, no first response",559.21
+never_followed_up,L00334,"inbound lead from demo_request, 82 days old, no first response",559.21
+never_followed_up,L00347,"inbound lead from content_download, 219 days old, no first response",559.21
+never_followed_up,L00351,"inbound lead from free_trial, 7 days old, no first response",559.21
+never_followed_up,L00426,"inbound lead from demo_request, 31 days old, no first response",559.21
+never_followed_up,L00444,"inbound lead from website_form, 247 days old, no first response",559.21
+never_followed_up,L00449,"inbound lead from content_download, 182 days old, no first response",559.21
+never_followed_up,L00480,"inbound lead from free_trial, 109 days old, no first response",559.21
+never_followed_up,L00502,"inbound lead from website_form, 47 days old, no first response",559.21
+never_followed_up,L00530,"inbound lead from free_trial, 33 days old, no first response",559.21
+never_followed_up,L00552,"inbound lead from content_download, 115 days old, no first response",559.21
+never_followed_up,L00654,"inbound lead from demo_request, 130 days old, no first response",559.21
+never_followed_up,L00673,"inbound lead from free_trial, 285 days old, no first response",559.21
+never_followed_up,L00682,"inbound lead from website_form, 27 days old, no first response",559.21
+never_followed_up,L00684,"inbound lead from demo_request, 86 days old, no first response",559.21
+never_followed_up,L00707,"inbound lead from demo_request, 183 days old, no first response",559.21
+never_followed_up,L00725,"inbound lead from website_form, 214 days old, no first response",559.21
+never_followed_up,L00751,"inbound lead from website_form, 223 days old, no first response",559.21
+never_followed_up,L00752,"inbound lead from website_form, 286 days old, no first response",559.21
+never_followed_up,L00756,"inbound lead from demo_request, 59 days old, no first response",559.21
+never_followed_up,L00763,"inbound lead from demo_request, 150 days old, no first response",559.21
+never_followed_up,L00773,"inbound lead from content_download, 231 days old, no first response",559.21
+never_followed_up,L00779,"inbound lead from website_form, 288 days old, no first response",559.21
+never_followed_up,L00812,"inbound lead from demo_request, 294 days old, no first response",559.21
+never_followed_up,L00829,"inbound lead from website_form, 148 days old, no first response",559.21
+never_followed_up,L00905,"inbound lead from content_download, 215 days old, no first response",559.21
+never_followed_up,L00910,"inbound lead from content_download, 80 days old, no first response",559.21
+never_followed_up,L00927,"inbound lead from website_form, 99 days old, no first response",559.21
+never_followed_up,L00970,"inbound lead from website_form, 95 days old, no first response",559.21
+never_followed_up,L01009,"inbound lead from free_trial, 74 days old, no first response",559.21
+never_followed_up,L01033,"inbound lead from demo_request, 261 days old, no first response",559.21
+never_followed_up,L01053,"inbound lead from content_download, 220 days old, no first response",559.21
+never_followed_up,L01082,"inbound lead from demo_request, 21 days old, no first response",559.21
+never_followed_up,L01142,"inbound lead from demo_request, 148 days old, no first response",559.21
+never_followed_up,L01186,"inbound lead from free_trial, 221 days old, no first response",559.21
+never_followed_up,L01222,"inbound lead from website_form, 184 days old, no first response",559.21
+never_followed_up,L01248,"inbound lead from free_trial, 284 days old, no first response",559.21
+never_followed_up,L01260,"inbound lead from content_download, 25 days old, no first response",559.21
+never_followed_up,L01319,"inbound lead from website_form, 54 days old, no first response",559.21
+never_followed_up,L01364,"inbound lead from demo_request, 107 days old, no first response",559.21
+never_followed_up,L01370,"inbound lead from demo_request, 297 days old, no first response",559.21
+never_followed_up,L01371,"inbound lead from free_trial, 293 days old, no first response",559.21
+never_followed_up,L01373,"inbound lead from website_form, 206 days old, no first response",559.21
+never_followed_up,L01396,"inbound lead from demo_request, 49 days old, no first response",559.21
+never_followed_up,L01445,"inbound lead from free_trial, 34 days old, no first response",559.21
+never_followed_up,L01454,"inbound lead from website_form, 160 days old, no first response",559.21
+never_followed_up,L01463,"inbound lead from website_form, 90 days old, no first response",559.21
+never_followed_up,L01477,"inbound lead from website_form, 241 days old, no first response",559.21
+never_followed_up,L01490,"inbound lead from demo_request, 82 days old, no first response",559.21
+never_followed_up,L01503,"inbound lead from content_download, 296 days old, no first response",559.21
+never_followed_up,L01505,"inbound lead from free_trial, 30 days old, no first response",559.21
+never_followed_up,L01528,"inbound lead from website_form, 268 days old, no first response",559.21
+never_followed_up,L01535,"inbound lead from website_form, 147 days old, no first response",559.21
+never_followed_up,L01559,"inbound lead from free_trial, 246 days old, no first response",559.21
+never_followed_up,L01560,"inbound lead from free_trial, 11 days old, no first response",559.21
+never_followed_up,L01584,"inbound lead from website_form, 111 days old, no first response",559.21
+never_followed_up,L01607,"inbound lead from website_form, 237 days old, no first response",559.21
+never_followed_up,L01618,"inbound lead from demo_request, 86 days old, no first response",559.21
+never_followed_up,L01645,"inbound lead from free_trial, 234 days old, no first response",559.21
+never_followed_up,L01710,"inbound lead from website_form, 159 days old, no first response",559.21
+never_followed_up,L01712,"inbound lead from content_download, 255 days old, no first response",559.21
+never_followed_up,L01763,"inbound lead from demo_request, 195 days old, no first response",559.21
+never_followed_up,L01814,"inbound lead from free_trial, 275 days old, no first response",559.21
+slow_first_response,L00004,"inbound website_form, first response after 1845 min (SLA 60)",327.63
+slow_first_response,L00014,"inbound free_trial, first response after 3944 min (SLA 60)",327.63
+slow_first_response,L00027,"inbound demo_request, first response after 789 min (SLA 60)",327.63
+slow_first_response,L00038,"inbound content_download, first response after 1252 min (SLA 60)",327.63
+slow_first_response,L00043,"inbound free_trial, first response after 685 min (SLA 60)",327.63
+slow_first_response,L00069,"inbound content_download, first response after 248 min (SLA 60)",327.63
+slow_first_response,L00073,"inbound website_form, first response after 545 min (SLA 60)",327.63
+slow_first_response,L00077,"inbound website_form, first response after 372 min (SLA 60)",327.63
+slow_first_response,L00081,"inbound website_form, first response after 1738 min (SLA 60)",327.63
+slow_first_response,L00097,"inbound demo_request, first response after 1318 min (SLA 60)",327.63
+slow_first_response,L00106,"inbound free_trial, first response after 1039 min (SLA 60)",327.63
+slow_first_response,L00126,"inbound free_trial, first response after 1802 min (SLA 60)",327.63
+slow_first_response,L00131,"inbound demo_request, first response after 1055 min (SLA 60)",327.63
+slow_first_response,L00138,"inbound demo_request, first response after 1632 min (SLA 60)",327.63
+slow_first_response,L00148,"inbound content_download, first response after 2644 min (SLA 60)",327.63
+slow_first_response,L00149,"inbound website_form, first response after 358 min (SLA 60)",327.63
+slow_first_response,L00157,"inbound website_form, first response after 300 min (SLA 60)",327.63
+slow_first_response,L00158,"inbound website_form, first response after 959 min (SLA 60)",327.63
+slow_first_response,L00160,"inbound free_trial, first response after 677 min (SLA 60)",327.63
+slow_first_response,L00170,"inbound free_trial, first response after 361 min (SLA 60)",327.63
+slow_first_response,L00180,"inbound demo_request, first response after 835 min (SLA 60)",327.63
+slow_first_response,L00190,"inbound website_form, first response after 970 min (SLA 60)",327.63
+slow_first_response,L00192,"inbound content_download, first response after 2295 min (SLA 60)",327.63
+slow_first_response,L00205,"inbound demo_request, first response after 290 min (SLA 60)",327.63
+slow_first_response,L00208,"inbound content_download, first response after 1457 min (SLA 60)",327.63
+slow_first_response,L00209,"inbound website_form, first response after 2997 min (SLA 60)",327.63
+slow_first_response,L00216,"inbound demo_request, first response after 1012 min (SLA 60)",327.63
+slow_first_response,L00221,"inbound demo_request, first response after 658 min (SLA 60)",327.63
+slow_first_response,L00222,"inbound demo_request, first response after 1406 min (SLA 60)",327.63
+slow_first_response,L00228,"inbound website_form, first response after 299 min (SLA 60)",327.63
+slow_first_response,L00239,"inbound demo_request, first response after 1783 min (SLA 60)",327.63
+slow_first_response,L00247,"inbound website_form, first response after 2756 min (SLA 60)",327.63
+slow_first_response,L00253,"inbound website_form, first response after 289 min (SLA 60)",327.63
+slow_first_response,L00256,"inbound demo_request, first response after 1109 min (SLA 60)",327.63
+slow_first_response,L00273,"inbound website_form, first response after 615 min (SLA 60)",327.63
+slow_first_response,L00284,"inbound free_trial, first response after 251 min (SLA 60)",327.63
+slow_first_response,L00285,"inbound website_form, first response after 4244 min (SLA 60)",327.63
+slow_first_response,L00288,"inbound content_download, first response after 1115 min (SLA 60)",327.63
+slow_first_response,L00290,"inbound free_trial, first response after 3371 min (SLA 60)",327.63
+slow_first_response,L00299,"inbound website_form, first response after 2285 min (SLA 60)",327.63
+slow_first_response,L00300,"inbound website_form, first response after 293 min (SLA 60)",327.63
+slow_first_response,L00323,"inbound demo_request, first response after 1166 min (SLA 60)",327.63
+slow_first_response,L00332,"inbound demo_request, first response after 1621 min (SLA 60)",327.63
+slow_first_response,L00340,"inbound demo_request, first response after 301 min (SLA 60)",327.63
+slow_first_response,L00352,"inbound website_form, first response after 457 min (SLA 60)",327.63
+slow_first_response,L00355,"inbound demo_request, first response after 1142 min (SLA 60)",327.63
+slow_first_response,L00360,"inbound content_download, first response after 4144 min (SLA 60)",327.63
+slow_first_response,L00369,"inbound website_form, first response after 520 min (SLA 60)",327.63
+slow_first_response,L00378,"inbound content_download, first response after 973 min (SLA 60)",327.63
+slow_first_response,L00380,"inbound free_trial, first response after 402 min (SLA 60)",327.63
+slow_first_response,L00387,"inbound free_trial, first response after 2156 min (SLA 60)",327.63
+slow_first_response,L00391,"inbound demo_request, first response after 269 min (SLA 60)",327.63
+slow_first_response,L00415,"inbound demo_request, first response after 301 min (SLA 60)",327.63
+slow_first_response,L00418,"inbound website_form, first response after 3307 min (SLA 60)",327.63
+slow_first_response,L00423,"inbound demo_request, first response after 2285 min (SLA 60)",327.63
+slow_first_response,L00431,"inbound website_form, first response after 1264 min (SLA 60)",327.63
+slow_first_response,L00436,"inbound demo_request, first response after 1048 min (SLA 60)",327.63
+slow_first_response,L00463,"inbound free_trial, first response after 1486 min (SLA 60)",327.63
+slow_first_response,L00474,"inbound website_form, first response after 4316 min (SLA 60)",327.63
+slow_first_response,L00486,"inbound free_trial, first response after 1866 min (SLA 60)",327.63
+slow_first_response,L00488,"inbound website_form, first response after 976 min (SLA 60)",327.63
+slow_first_response,L00499,"inbound website_form, first response after 388 min (SLA 60)",327.63
+slow_first_response,L00518,"inbound content_download, first response after 1649 min (SLA 60)",327.63
+slow_first_response,L00528,"inbound website_form, first response after 1028 min (SLA 60)",327.63
+slow_first_response,L00550,"inbound content_download, first response after 635 min (SLA 60)",327.63
+slow_first_response,L00559,"inbound demo_request, first response after 3206 min (SLA 60)",327.63
+slow_first_response,L00566,"inbound free_trial, first response after 1629 min (SLA 60)",327.63
+slow_first_response,L00572,"inbound free_trial, first response after 689 min (SLA 60)",327.63
+slow_first_response,L00578,"inbound demo_request, first response after 2849 min (SLA 60)",327.63
+slow_first_response,L00591,"inbound demo_request, first response after 281 min (SLA 60)",327.63
+slow_first_response,L00601,"inbound content_download, first response after 920 min (SLA 60)",327.63
+slow_first_response,L00603,"inbound free_trial, first response after 747 min (SLA 60)",327.63
+slow_first_response,L00612,"inbound free_trial, first response after 1345 min (SLA 60)",327.63
+slow_first_response,L00623,"inbound demo_request, first response after 2376 min (SLA 60)",327.63
+slow_first_response,L00625,"inbound content_download, first response after 2505 min (SLA 60)",327.63
+slow_first_response,L00628,"inbound content_download, first response after 1581 min (SLA 60)",327.63
+slow_first_response,L00635,"inbound website_form, first response after 1307 min (SLA 60)",327.63
+slow_first_response,L00637,"inbound free_trial, first response after 3735 min (SLA 60)",327.63
+slow_first_response,L00650,"inbound demo_request, first response after 287 min (SLA 60)",327.63
+slow_first_response,L00651,"inbound website_form, first response after 523 min (SLA 60)",327.63
+slow_first_response,L00657,"inbound website_form, first response after 644 min (SLA 60)",327.63
+slow_first_response,L00660,"inbound website_form, first response after 556 min (SLA 60)",327.63
+slow_first_response,L00662,"inbound demo_request, first response after 332 min (SLA 60)",327.63
+slow_first_response,L00667,"inbound website_form, first response after 851 min (SLA 60)",327.63
+slow_first_response,L00678,"inbound free_trial, first response after 2397 min (SLA 60)",327.63
+slow_first_response,L00693,"inbound website_form, first response after 1028 min (SLA 60)",327.63
+slow_first_response,L00704,"inbound website_form, first response after 2293 min (SLA 60)",327.63
+slow_first_response,L00726,"inbound free_trial, first response after 2956 min (SLA 60)",327.63
+slow_first_response,L00728,"inbound content_download, first response after 3096 min (SLA 60)",327.63
+slow_first_response,L00729,"inbound content_download, first response after 571 min (SLA 60)",327.63
+slow_first_response,L00739,"inbound free_trial, first response after 351 min (SLA 60)",327.63
+slow_first_response,L00755,"inbound website_form, first response after 1381 min (SLA 60)",327.63
+slow_first_response,L00766,"inbound free_trial, first response after 391 min (SLA 60)",327.63
+slow_first_response,L00767,"inbound content_download, first response after 2232 min (SLA 60)",327.63
+slow_first_response,L00777,"inbound website_form, first response after 1116 min (SLA 60)",327.63
+slow_first_response,L00780,"inbound demo_request, first response after 2469 min (SLA 60)",327.63
+slow_first_response,L00799,"inbound demo_request, first response after 250 min (SLA 60)",327.63
+slow_first_response,L00806,"inbound free_trial, first response after 2820 min (SLA 60)",327.63
+slow_first_response,L00813,"inbound demo_request, first response after 334 min (SLA 60)",327.63
+slow_first_response,L00828,"inbound free_trial, first response after 3206 min (SLA 60)",327.63
+slow_first_response,L00845,"inbound website_form, first response after 423 min (SLA 60)",327.63
+slow_first_response,L00860,"inbound demo_request, first response after 480 min (SLA 60)",327.63
+slow_first_response,L00862,"inbound free_trial, first response after 248 min (SLA 60)",327.63
+slow_first_response,L00867,"inbound free_trial, first response after 3634 min (SLA 60)",327.63
+slow_first_response,L00876,"inbound website_form, first response after 833 min (SLA 60)",327.63
+slow_first_response,L00882,"inbound website_form, first response after 370 min (SLA 60)",327.63
+slow_first_response,L00888,"inbound demo_request, first response after 3376 min (SLA 60)",327.63
+slow_first_response,L00893,"inbound demo_request, first response after 311 min (SLA 60)",327.63
+slow_first_response,L00912,"inbound website_form, first response after 484 min (SLA 60)",327.63
+slow_first_response,L00917,"inbound demo_request, first response after 871 min (SLA 60)",327.63
+slow_first_response,L00929,"inbound free_trial, first response after 2650 min (SLA 60)",327.63
+slow_first_response,L00933,"inbound free_trial, first response after 3462 min (SLA 60)",327.63
+slow_first_response,L00938,"inbound website_form, first response after 2531 min (SLA 60)",327.63
+slow_first_response,L00950,"inbound free_trial, first response after 918 min (SLA 60)",327.63
+slow_first_response,L00954,"inbound website_form, first response after 1759 min (SLA 60)",327.63
+slow_first_response,L00962,"inbound free_trial, first response after 1497 min (SLA 60)",327.63
+slow_first_response,L00964,"inbound website_form, first response after 330 min (SLA 60)",327.63
+slow_first_response,L00968,"inbound content_download, first response after 3545 min (SLA 60)",327.63
+slow_first_response,L00977,"inbound demo_request, first response after 1782 min (SLA 60)",327.63
+slow_first_response,L00983,"inbound content_download, first response after 1989 min (SLA 60)",327.63
+slow_first_response,L00992,"inbound website_form, first response after 3835 min (SLA 60)",327.63
+slow_first_response,L00998,"inbound free_trial, first response after 263 min (SLA 60)",327.63
+slow_first_response,L01008,"inbound free_trial, first response after 699 min (SLA 60)",327.63
+slow_first_response,L01011,"inbound demo_request, first response after 1013 min (SLA 60)",327.63
+slow_first_response,L01014,"inbound website_form, first response after 3898 min (SLA 60)",327.63
+slow_first_response,L01019,"inbound free_trial, first response after 1165 min (SLA 60)",327.63
+slow_first_response,L01021,"inbound free_trial, first response after 2158 min (SLA 60)",327.63
+slow_first_response,L01022,"inbound demo_request, first response after 4051 min (SLA 60)",327.63
+slow_first_response,L01024,"inbound content_download, first response after 504 min (SLA 60)",327.63
+slow_first_response,L01038,"inbound free_trial, first response after 4152 min (SLA 60)",327.63
+slow_first_response,L01040,"inbound demo_request, first response after 633 min (SLA 60)",327.63
+slow_first_response,L01044,"inbound free_trial, first response after 318 min (SLA 60)",327.63
+slow_first_response,L01047,"inbound demo_request, first response after 853 min (SLA 60)",327.63
+slow_first_response,L01064,"inbound content_download, first response after 562 min (SLA 60)",327.63
+slow_first_response,L01071,"inbound demo_request, first response after 3872 min (SLA 60)",327.63
+slow_first_response,L01079,"inbound website_form, first response after 516 min (SLA 60)",327.63
+slow_first_response,L01099,"inbound free_trial, first response after 3911 min (SLA 60)",327.63
+slow_first_response,L01105,"inbound website_form, first response after 3840 min (SLA 60)",327.63
+slow_first_response,L01116,"inbound free_trial, first response after 631 min (SLA 60)",327.63
+slow_first_response,L01129,"inbound website_form, first response after 2363 min (SLA 60)",327.63
+slow_first_response,L01131,"inbound website_form, first response after 2309 min (SLA 60)",327.63
+slow_first_response,L01136,"inbound website_form, first response after 4061 min (SLA 60)",327.63
+slow_first_response,L01144,"inbound demo_request, first response after 1012 min (SLA 60)",327.63
+slow_first_response,L01146,"inbound free_trial, first response after 544 min (SLA 60)",327.63
+slow_first_response,L01153,"inbound demo_request, first response after 998 min (SLA 60)",327.63
+slow_first_response,L01155,"inbound demo_request, first response after 3496 min (SLA 60)",327.63
+slow_first_response,L01166,"inbound free_trial, first response after 3193 min (SLA 60)",327.63
+slow_first_response,L01167,"inbound demo_request, first response after 1792 min (SLA 60)",327.63
+slow_first_response,L01169,"inbound website_form, first response after 298 min (SLA 60)",327.63
+slow_first_response,L01172,"inbound free_trial, first response after 2472 min (SLA 60)",327.63
+slow_first_response,L01178,"inbound demo_request, first response after 629 min (SLA 60)",327.63
+slow_first_response,L01183,"inbound demo_request, first response after 4193 min (SLA 60)",327.63
+slow_first_response,L01192,"inbound free_trial, first response after 4173 min (SLA 60)",327.63
+slow_first_response,L01196,"inbound demo_request, first response after 3288 min (SLA 60)",327.63
+slow_first_response,L01215,"inbound website_form, first response after 366 min (SLA 60)",327.63
+slow_first_response,L01220,"inbound demo_request, first response after 593 min (SLA 60)",327.63
+slow_first_response,L01221,"inbound website_form, first response after 3015 min (SLA 60)",327.63
+slow_first_response,L01224,"inbound free_trial, first response after 283 min (SLA 60)",327.63
+slow_first_response,L01225,"inbound website_form, first response after 1233 min (SLA 60)",327.63
+slow_first_response,L01227,"inbound content_download, first response after 1113 min (SLA 60)",327.63
+slow_first_response,L01229,"inbound content_download, first response after 252 min (SLA 60)",327.63
+slow_first_response,L01243,"inbound website_form, first response after 1287 min (SLA 60)",327.63
+slow_first_response,L01246,"inbound free_trial, first response after 2338 min (SLA 60)",327.63
+slow_first_response,L01253,"inbound demo_request, first response after 456 min (SLA 60)",327.63
+slow_first_response,L01261,"inbound demo_request, first response after 2476 min (SLA 60)",327.63
+slow_first_response,L01270,"inbound free_trial, first response after 745 min (SLA 60)",327.63
+slow_first_response,L01280,"inbound free_trial, first response after 258 min (SLA 60)",327.63
+slow_first_response,L01281,"inbound content_download, first response after 2293 min (SLA 60)",327.63
+slow_first_response,L01285,"inbound demo_request, first response after 379 min (SLA 60)",327.63
+slow_first_response,L01290,"inbound website_form, first response after 319 min (SLA 60)",327.63
+slow_first_response,L01291,"inbound content_download, first response after 1383 min (SLA 60)",327.63
+slow_first_response,L01293,"inbound free_trial, first response after 3524 min (SLA 60)",327.63
+slow_first_response,L01295,"inbound website_form, first response after 1944 min (SLA 60)",327.63
+slow_first_response,L01302,"inbound content_download, first response after 2537 min (SLA 60)",327.63
+slow_first_response,L01312,"inbound website_form, first response after 320 min (SLA 60)",327.63
+slow_first_response,L01314,"inbound free_trial, first response after 1555 min (SLA 60)",327.63
+slow_first_response,L01323,"inbound website_form, first response after 4320 min (SLA 60)",327.63
+slow_first_response,L01338,"inbound free_trial, first response after 388 min (SLA 60)",327.63
+slow_first_response,L01340,"inbound website_form, first response after 3428 min (SLA 60)",327.63
+slow_first_response,L01341,"inbound website_form, first response after 3359 min (SLA 60)",327.63
+slow_first_response,L01342,"inbound demo_request, first response after 390 min (SLA 60)",327.63
+slow_first_response,L01354,"inbound free_trial, first response after 2322 min (SLA 60)",327.63
+slow_first_response,L01356,"inbound free_trial, first response after 325 min (SLA 60)",327.63
+slow_first_response,L01359,"inbound content_download, first response after 2158 min (SLA 60)",327.63
+slow_first_response,L01362,"inbound free_trial, first response after 1108 min (SLA 60)",327.63
+slow_first_response,L01363,"inbound website_form, first response after 3056 min (SLA 60)",327.63
+slow_first_response,L01377,"inbound demo_request, first response after 3106 min (SLA 60)",327.63
+slow_first_response,L01379,"inbound free_trial, first response after 3720 min (SLA 60)",327.63
+slow_first_response,L01407,"inbound website_form, first response after 255 min (SLA 60)",327.63
+slow_first_response,L01410,"inbound free_trial, first response after 276 min (SLA 60)",327.63
+slow_first_response,L01425,"inbound website_form, first response after 1667 min (SLA 60)",327.63
+slow_first_response,L01428,"inbound website_form, first response after 450 min (SLA 60)",327.63
+slow_first_response,L01429,"inbound demo_request, first response after 2591 min (SLA 60)",327.63
+slow_first_response,L01432,"inbound demo_request, first response after 628 min (SLA 60)",327.63
+slow_first_response,L01457,"inbound free_trial, first response after 872 min (SLA 60)",327.63
+slow_first_response,L01459,"inbound demo_request, first response after 4280 min (SLA 60)",327.63
+slow_first_response,L01462,"inbound demo_request, first response after 692 min (SLA 60)",327.63
+slow_first_response,L01468,"inbound demo_request, first response after 799 min (SLA 60)",327.63
+slow_first_response,L01469,"inbound free_trial, first response after 756 min (SLA 60)",327.63
+slow_first_response,L01474,"inbound website_form, first response after 652 min (SLA 60)",327.63
+slow_first_response,L01488,"inbound free_trial, first response after 1328 min (SLA 60)",327.63
+slow_first_response,L01489,"inbound free_trial, first response after 3569 min (SLA 60)",327.63
+slow_first_response,L01506,"inbound demo_request, first response after 638 min (SLA 60)",327.63
+slow_first_response,L01518,"inbound free_trial, first response after 1112 min (SLA 60)",327.63
+slow_first_response,L01522,"inbound free_trial, first response after 2292 min (SLA 60)",327.63
+slow_first_response,L01543,"inbound content_download, first response after 982 min (SLA 60)",327.63
+slow_first_response,L01549,"inbound demo_request, first response after 999 min (SLA 60)",327.63
+slow_first_response,L01551,"inbound website_form, first response after 2788 min (SLA 60)",327.63
+slow_first_response,L01557,"inbound free_trial, first response after 2621 min (SLA 60)",327.63
+slow_first_response,L01570,"inbound free_trial, first response after 434 min (SLA 60)",327.63
+slow_first_response,L01572,"inbound website_form, first response after 972 min (SLA 60)",327.63
+slow_first_response,L01579,"inbound website_form, first response after 2958 min (SLA 60)",327.63
+slow_first_response,L01585,"inbound website_form, first response after 998 min (SLA 60)",327.63
+slow_first_response,L01586,"inbound free_trial, first response after 535 min (SLA 60)",327.63
+slow_first_response,L01594,"inbound content_download, first response after 2204 min (SLA 60)",327.63
+slow_first_response,L01597,"inbound demo_request, first response after 934 min (SLA 60)",327.63
+slow_first_response,L01623,"inbound content_download, first response after 1777 min (SLA 60)",327.63
+slow_first_response,L01630,"inbound content_download, first response after 2530 min (SLA 60)",327.63
+slow_first_response,L01638,"inbound website_form, first response after 901 min (SLA 60)",327.63
+slow_first_response,L01641,"inbound free_trial, first response after 788 min (SLA 60)",327.63
+slow_first_response,L01659,"inbound website_form, first response after 328 min (SLA 60)",327.63
+slow_first_response,L01666,"inbound free_trial, first response after 2376 min (SLA 60)",327.63
+slow_first_response,L01672,"inbound free_trial, first response after 1480 min (SLA 60)",327.63
+slow_first_response,L01687,"inbound website_form, first response after 632 min (SLA 60)",327.63
+slow_first_response,L01692,"inbound demo_request, first response after 298 min (SLA 60)",327.63
+slow_first_response,L01693,"inbound content_download, first response after 2235 min (SLA 60)",327.63
+slow_first_response,L01702,"inbound free_trial, first response after 794 min (SLA 60)",327.63
+slow_first_response,L01714,"inbound demo_request, first response after 1073 min (SLA 60)",327.63
+slow_first_response,L01715,"inbound website_form, first response after 870 min (SLA 60)",327.63
+slow_first_response,L01716,"inbound website_form, first response after 1100 min (SLA 60)",327.63
+slow_first_response,L01719,"inbound website_form, first response after 2705 min (SLA 60)",327.63
+slow_first_response,L01728,"inbound demo_request, first response after 4218 min (SLA 60)",327.63
+slow_first_response,L01730,"inbound free_trial, first response after 387 min (SLA 60)",327.63
+slow_first_response,L01734,"inbound free_trial, first response after 365 min (SLA 60)",327.63
+slow_first_response,L01735,"inbound demo_request, first response after 611 min (SLA 60)",327.63
+slow_first_response,L01741,"inbound website_form, first response after 449 min (SLA 60)",327.63
+slow_first_response,L01749,"inbound free_trial, first response after 2398 min (SLA 60)",327.63
+slow_first_response,L01752,"inbound website_form, first response after 2270 min (SLA 60)",327.63
+slow_first_response,L01775,"inbound free_trial, first response after 890 min (SLA 60)",327.63
+slow_first_response,L01776,"inbound content_download, first response after 274 min (SLA 60)",327.63
+slow_first_response,L01791,"inbound website_form, first response after 1705 min (SLA 60)",327.63
+slow_first_response,L01794,"inbound website_form, first response after 2126 min (SLA 60)",327.63
+slow_first_response,L01797,"inbound free_trial, first response after 464 min (SLA 60)",327.63
+slow_first_response,L01802,"inbound content_download, first response after 363 min (SLA 60)",327.63
+slow_first_response,L01805,"inbound website_form, first response after 485 min (SLA 60)",327.63
+slow_first_response,L01810,"inbound content_download, first response after 800 min (SLA 60)",327.63
+slow_first_response,L01811,"inbound content_download, first response after 3769 min (SLA 60)",327.63
+slow_first_response,L01821,"inbound website_form, first response after 2720 min (SLA 60)",327.63
+slow_first_response,L01824,"inbound content_download, first response after 579 min (SLA 60)",327.63
+slow_first_response,L01829,"inbound content_download, first response after 664 min (SLA 60)",327.63
+slow_first_response,L01837,"inbound website_form, first response after 373 min (SLA 60)",327.63
+slow_first_response,L01843,"inbound free_trial, first response after 2036 min (SLA 60)",327.63
+slow_first_response,L01852,"inbound content_download, first response after 3052 min (SLA 60)",327.63
+slow_first_response,L01855,"inbound website_form, first response after 992 min (SLA 60)",327.63
+slow_first_response,L01864,"inbound website_form, first response after 2427 min (SLA 60)",327.63
+slow_first_response,L01888,"inbound content_download, first response after 519 min (SLA 60)",327.63
+slow_first_response,L01894,"inbound website_form, first response after 3456 min (SLA 60)",327.63
+slow_first_response,L01895,"inbound content_download, first response after 1130 min (SLA 60)",327.63
+slow_first_response,L01907,"inbound demo_request, first response after 423 min (SLA 60)",327.63
+slow_first_response,L01909,"inbound content_download, first response after 2463 min (SLA 60)",327.63
+weak_rep_proposal_conversion,D0007,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0010,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0020,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0031,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0034,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0057,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0060,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0076,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0083,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0085,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0090,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0121,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0153,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0166,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0170,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0172,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0189,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0195,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0202,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0205,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0210,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0213,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0222,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0225,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0231,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0241,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0271,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0272,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0281,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0295,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0301,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0308,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0310,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0335,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0337,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0348,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0373,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0399,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0409,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0419,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0436,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0439,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0443,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0444,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0471,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0474,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0481,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0494,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0497,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0504,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0536,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0542,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0546,R02 won after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0548,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0555,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0559,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0563,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0571,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0572,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
+weak_rep_proposal_conversion,D0586,R02 lost after proposal; rep wins 18% vs team 54% (z=-4.76),3315.55
