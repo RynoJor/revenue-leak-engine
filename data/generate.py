@@ -783,7 +783,7 @@ def main():
     pd.DataFrame(planted["dupe_pairs"]).sort_values("duplicate_lead_id").to_csv(
         out / "answer_key" / "duplicate_pairs.csv", index=False, lineterminator="\n")
     records.to_csv(out / "answer_key" / "planted_records.csv", index=False, lineterminator="\n")
-    (out / "answer_key" / "leak_summary.json").write_text(json.dumps(key, indent=2) + "\n", encoding="utf-8")
+    (out / "answer_key" / "leak_summary.json").write_text(json.dumps(key, indent=2) + "\n", encoding="utf-8", newline="\n")
 
     table = leak_table_md(key)
     print(table)
