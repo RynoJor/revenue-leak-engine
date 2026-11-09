@@ -1,0 +1,112 @@
+{
+  "train": {
+    "leads": 977,
+    "won": 59,
+    "created_before": "2026-06-01"
+  },
+  "test": {
+    "leads": 594,
+    "won": 42,
+    "created_from": "2026-06-01",
+    "created_before": "2026-09-01"
+  },
+  "features_kept": [
+    "region",
+    "speed"
+  ],
+  "train_cv_auc": 0.579,
+  "l2": 1,
+  "selection_log": [
+    {
+      "kept_so_far": [],
+      "cv_auc_if_added": {
+        "industry": 0.461,
+        "company_size": 0.465,
+        "region": 0.562,
+        "source": 0.491,
+        "speed": 0.547,
+        "replies": 0.486,
+        "positive_reply": 0.479,
+        "opt_out_reply": 0.494,
+        "recent_reply": 0.483
+      }
+    },
+    {
+      "kept_so_far": [
+        "region"
+      ],
+      "cv_auc_if_added": {
+        "industry": 0.531,
+        "company_size": 0.537,
+        "source": 0.54,
+        "speed": 0.579,
+        "replies": 0.551,
+        "positive_reply": 0.555,
+        "opt_out_reply": 0.561,
+        "recent_reply": 0.557
+      }
+    },
+    {
+      "kept_so_far": [
+        "region",
+        "speed"
+      ],
+      "cv_auc_if_added": {
+        "industry": 0.544,
+        "company_size": 0.56,
+        "source": 0.544,
+        "replies": 0.563,
+        "positive_reply": 0.573,
+        "opt_out_reply": 0.577,
+        "recent_reply": 0.573
+      }
+    }
+  ],
+  "test_auc": 0.61,
+  "test_auc_95ci": [
+    0.52,
+    0.69
+  ],
+  "test_auc_all_features_for_comparison": 0.541,
+  "tier_cutoffs_from_train": {
+    "A": 60.58,
+    "B": 48.61,
+    "C": 47.42
+  },
+  "test_tiers": {
+    "A": {
+      "leads": 101,
+      "won": 11,
+      "win_rate": 0.109
+    },
+    "B": {
+      "leads": 317,
+      "won": 25,
+      "win_rate": 0.079
+    },
+    "C": {
+      "leads": 71,
+      "won": 3,
+      "win_rate": 0.042
+    },
+    "D": {
+      "leads": 105,
+      "won": 3,
+      "win_rate": 0.029
+    }
+  },
+  "a_vs_d_lift": 3.81,
+  "base_win_rate_test": 0.071,
+  "points": {
+    "region=APAC": 9.9,
+    "region=EMEA": 0.2,
+    "region=LATAM": 7.2,
+    "region=North America": -5.0,
+    "region=Unknown": -10.0,
+    "speed=15_60m": 2.4,
+    "speed=1h_1d": -13.4,
+    "speed=never": -23.2,
+    "speed=over_1d": -14.5,
+    "speed=under_15m": 3.6
+  }
+}
