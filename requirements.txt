@@ -6,3 +6,6 @@ streamlit>=1.40
 plotly>=5.24
 anthropic>=0.40
 python-dotenv>=1.0
+
+# tests
+pytest>=8.0

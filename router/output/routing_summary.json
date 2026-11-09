@@ -1,0 +1,21 @@
+{
+  "leads_replayed": 50,
+  "routed": 49,
+  "rejected": 1,
+  "dedupe_hits": 4,
+  "over_capacity": 0,
+  "routing_ms_median": 7.99,
+  "routing_ms_max": 11.3,
+  "historical_first_response_minutes_median": 13.0,
+  "historical_responded": 48,
+  "historical_over_60_min": 9,
+  "historical_never_responded": 2,
+  "assigned_by_rep": {
+    "R01": 10,
+    "R02": 8,
+    "R03": 8,
+    "R04": 6,
+    "R05": 6,
+    "R06": 11
+  }
+}

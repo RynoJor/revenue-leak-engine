@@ -1,0 +1,51 @@
+lead_id,assigned_rep,score,total_ms,validate_ms,dedupe_ms,enrich_ms,score_ms,assign_ms,alert_ms,dedupe_hit,flags,status,region,dedupe_match,assign_reason,historical_owner_rep_id,historical_first_response_minutes
+L00290,R01,75,11.3,0.042,10.477,0.668,0.024,0.067,0.022,False,,routed,North America,,round_robin,R01,3371
+L01355,R05,20,9.496,0.02,9.384,0.017,0.008,0.052,0.015,False,public_email_domain,routed,APAC,,round_robin,R05,3
+L00624,R02,30,11.093,0.01,11.0,0.013,0.006,0.048,0.015,False,public_email_domain,routed,North America,,round_robin,R02,10
+L01070,R03,95,5.62,0.015,5.456,0.089,0.006,0.042,0.012,False,,routed,EMEA,,round_robin,R03,6
+L00055,R04,85,9.528,0.012,9.396,0.066,0.006,0.037,0.012,False,,routed,EMEA,,round_robin,R03,4
+L00091,R01,80,7.324,0.012,7.209,0.057,0.006,0.03,0.009,False,,routed,North America,,round_robin,R01,35
+L01855,R03,70,8.78,0.011,8.58,0.09,0.009,0.058,0.032,False,,routed,EMEA,,round_robin,R04,992
+L01540,R02,70,8.529,0.021,8.389,0.065,0.006,0.036,0.011,False,,routed,North America,,round_robin,R02,6
+L00065,R06,90,7.306,0.01,7.188,0.057,0.005,0.035,0.01,False,,routed,LATAM,,round_robin,R06,4
+L00378,R01,55,8.302,0.013,8.191,0.053,0.005,0.031,0.009,False,,routed,North America,,round_robin,R01,973
+L01399,R02,65,8.349,0.01,8.22,0.057,0.005,0.048,0.009,False,,routed,North America,,round_robin,R01,16
+L00818,R05,95,7.443,0.011,7.294,0.079,0.007,0.041,0.013,False,,routed,APAC,,round_robin,R05,7
+L00680,R01,85,8.821,0.011,8.698,0.059,0.006,0.038,0.01,False,,routed,North America,,round_robin,R01,39
+L01560,R02,95,7.988,0.011,7.895,0.044,0.004,0.026,0.008,False,,routed,North America,,round_robin,R02,
+L00409,R04,90,8.304,0.009,8.188,0.056,0.006,0.035,0.01,False,,routed,EMEA,,round_robin,R04,19
+L00435,,,0.011,0.011,,,,,,False,missing_email,rejected,North America,,,R02,4
+L01349,R01,70,7.33,0.008,7.226,0.05,0.005,0.031,0.009,False,,routed,North America,,round_robin,R01,10
+L00174,R06,45,9.075,0.011,8.958,0.057,0.005,0.034,0.009,False,,routed,LATAM,,round_robin,R06,13
+L01656,R02,85,6.508,0.01,6.393,0.057,0.004,0.03,0.013,False,,routed,North America,,round_robin,R01,31
+L01637,R01,95,8.279,0.01,8.173,0.051,0.005,0.03,0.009,False,,routed,North America,,round_robin,R01,13
+L01073,R05,55,8.454,0.009,8.335,0.057,0.005,0.03,0.018,False,,routed,APAC,,round_robin,R05,7
+L00126,R03,85,6.923,0.009,6.831,0.046,0.004,0.026,0.008,False,,routed,EMEA,,round_robin,R03,1802
+L01695,R04,85,8.574,0.008,8.435,0.072,0.006,0.04,0.012,False,,routed,EMEA,,round_robin,R04,7
+L00351,R05,80,8.306,0.009,8.206,0.045,0.005,0.031,0.008,False,,routed,APAC,,round_robin,R05,
+L01174,R03,30,7.805,0.01,7.697,0.017,0.01,0.057,0.015,False,public_email_domain,routed,EMEA,,round_robin,R03,8
+L01794,R02,75,7.336,0.013,7.233,0.05,0.004,0.028,0.008,False,,routed,North America,,round_robin,R02,2126
+L00164,R06,90,7.819,0.01,7.684,0.057,0.005,0.035,0.028,False,,routed,LATAM,,round_robin,R06,18
+L00205,R04,35,7.937,0.01,7.854,0.014,0.006,0.039,0.014,False,public_email_domain,routed,EMEA,,round_robin,R04,290
+L01416,R03,85,6.733,0.017,6.606,0.067,0.005,0.029,0.009,False,,routed,EMEA,,round_robin,R03,6
+L01802,R01,70,8.405,0.011,8.272,0.056,0.005,0.051,0.01,False,,routed,North America,,round_robin,R01,363
+L00650,R02,100,8.157,0.01,8.055,0.048,0.006,0.028,0.009,False,,routed,North America,,round_robin,R01,287
+L01425,R06,55,5.754,0.011,5.66,0.046,0.004,0.026,0.008,False,,routed,LATAM,,round_robin,R06,1667
+L01846,R06,65,7.136,0.01,7.04,0.048,0.004,0.026,0.008,False,,routed,LATAM,,round_robin,R06,3
+L01236,R06,70,8.566,0.013,8.444,0.056,0.006,0.036,0.011,False,,routed,LATAM,,round_robin,R06,14
+L00133,R04,70,7.212,0.01,7.119,0.044,0.005,0.026,0.008,False,,routed,EMEA,,round_robin,R04,11
+L01297,R06,20,8.234,0.011,8.162,0.01,0.006,0.036,0.009,False,public_email_domain,routed,LATAM,,round_robin,R06,14
+L00713,R06,70,8.484,0.009,8.329,0.075,0.006,0.044,0.022,False,,routed,LATAM,,round_robin,R06,6
+L00278,R03,80,9.4,0.012,9.295,0.049,0.005,0.03,0.009,False,,routed,EMEA,,round_robin,R04,45
+L00909,R01,95,7.582,0.011,7.466,0.059,0.005,0.031,0.01,False,,routed,North America,,round_robin,R01,15
+L01649,R05,80,8.194,0.011,8.087,0.051,0.004,0.031,0.009,False,,routed,APAC,,round_robin,R05,13
+L00176,R06,75,5.416,0.011,5.281,0.061,0.007,0.042,0.014,False,,routed,LATAM,,round_robin,R06,4
+L00870,R06,70,9.106,0.012,8.982,0.059,0.006,0.037,0.01,False,,routed,LATAM,,round_robin,R06,8
+L01930,R02,60,0.055,0.012,0.005,0.016,0.003,0.013,0.006,True,duplicate_contact,routed,North America,email:L00481,existing owner (email match),R01,25
+L01484,R04,95,8.395,0.005,8.271,0.057,0.006,0.036,0.021,False,,routed,EMEA,,round_robin,R04,2
+L01722,R01,90,5.851,0.014,5.75,0.048,0.004,0.028,0.007,False,,routed,North America,,round_robin (skipped 1 at capacity),R01,6
+L00604,R05,35,6.5,0.01,6.427,0.009,0.006,0.036,0.011,False,public_email_domain,routed,APAC,,round_robin,R05,5
+L01671,R03,80,7.043,0.012,6.848,0.109,0.01,0.054,0.01,False,,routed,EMEA,,round_robin,R04,14
+L01961,R06,80,0.058,0.011,0.01,0.016,0.003,0.012,0.006,True,known_account,routed,LATAM,company:L00956,existing owner (company match),R06,33
+L01970,R03,30,0.028,0.005,0.004,0.002,0.003,0.009,0.005,True,duplicate_contact;public_email_domain,routed,EMEA,email:L01140,existing owner (email match),R04,8
+L01991,R01,75,0.037,0.004,0.002,0.014,0.003,0.009,0.005,True,duplicate_contact,routed,North America,email:L01567,existing owner (email match),R01,17
