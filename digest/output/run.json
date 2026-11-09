@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-10-31",
+  "model_requested": "claude-sonnet-5-5",
+  "calls": [
+    {
+      "model": "claude-sonnet-5-5",
+      "input_tokens": 3056,
+      "output_tokens": 553,
+      "request_id": "req_011Cgs7MRuVhrN4uDdLYaE3V"
+    }
+  ],
+  "input_tokens": 3056,
+  "output_tokens": 553,
+  "cost_usd": 0.0116,
+  "price_basis": "$2.0/M input, $10.0/M output (claude-sonnet-5-5)",
+  "attempts": [
+    {
+      "attempt": 1,
+      "passed": true,
+      "numbers_checked": 40,
+      "words": 242,
+      "errors": []
+    }
+  ]
+}
