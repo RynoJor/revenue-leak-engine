@@ -1,0 +1,147 @@
+{
+  "summary": {
+    "as_of": "2026-10-31",
+    "seed": 42,
+    "rows": {
+      "reps": 6,
+      "leads": 2000,
+      "deals": 600,
+      "replies": 1500
+    },
+    "average_won_amount_usd": 9414.22,
+    "value_per_worked_lead_usd": 559.21,
+    "won_deals": 109,
+    "won_usd": 1026150.0,
+    "open_pipeline_usd": 1005250.0,
+    "reply_labels": {
+      "interested": 441,
+      "not_now": 400,
+      "out_of_office": 312,
+      "referral": 142,
+      "unsubscribe": 205
+    },
+    "total_leak_usd": 881884.49
+  },
+  "leaks": [
+    {
+      "id": "stalled_proposals",
+      "name": "Deals stalled at proposal",
+      "entity": "deals",
+      "count": 40,
+      "usd": 454200.0,
+      "usd_basis": "measured",
+      "definition": "stage == 'proposal' and days from last_activity_date to 2026-10-31 >= 30",
+      "usd_formula": "sum(amount_usd) of those deals (pipeline at risk)"
+    },
+    {
+      "id": "slow_first_response",
+      "name": "Slow first response on inbound leads",
+      "entity": "leads",
+      "count": 260,
+      "usd": 85184.18,
+      "usd_basis": "estimated",
+      "definition": "channel == 'inbound' and first_response_minutes > 60",
+      "usd_formula": "closed slow-lead deals x (fast win rate - slow win rate) x average won amount",
+      "detail": {
+        "slow_closed_deals": 61,
+        "slow_won": 6,
+        "slow_win_rate": 0.1,
+        "fast_closed_deals": 227,
+        "fast_won": 56,
+        "fast_win_rate": 0.25,
+        "excess_lost_deals": 9.05
+      }
+    },
+    {
+      "id": "duplicate_leads",
+      "name": "Duplicate leads (exact + fuzzy)",
+      "entity": "leads",
+      "count": 90,
+      "usd": 84850.0,
+      "usd_basis": "measured",
+      "definition": "a later lead row for the same person at the same company; pairs in answer_key/duplicate_pairs.csv",
+      "usd_formula": "sum(amount_usd) of open deals opened on a duplicate lead (pipeline counted twice)",
+      "detail": {
+        "exact": 40,
+        "fuzzy": 50,
+        "duplicate_deals": 12
+      }
+    },
+    {
+      "id": "missing_required_fields",
+      "name": "Leads missing a required field",
+      "entity": "leads",
+      "count": 100,
+      "usd": 16776.29,
+      "usd_basis": "estimated",
+      "definition": "any of company, contact_name, email, industry, company_size, region, source, owner_rep_id is empty",
+      "usd_formula": "leads missing email (cannot be worked) x value per worked lead; other fields are a routing/reporting cost, valued at $0",
+      "detail": {
+        "by_field": {
+          "email": 30,
+          "industry": 25,
+          "company_size": 25,
+          "region": 20
+        }
+      }
+    },
+    {
+      "id": "never_followed_up",
+      "name": "Leads never followed up",
+      "entity": "leads",
+      "count": 75,
+      "usd": 41940.74,
+      "usd_basis": "estimated",
+      "definition": "first_response_at is empty (all are inbound and at least 7 days old)",
+      "usd_formula": "count x value per worked lead"
+    },
+    {
+      "id": "weak_rep_proposal_conversion",
+      "name": "Rep R02 proposal-to-won rate",
+      "entity": "deals",
+      "count": 60,
+      "usd": 198933.28,
+      "usd_basis": "estimated",
+      "definition": "closed deals that reached proposal, owned by the rep; rate = won / closed",
+      "usd_formula": "rep's closed post-proposal deals x (other reps' rate - rep's rate) x average won amount",
+      "detail": {
+        "rep_id": "R02",
+        "rep_won": 11,
+        "rep_rate": 0.18,
+        "other_reps_rate": 0.54,
+        "by_rep": {
+          "R01": {
+            "won": 27,
+            "closed": 48,
+            "rate": 0.56
+          },
+          "R02": {
+            "won": 11,
+            "closed": 60,
+            "rate": 0.18
+          },
+          "R03": {
+            "won": 11,
+            "closed": 34,
+            "rate": 0.32
+          },
+          "R04": {
+            "won": 18,
+            "closed": 38,
+            "rate": 0.47
+          },
+          "R05": {
+            "won": 25,
+            "closed": 35,
+            "rate": 0.71
+          },
+          "R06": {
+            "won": 17,
+            "closed": 28,
+            "rate": 0.61
+          }
+        }
+      }
+    }
+  ]
+}

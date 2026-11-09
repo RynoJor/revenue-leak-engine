@@ -1,0 +1,601 @@
+deal_id,lead_id,company,owner_rep_id,region,amount_usd,stage,is_closed,is_won,qualified_date,demo_date,proposal_date,negotiation_date,closed_date,last_activity_date,lost_reason,lost_at_stage
+D0001,L00001,Sagepoint Properties LLC,R03,EMEA,10150,lost,True,False,2026-07-21,2026-07-30,2026-08-05,,2026-08-22,2026-08-22,Went with a competitor,proposal
+D0002,L00003,Oakstone Homes,R01,North America,8350,proposal,False,False,2026-03-06,2026-03-16,2026-03-27,,,2026-04-29,,
+D0003,L00007,Blueton Consulting Co.,R05,APAC,5400,won,True,True,2026-08-23,2026-09-02,2026-09-06,2026-09-18,2026-09-28,2026-09-28,,
+D0004,L00008,Cobaltview Coffee,R01,North America,4050,lost,True,False,2026-08-24,,,,2026-08-28,2026-08-28,Not a fit,qualified
+D0005,L00014,Baywind Legal LLC,R01,North America,5800,lost,True,False,2026-08-16,2026-08-19,2026-08-29,2026-09-09,2026-09-19,2026-09-19,Price,negotiation
+D0006,L00020,Pinelight Accounting,R02,North America,8750,lost,True,False,2026-08-21,,,,2026-08-26,2026-08-26,No budget,qualified
+D0007,L00026,Summitwind Coffee,R02,North America,2450,won,True,True,2026-04-30,2026-05-08,2026-05-13,2026-05-22,2026-06-07,2026-06-07,,
+D0008,L00030,Dunespring Catering Co.,R02,North America,6050,lost,True,False,2026-09-09,,,,2026-09-18,2026-09-18,No budget,qualified
+D0009,L00031,Willowline Barbers,R05,APAC,6950,demo,False,False,2026-10-20,2026-10-30,,,,2026-10-30,,
+D0010,L00033,Wrenford Consulting Co.,R02,North America,3250,lost,True,False,2026-07-02,2026-07-13,2026-07-22,2026-08-08,2026-08-18,2026-08-18,Legal / procurement,negotiation
+D0011,L00035,Copperford Fitness,R06,LATAM,5300,won,True,True,2026-09-09,2026-09-20,2026-09-28,2026-10-08,2026-10-19,2026-10-19,,
+D0012,L00038,Cedarcrest Catering LLC,R01,North America,15700,qualified,False,False,2026-10-25,,,,,2026-10-29,,
+D0013,L00040,Aspenline Clinic,R05,APAC,16400,won,True,True,2026-05-28,2026-06-04,2026-06-17,2026-07-02,2026-07-14,2026-07-14,,
+D0014,L00044,Aspenworth Auto LLC,R02,North America,9500,lost,True,False,2026-10-16,,,,2026-10-23,2026-10-23,No budget,qualified
+D0015,L00048,Aspencrest Design Co.,R04,EMEA,14500,won,True,True,2026-08-10,2026-08-14,2026-08-28,2026-09-12,2026-09-18,2026-09-18,,
+D0016,L00052,Hollowvale Homes Co.,R01,North America,8450,lost,True,False,2026-03-02,2026-03-14,,,2026-03-18,2026-03-18,Went with a competitor,demo
+D0017,L00053,Millcrest Dental LLC,R01,North America,8400,lost,True,False,2026-02-10,2026-02-15,,,2026-02-21,2026-02-21,No budget,demo
+D0018,L00054,Thistlewind Accounting LLC,R04,EMEA,10600,lost,True,False,2026-07-10,2026-07-21,2026-07-28,,2026-08-04,2026-08-04,No decision,proposal
+D0019,L00055,Ambermore Catering,R03,EMEA,10100,demo,False,False,2026-10-23,2026-10-26,,,,2026-10-28,,
+D0020,L00057,Stonevale Fitness,R02,North America,2950,lost,True,False,2026-07-04,2026-07-13,2026-07-27,,2026-08-08,2026-08-08,Went with a competitor,proposal
+D0021,L00060,Fernton Salon,R06,LATAM,11000,won,True,True,2026-06-24,2026-07-06,2026-07-21,2026-08-01,2026-08-19,2026-08-19,,
+D0022,L00063,Quillmore Goods,R02,North America,2400,demo,False,False,2026-10-24,2026-10-28,,,,2026-10-30,,
+D0023,L00064,Larkwell Clinic Inc.,R04,EMEA,2800,won,True,True,2026-09-10,2026-09-22,2026-09-28,2026-10-03,2026-10-17,2026-10-17,,
+D0024,L00071,Sunlight Learning,R05,APAC,3750,lost,True,False,2026-07-12,,,,2026-07-18,2026-07-18,No decision,qualified
+D0025,L00080,Larkwick Pharmacy Co.,R01,North America,33050,lost,True,False,2026-04-14,2026-04-22,2026-04-26,,2026-05-06,2026-05-06,Went with a competitor,proposal
+D0026,L00082,Fernmore Yoga,R01,North America,3650,proposal,False,False,2026-04-15,2026-04-26,2026-05-05,,,2026-05-14,,
+D0027,L00084,Cedarpoint Boutique,R03,EMEA,15350,lost,True,False,2026-03-03,2026-03-11,,,2026-03-16,2026-03-16,Missing feature,demo
+D0028,L00085,Wrenwind Learning Co.,R06,LATAM,1850,lost,True,False,2026-02-27,2026-03-06,,,2026-03-21,2026-03-21,Missing feature,demo
+D0029,L00088,Oakspring Physio LLC,R01,North America,3250,won,True,True,2026-06-14,2026-06-21,2026-07-05,2026-07-11,2026-07-28,2026-07-28,,
+D0030,L00093,Millworth Design LLC,R04,EMEA,5750,lost,True,False,2026-02-17,2026-02-21,2026-03-04,2026-03-11,2026-03-17,2026-03-17,Timing,negotiation
+D0031,L00095,Coralwick Bakery LLC,R02,North America,15650,lost,True,False,2026-02-05,2026-02-15,2026-02-26,,2026-03-05,2026-03-05,No decision,proposal
+D0032,L00099,Meadowspring Gym Inc.,R01,North America,10000,won,True,True,2026-08-12,2026-08-20,2026-08-25,2026-09-06,2026-09-18,2026-09-18,,
+D0033,L00102,Quillbridge Wellness Co.,R01,North America,7400,qualified,False,False,2026-10-26,,,,,2026-10-29,,
+D0034,L00111,Amberdale Guesthouse,R02,North America,25050,lost,True,False,2026-04-08,2026-04-13,2026-04-28,2026-05-17,2026-05-28,2026-05-28,Legal / procurement,negotiation
+D0035,L00113,Aspendale Athletics,R01,North America,3550,lost,True,False,2026-02-16,,,,2026-02-21,2026-02-21,No budget,qualified
+D0036,L00116,Duneview Boutique Co.,R04,EMEA,4100,lost,True,False,2026-09-30,,,,2026-10-09,2026-10-09,No budget,qualified
+D0037,L00119,Canyonfield Auto,R05,APAC,3600,won,True,True,2026-01-14,2026-01-22,2026-02-03,2026-02-19,2026-02-25,2026-02-25,,
+D0038,L00121,Dunefield Salon,R03,EMEA,4200,won,True,True,2026-09-18,2026-09-28,2026-10-06,2026-10-12,2026-10-17,2026-10-17,,
+D0039,L00128,Crestworth Barbers LLC,R05,APAC,5000,lost,True,False,2026-05-30,2026-06-09,,,2026-06-23,2026-06-23,Went with a competitor,demo
+D0040,L00138,Rivervale Legal LLC,R03,EMEA,6500,lost,True,False,2026-01-11,2026-01-16,2026-01-20,2026-01-25,2026-02-08,2026-02-08,Legal / procurement,negotiation
+D0041,L00139,Emberfield Legal,R06,LATAM,13050,lost,True,False,2026-03-24,2026-04-02,2026-04-16,,2026-05-02,2026-05-02,No decision,proposal
+D0042,L00140,Lindenwood Coffee LLC,R05,APAC,9350,won,True,True,2026-07-11,2026-07-20,2026-07-29,2026-08-13,2026-08-23,2026-08-23,,
+D0043,L00144,Oakstone Tires,R05,APAC,9850,lost,True,False,2026-08-06,2026-08-17,,,2026-08-23,2026-08-23,Missing feature,demo
+D0044,L00149,Maplerock Supply,R03,EMEA,10750,lost,True,False,2026-01-28,2026-02-08,,,2026-02-18,2026-02-18,Went with a competitor,demo
+D0045,L00150,Brookgate Supply,R03,EMEA,8700,proposal,False,False,2026-07-01,2026-07-10,2026-07-16,,,2026-09-07,,
+D0046,L00153,Emberbridge Legal,R01,North America,2450,demo,False,False,2026-10-26,2026-10-31,,,,2026-10-31,,
+D0047,L00155,Emberton Academy Co.,R01,North America,2350,lost,True,False,2026-09-13,2026-09-17,,,2026-09-21,2026-09-21,Went with a competitor,demo
+D0048,L00156,Pinebridge Inn,R01,North America,5000,won,True,True,2026-08-23,2026-08-29,2026-09-10,2026-09-23,2026-10-07,2026-10-07,,
+D0049,L00158,Sunwind Dental,R04,EMEA,40500,lost,True,False,2026-02-06,2026-02-14,,,2026-02-19,2026-02-19,No decision,demo
+D0050,L00159,Flintleaf Motors,R01,North America,3150,won,True,True,2026-07-30,2026-08-04,2026-08-11,2026-08-22,2026-09-02,2026-09-02,,
+D0051,L00165,Juniperwell Tutoring LLC,R05,APAC,5800,won,True,True,2026-02-16,2026-02-20,2026-03-01,2026-03-14,2026-03-27,2026-03-27,,
+D0052,L00166,Duneview Tutoring,R03,EMEA,4250,lost,True,False,2026-03-08,2026-03-13,,,2026-03-21,2026-03-21,Went with a competitor,demo
+D0053,L00170,Emberstone Consulting,R01,North America,7350,proposal,False,False,2026-04-26,2026-05-07,2026-05-21,,,2026-07-24,,
+D0054,L00175,Sageworth Design Inc.,R01,North America,6500,won,True,True,2026-04-20,2026-04-25,2026-05-06,2026-05-19,2026-05-29,2026-05-29,,
+D0055,L00177,Riverside Realty,R03,EMEA,11800,proposal,False,False,2026-10-16,2026-10-26,2026-10-30,,,2026-10-30,,
+D0056,L00180,Lindengate Outfitters Co.,R04,EMEA,16900,lost,True,False,2026-04-02,2026-04-09,,,2026-04-18,2026-04-18,No budget,demo
+D0057,L00181,Meadowrock Auto,R02,North America,4750,lost,True,False,2026-04-30,2026-05-03,2026-05-15,,2026-05-23,2026-05-23,No decision,proposal
+D0058,L00185,Fernvale Yoga,R03,EMEA,16200,lost,True,False,2026-10-05,2026-10-11,,,2026-10-21,2026-10-21,Missing feature,demo
+D0059,L00192,Hollowworth Accounting LLC,R02,North America,1800,lost,True,False,2026-10-21,,,,2026-10-28,2026-10-28,No decision,qualified
+D0060,L00196,Elmton Clinic,R02,North America,3150,lost,True,False,2026-08-27,2026-09-04,2026-09-08,,2026-09-16,2026-09-16,Price,proposal
+D0061,L00206,Quillcrest Barbers,R01,North America,7750,won,True,True,2026-04-27,2026-05-03,2026-05-11,2026-05-25,2026-06-06,2026-06-06,,
+D0062,L00211,Meadowgate Barbers,R01,North America,3400,won,True,True,2026-06-10,2026-06-13,2026-06-20,2026-07-01,2026-07-09,2026-07-09,,
+D0063,L00218,Birchbrook Salon,R01,North America,7400,proposal,False,False,2026-06-09,2026-06-20,2026-06-28,,,2026-08-17,,
+D0064,L00220,Amberstone Goods LLC,R02,North America,5700,lost,True,False,2026-02-23,,,,2026-03-04,2026-03-04,Not a fit,qualified
+D0065,L00224,Brookworth Motors LLC,R01,North America,13750,lost,True,False,2026-03-12,2026-03-22,2026-03-30,,2026-04-15,2026-04-15,Went with a competitor,proposal
+D0066,L00231,Silverdale Goods,R06,LATAM,9300,lost,True,False,2026-04-23,2026-04-26,2026-05-08,,2026-05-26,2026-05-26,Timing,proposal
+D0067,L00233,Quillford Lodge Co.,R04,EMEA,12450,lost,True,False,2026-09-07,2026-09-12,2026-09-19,,2026-09-24,2026-09-24,Timing,proposal
+D0068,L00234,Clearpoint Motors LLC,R03,EMEA,6550,lost,True,False,2026-10-16,,,,2026-10-22,2026-10-22,No decision,qualified
+D0069,L00235,Summitleaf Coffee,R01,North America,23450,won,True,True,2026-06-09,2026-06-20,2026-07-03,2026-07-23,2026-08-03,2026-08-03,,
+D0070,L00236,Redton Barbers,R04,EMEA,5750,lost,True,False,2026-03-31,,,,2026-04-09,2026-04-09,Not a fit,qualified
+D0071,L00241,Aspenspring Market,R04,EMEA,29100,proposal,False,False,2026-02-08,2026-02-19,2026-03-02,,,2026-04-12,,
+D0072,L00242,Orchidspring Boutique,R04,EMEA,10550,lost,True,False,2026-08-10,,,,2026-08-19,2026-08-19,Not a fit,qualified
+D0073,L00244,Glenwind Catering Inc.,R05,APAC,4850,negotiation,False,False,2026-09-17,2026-09-29,2026-10-04,2026-10-18,,2026-10-23,,
+D0074,L00250,Sunton Lodge LLC,R01,North America,12850,lost,True,False,2026-05-30,2026-06-08,2026-06-14,,2026-06-30,2026-06-30,Timing,proposal
+D0075,L00252,Harborview Yoga LLC,R04,EMEA,6600,won,True,True,2026-03-09,2026-03-21,2026-03-30,2026-04-16,2026-05-04,2026-05-04,,
+D0076,L00253,Oakline Auto,R02,North America,5100,lost,True,False,2026-02-28,2026-03-07,2026-03-15,2026-03-24,2026-04-03,2026-04-03,Went with a competitor,negotiation
+D0077,L00254,Crestspring Accounting,R03,EMEA,18550,proposal,False,False,2026-06-13,2026-06-20,2026-07-04,,,2026-07-23,,
+D0078,L00259,Brightmore Physio,R04,EMEA,4950,lost,True,False,2026-04-13,2026-04-16,2026-04-23,2026-05-13,2026-05-28,2026-05-28,Price,negotiation
+D0079,L00261,Harborvale Homes Inc.,R03,EMEA,11950,proposal,False,False,2026-07-26,2026-08-06,2026-08-14,,,2026-08-25,,
+D0080,L00262,Duneside Guesthouse,R03,EMEA,8500,lost,True,False,2026-07-24,,,,2026-08-04,2026-08-04,No budget,qualified
+D0081,L00264,Pinewick Tutoring,R02,North America,9150,proposal,False,False,2026-10-08,2026-10-18,2026-10-28,,,2026-10-29,,
+D0082,L00268,Thistlelight Catering,R03,EMEA,7750,lost,True,False,2026-02-15,,,,2026-02-22,2026-02-22,Not a fit,qualified
+D0083,L00270,Goldenbridge Coffee,R02,North America,21400,lost,True,False,2026-05-18,2026-05-29,2026-06-13,,2026-06-23,2026-06-23,Went with a competitor,proposal
+D0084,L00271,Canyondale Bakery Co.,R04,EMEA,5400,won,True,True,2026-04-19,2026-04-25,2026-04-30,2026-05-11,2026-05-16,2026-05-16,,
+D0085,L00272,Brookworth Consulting,R02,North America,5250,lost,True,False,2026-06-09,2026-06-15,2026-06-29,,2026-07-09,2026-07-09,No decision,proposal
+D0086,L00274,Flintside Properties,R02,North America,1550,lost,True,False,2026-02-19,,,,2026-03-03,2026-03-03,Not a fit,qualified
+D0087,L00283,Emberside Goods LLC,R05,APAC,1850,won,True,True,2026-08-14,2026-08-20,2026-08-24,2026-09-09,2026-09-27,2026-09-27,,
+D0088,L00284,Willowlight Homes,R01,North America,3700,demo,False,False,2026-10-14,2026-10-22,,,,2026-10-25,,
+D0089,L00294,Sagedale Lodge LLC,R06,LATAM,8350,lost,True,False,2026-06-19,2026-06-27,,,2026-07-07,2026-07-07,No budget,demo
+D0090,L00296,Stoneside Motors LLC,R02,North America,8350,lost,True,False,2026-08-04,2026-08-14,2026-08-19,,2026-08-29,2026-08-29,Went with a competitor,proposal
+D0091,L00297,Slatepoint Consulting,R06,LATAM,1250,negotiation,False,False,2026-09-18,2026-09-29,2026-10-04,2026-10-21,,2026-10-29,,
+D0092,L00299,Harborfield Barbers,R05,APAC,5250,lost,True,False,2026-05-20,,,,2026-06-01,2026-06-01,No budget,qualified
+D0093,L00303,Glenworth Coffee Inc.,R05,APAC,9150,won,True,True,2026-09-13,2026-09-24,2026-09-28,2026-10-04,2026-10-12,2026-10-12,,
+D0094,L00304,Stonewick Yoga LLC,R01,North America,20150,proposal,False,False,2026-10-07,2026-10-14,2026-10-26,,,2026-10-29,,
+D0095,L00306,Larkworth Outfitters Co.,R03,EMEA,4800,won,True,True,2026-08-31,2026-09-10,2026-09-22,2026-10-02,2026-10-17,2026-10-17,,
+D0096,L00309,Wrenside Gym Inc.,R06,LATAM,4100,lost,True,False,2026-07-16,2026-07-28,,,2026-08-05,2026-08-05,Missing feature,demo
+D0097,L00311,Hollowspring Realty,R03,EMEA,6950,lost,True,False,2026-09-01,2026-09-10,2026-09-19,2026-10-07,2026-10-15,2026-10-15,Price,negotiation
+D0098,L00312,Thistledale Physio LLC,R04,EMEA,7200,won,True,True,2026-06-15,2026-06-23,2026-07-06,2026-07-16,2026-08-01,2026-08-01,,
+D0099,L00320,Bluehaven Realty Co.,R01,North America,6000,lost,True,False,2026-02-17,,,,2026-02-20,2026-02-20,Not a fit,qualified
+D0100,L00321,Meadowwood Barbers,R04,EMEA,5100,proposal,False,False,2026-04-25,2026-04-30,2026-05-04,,,2026-08-09,,
+D0101,L00323,Willowbridge Salon Inc.,R06,LATAM,15650,lost,True,False,2026-02-10,,,,2026-02-13,2026-02-13,No decision,qualified
+D0102,L00324,Hollowwood Dental LLC,R03,EMEA,3850,demo,False,False,2026-10-13,2026-10-24,,,,2026-10-27,,
+D0103,L00337,Harborview Wellness,R01,North America,6700,lost,True,False,2026-04-21,,,,2026-04-27,2026-04-27,Not a fit,qualified
+D0104,L00343,Flintcrest Salon LLC,R01,North America,4400,proposal,False,False,2026-02-19,2026-02-24,2026-03-11,,,2026-09-27,,
+D0105,L00344,Summitview Pharmacy LLC,R04,EMEA,2550,demo,False,False,2026-10-15,2026-10-18,,,,2026-10-27,,
+D0106,L00349,Brookleaf Spa,R01,North America,3650,lost,True,False,2026-08-21,2026-09-02,,,2026-09-13,2026-09-13,No decision,demo
+D0107,L00354,Elmwood Coffee,R03,EMEA,10950,lost,True,False,2026-06-04,2026-06-10,,,2026-06-15,2026-06-15,Missing feature,demo
+D0108,L00360,Brookdale Tutoring Inc.,R02,North America,5400,lost,True,False,2026-10-10,,,,2026-10-21,2026-10-21,No decision,qualified
+D0109,L00362,Hazelwind Gym,R04,EMEA,2150,lost,True,False,2026-09-06,2026-09-13,,,2026-09-25,2026-09-25,No budget,demo
+D0110,L00365,Sageside Market,R04,EMEA,4200,lost,True,False,2026-04-16,,,,2026-04-21,2026-04-21,No budget,qualified
+D0111,L00371,Orchidwood Legal LLC,R03,EMEA,17200,lost,True,False,2026-06-17,2026-06-23,2026-07-08,,2026-07-22,2026-07-22,Price,proposal
+D0112,L00373,Orchidhaven Properties Inc.,R02,North America,49450,lost,True,False,2026-04-24,2026-05-01,,,2026-05-15,2026-05-15,Went with a competitor,demo
+D0113,L00375,Brookview Inn LLC,R04,EMEA,22550,won,True,True,2026-07-04,2026-07-12,2026-07-20,2026-07-31,2026-08-11,2026-08-11,,
+D0114,L00377,Brightfield Physio Co.,R04,EMEA,5000,lost,True,False,2026-06-12,,,,2026-06-24,2026-06-24,No decision,qualified
+D0115,L00379,Emberside Homes,R03,EMEA,5250,lost,True,False,2026-07-12,2026-07-23,,,2026-08-02,2026-08-02,No budget,demo
+D0116,L00380,Canyonleaf Physio,R01,North America,2050,lost,True,False,2026-08-14,2026-08-17,2026-08-23,,2026-09-05,2026-09-05,No decision,proposal
+D0117,L00388,Mapledale Wellness LLC,R04,EMEA,12300,won,True,True,2026-02-05,2026-02-09,2026-02-13,2026-02-20,2026-03-08,2026-03-08,,
+D0118,L00389,Coralspring Advisors,R03,EMEA,5950,lost,True,False,2026-08-01,2026-08-08,,,2026-08-16,2026-08-16,Went with a competitor,demo
+D0119,L00395,Mapleview Pharmacy Inc.,R01,North America,4850,lost,True,False,2026-06-24,,,,2026-06-27,2026-06-27,No budget,qualified
+D0120,L00397,Harborcrest Boutique Co.,R01,North America,7400,lost,True,False,2026-08-07,2026-08-13,2026-08-23,,2026-08-29,2026-08-29,Price,proposal
+D0121,L00398,Graniteleaf Goods,R02,North America,14850,lost,True,False,2026-02-16,2026-02-24,2026-03-11,2026-03-20,2026-04-03,2026-04-03,Price,negotiation
+D0122,L00400,Willowline Design Inc.,R03,EMEA,3650,won,True,True,2026-08-01,2026-08-13,2026-08-20,2026-08-27,2026-09-04,2026-09-04,,
+D0123,L00411,Quillleaf Kitchen,R01,North America,4650,lost,True,False,2026-06-04,2026-06-07,,,2026-06-20,2026-06-20,Went with a competitor,demo
+D0124,L00418,Hazelbrook Spa,R03,EMEA,4050,lost,True,False,2026-03-24,,,,2026-03-28,2026-03-28,No budget,qualified
+D0125,L00421,Emberpoint Physio,R05,APAC,14950,proposal,False,False,2026-02-03,2026-02-10,2026-02-22,,,2026-09-13,,
+D0126,L00424,Riverfield Lodge Co.,R03,EMEA,9150,lost,True,False,2026-04-05,,,,2026-04-08,2026-04-08,No decision,qualified
+D0127,L00431,Larkbrook Market LLC,R06,LATAM,3400,lost,True,False,2026-07-24,2026-07-28,2026-08-09,2026-08-24,2026-09-10,2026-09-10,Went with a competitor,negotiation
+D0128,L00432,Riverwick Auto,R01,North America,9800,proposal,False,False,2026-02-13,2026-02-16,2026-02-28,,,2026-03-24,,
+D0129,L00436,Ironview Market,R02,North America,18200,proposal,False,False,2026-10-13,2026-10-16,2026-10-25,,,2026-10-28,,
+D0130,L00437,Stoneworth Boutique,R01,North America,7200,lost,True,False,2026-05-28,,,,2026-06-04,2026-06-04,No decision,qualified
+D0131,L00439,Elmline Tutoring,R02,North America,6350,lost,True,False,2026-07-10,,,,2026-07-20,2026-07-20,No budget,qualified
+D0132,L00440,Baybrook Accounting,R01,North America,6050,won,True,True,2026-08-28,2026-08-31,2026-09-04,2026-09-13,2026-09-23,2026-09-23,,
+D0133,L00443,Canyonview Design Co.,R02,North America,4300,proposal,False,False,2026-10-15,2026-10-23,2026-10-31,,,2026-10-31,,
+D0134,L00446,Ridgewell Tires,R05,APAC,13250,lost,True,False,2026-01-19,2026-01-28,,,2026-02-09,2026-02-09,No budget,demo
+D0135,L00448,Millline Consulting LLC,R01,North America,12050,lost,True,False,2026-09-29,2026-10-02,,,2026-10-14,2026-10-14,Went with a competitor,demo
+D0136,L00450,Fernspring Academy Co.,R03,EMEA,20650,proposal,False,False,2026-08-27,2026-09-03,2026-09-16,,,2026-09-26,,
+D0137,L00455,Amberdale Academy,R02,North America,4650,lost,True,False,2026-06-09,2026-06-18,,,2026-06-26,2026-06-26,Went with a competitor,demo
+D0138,L00457,Granitebridge Boutique,R06,LATAM,11850,lost,True,False,2026-06-15,2026-06-25,,,2026-07-03,2026-07-03,No decision,demo
+D0139,L00458,Wrenside Catering,R01,North America,14800,lost,True,False,2026-09-07,,,,2026-09-13,2026-09-13,No decision,qualified
+D0140,L00460,Foxford Properties Co.,R01,North America,8750,negotiation,False,False,2026-09-22,2026-09-30,2026-10-14,2026-10-31,,2026-10-31,,
+D0141,L00465,Mapleline Advisors LLC,R01,North America,6300,lost,True,False,2026-03-22,2026-03-28,2026-04-09,2026-04-29,2026-05-13,2026-05-13,Price,negotiation
+D0142,L00466,Canyonstone Barbers,R06,LATAM,24300,lost,True,False,2026-08-23,2026-08-26,,,2026-09-04,2026-09-04,No decision,demo
+D0143,L00469,Coralbrook Coffee,R05,APAC,6400,won,True,True,2026-05-21,2026-05-26,2026-06-05,2026-06-11,2026-06-16,2026-06-16,,
+D0144,L00470,Millgate Homes Co.,R04,EMEA,6600,won,True,True,2026-01-25,2026-02-02,2026-02-08,2026-02-28,2026-03-15,2026-03-15,,
+D0145,L00474,Aspenpoint Gym,R04,EMEA,6200,lost,True,False,2026-08-10,2026-08-20,,,2026-08-31,2026-08-31,No budget,demo
+D0146,L00478,Clearwood Tires,R03,EMEA,4250,proposal,False,False,2026-04-06,2026-04-10,2026-04-23,,,2026-08-23,,
+D0147,L00481,Harborwell Bistro LLC,R02,North America,4150,proposal,False,False,2026-10-07,2026-10-11,2026-10-23,,,2026-10-23,,
+D0148,L00487,Redpoint Supply,R04,EMEA,4850,lost,True,False,2026-04-11,2026-04-22,,,2026-05-06,2026-05-06,Went with a competitor,demo
+D0149,L00490,Thistlecrest Athletics Co.,R05,APAC,6550,lost,True,False,2026-04-01,2026-04-06,,,2026-04-12,2026-04-12,No budget,demo
+D0150,L00494,Larkside Supply,R04,EMEA,4550,lost,True,False,2026-02-12,2026-02-23,2026-03-01,,2026-03-14,2026-03-14,Went with a competitor,proposal
+D0151,L00496,Cobaltpoint Clinic,R02,North America,4950,lost,True,False,2026-01-11,,,,2026-01-14,2026-01-14,No decision,qualified
+D0152,L00497,Lindenfield Kitchen LLC,R06,LATAM,6900,lost,True,False,2026-01-23,2026-01-31,,,2026-02-10,2026-02-10,Missing feature,demo
+D0153,L00498,Flintview Athletics,R02,North America,4750,won,True,True,2026-06-02,2026-06-10,2026-06-24,2026-07-06,2026-07-24,2026-07-24,,
+D0154,L00501,Clearstone Yoga Inc.,R06,LATAM,2900,won,True,True,2026-07-24,2026-07-29,2026-08-10,2026-08-25,2026-08-29,2026-08-29,,
+D0155,L00512,Elmwood Auto LLC,R03,EMEA,8100,lost,True,False,2026-06-03,2026-06-08,2026-06-21,,2026-07-03,2026-07-03,Went with a competitor,proposal
+D0156,L00513,Hazelworth Kitchen LLC,R04,EMEA,6600,proposal,False,False,2026-07-27,2026-08-07,2026-08-17,,,2026-08-18,,
+D0157,L00523,Redbrook Wellness,R03,EMEA,2950,lost,True,False,2026-07-20,2026-07-30,2026-08-10,2026-08-23,2026-08-30,2026-08-30,Went with a competitor,negotiation
+D0158,L00524,Elmbridge Outfitters Co.,R06,LATAM,2600,demo,False,False,2026-10-25,2026-10-31,,,,2026-10-31,,
+D0159,L00526,Quillton Inn LLC,R05,APAC,5450,lost,True,False,2026-04-04,2026-04-13,,,2026-04-19,2026-04-19,Missing feature,demo
+D0160,L00528,Lindenhaven Catering,R05,APAC,5950,lost,True,False,2026-02-18,2026-02-28,,,2026-03-14,2026-03-14,Missing feature,demo
+D0161,L00529,Northvale Properties,R05,APAC,6100,lost,True,False,2026-03-15,,,,2026-03-27,2026-03-27,Not a fit,qualified
+D0162,L00533,Juniperworth Bistro,R05,APAC,3050,demo,False,False,2026-10-19,2026-10-24,,,,2026-10-26,,
+D0163,L00535,Redspring Tires,R02,North America,10450,lost,True,False,2026-02-14,2026-02-26,,,2026-03-06,2026-03-06,No decision,demo
+D0164,L00542,Goldenmore Outfitters,R02,North America,13400,lost,True,False,2026-01-30,,,,2026-02-02,2026-02-02,No budget,qualified
+D0165,L00543,Cedarstone Tutoring,R05,APAC,14000,lost,True,False,2026-08-02,2026-08-11,2026-08-20,,2026-08-30,2026-08-30,Timing,proposal
+D0166,L00544,Ridgeview Accounting Co.,R02,North America,6100,won,True,True,2026-07-29,2026-08-06,2026-08-20,2026-08-31,2026-09-11,2026-09-11,,
+D0167,L00545,Clearfield Motors Inc.,R05,APAC,5700,proposal,False,False,2026-10-04,2026-10-16,2026-10-30,,,2026-10-30,,
+D0168,L00549,Sungate Advisors,R06,LATAM,6850,won,True,True,2026-09-16,2026-09-23,2026-09-28,2026-10-03,2026-10-07,2026-10-07,,
+D0169,L00550,Pinebridge Legal Co.,R03,EMEA,9500,lost,True,False,2026-01-29,2026-02-05,2026-02-18,2026-02-26,2026-03-03,2026-03-03,Went with a competitor,negotiation
+D0170,L00551,Ridgegate Academy,R02,North America,5750,lost,True,False,2026-07-05,2026-07-14,2026-07-21,,2026-08-08,2026-08-08,Went with a competitor,proposal
+D0171,L00554,Clearrock Coffee,R05,APAC,5000,lost,True,False,2026-04-17,,,,2026-04-22,2026-04-22,No budget,qualified
+D0172,L00555,Emberworth Auto Inc.,R02,North America,6800,lost,True,False,2026-01-15,2026-01-24,2026-02-02,2026-02-16,2026-02-23,2026-02-23,Went with a competitor,negotiation
+D0173,L00558,Bluevale Goods LLC,R01,North America,8550,lost,True,False,2026-03-19,2026-03-29,,,2026-04-04,2026-04-04,Missing feature,demo
+D0174,L00559,Ridgelight Consulting,R05,APAC,2250,qualified,False,False,2026-10-26,,,,,2026-10-28,,
+D0175,L00563,Juniperwick Coffee Inc.,R04,EMEA,18800,won,True,True,2026-08-16,2026-08-27,2026-09-07,2026-09-13,2026-09-19,2026-09-19,,
+D0176,L00565,Brookspring Learning LLC,R05,APAC,8250,won,True,True,2026-06-14,2026-06-21,2026-07-04,2026-07-10,2026-07-16,2026-07-16,,
+D0177,L00568,Harborleaf Consulting Co.,R01,North America,39200,lost,True,False,2026-01-23,2026-02-01,,,2026-02-07,2026-02-07,No decision,demo
+D0178,L00569,Millwell Kitchen Co.,R04,EMEA,6800,lost,True,False,2026-02-13,,,,2026-02-25,2026-02-25,No budget,qualified
+D0179,L00570,Harborvale Dental Inc.,R04,EMEA,10550,lost,True,False,2026-07-08,,,,2026-07-11,2026-07-11,No decision,qualified
+D0180,L00576,Cedarside Coffee,R01,North America,2250,lost,True,False,2026-09-08,,,,2026-09-13,2026-09-13,Not a fit,qualified
+D0181,L00577,Amberview Academy LLC,R02,North America,5000,qualified,False,False,2026-10-29,,,,,2026-10-29,,
+D0182,L00587,Willowwell Bakery,R01,North America,29350,lost,True,False,2026-07-14,2026-07-23,2026-08-06,,2026-08-17,2026-08-17,Price,proposal
+D0183,L00593,Millbrook Spa,R04,EMEA,8400,lost,True,False,2026-08-19,2026-08-26,,,2026-09-03,2026-09-03,Missing feature,demo
+D0184,L00600,Stonewell Lodge,R02,North America,13050,qualified,False,False,2026-10-29,,,,,2026-10-29,,
+D0185,L00602,Coralleaf Boutique,R03,EMEA,4400,won,True,True,2026-05-07,2026-05-10,2026-05-21,2026-06-04,2026-06-12,2026-06-12,,
+D0186,L00603,Flintwood Supply,R02,North America,6250,lost,True,False,2026-06-16,2026-06-26,,,2026-07-11,2026-07-11,No decision,demo
+D0187,L00610,Cobaltdale Homes,R06,LATAM,3600,won,True,True,2026-04-03,2026-04-07,2026-04-18,2026-05-07,2026-05-22,2026-05-22,,
+D0188,L00614,Ridgewick Market,R01,North America,16700,lost,True,False,2026-05-19,2026-05-27,,,2026-06-11,2026-06-11,Missing feature,demo
+D0189,L00615,Sageline Outfitters,R02,North America,6050,lost,True,False,2026-05-21,2026-05-28,2026-06-09,,2026-06-29,2026-06-29,No decision,proposal
+D0190,L00616,Goldenleaf Design,R06,LATAM,12950,proposal,False,False,2026-05-27,2026-06-04,2026-06-14,,,2026-08-23,,
+D0191,L00617,Dunepoint Tires,R01,North America,21250,lost,True,False,2026-09-27,2026-10-04,2026-10-17,,2026-10-30,2026-10-30,Timing,proposal
+D0192,L00620,Quillton Learning Inc.,R03,EMEA,24750,lost,True,False,2026-06-19,2026-06-29,2026-07-05,2026-07-24,2026-08-03,2026-08-03,Price,negotiation
+D0193,L00622,Bayworth Dental Co.,R03,EMEA,6650,negotiation,False,False,2026-09-19,2026-09-24,2026-09-29,2026-10-19,,2026-10-19,,
+D0194,L00623,Harborhaven Fitness,R01,North America,55800,lost,True,False,2026-06-11,2026-06-16,2026-07-01,2026-07-10,2026-07-18,2026-07-18,Price,negotiation
+D0195,L00632,Emberside Legal,R02,North America,10950,lost,True,False,2026-06-08,2026-06-15,2026-06-28,2026-07-18,2026-07-23,2026-07-23,Price,negotiation
+D0196,L00633,Harborbrook Consulting,R04,EMEA,2000,won,True,True,2026-02-06,2026-02-17,2026-02-22,2026-03-07,2026-03-12,2026-03-12,,
+D0197,L00634,Cobaltlight Salon,R03,EMEA,7650,lost,True,False,2026-02-12,2026-02-24,,,2026-03-11,2026-03-11,No decision,demo
+D0198,L00639,Silverview Bakery,R04,EMEA,7700,lost,True,False,2026-03-30,2026-04-11,2026-04-25,,2026-05-11,2026-05-11,Went with a competitor,proposal
+D0199,L00642,Junipercrest Lodge Inc.,R05,APAC,6400,proposal,False,False,2026-03-26,2026-04-03,2026-04-13,,,2026-06-28,,
+D0200,L00643,Ironleaf Homes LLC,R04,EMEA,18050,lost,True,False,2026-01-31,,,,2026-02-03,2026-02-03,No budget,qualified
+D0201,L00645,Aspenstone Clinic,R06,LATAM,3350,won,True,True,2026-02-06,2026-02-10,2026-02-24,2026-03-01,2026-03-07,2026-03-07,,
+D0202,L00646,Sunrock Barbers LLC,R02,North America,6100,lost,True,False,2026-01-27,2026-02-01,2026-02-09,,2026-02-19,2026-02-19,Price,proposal
+D0203,L00648,Brookwood Outfitters,R01,North America,13950,won,True,True,2026-07-27,2026-08-04,2026-08-11,2026-08-31,2026-09-09,2026-09-09,,
+D0204,L00649,Sunbridge Tutoring,R04,EMEA,26500,won,True,True,2026-04-03,2026-04-11,2026-04-15,2026-05-03,2026-05-15,2026-05-15,,
+D0205,L00657,Quillpoint Physio Co.,R02,North America,2800,lost,True,False,2026-09-26,2026-10-01,2026-10-09,,2026-10-23,2026-10-23,Went with a competitor,proposal
+D0206,L00659,Thistleside Bakery,R05,APAC,6950,lost,True,False,2026-07-19,2026-07-29,,,2026-08-06,2026-08-06,No budget,demo
+D0207,L00675,Goldenline Wellness,R05,APAC,13250,lost,True,False,2026-01-16,2026-01-21,2026-01-25,,2026-02-02,2026-02-02,Price,proposal
+D0208,L00676,Hazelvale Kitchen,R02,North America,24250,lost,True,False,2026-09-07,,,,2026-09-12,2026-09-12,Not a fit,qualified
+D0209,L00681,Suncrest Outfitters Inc.,R02,North America,8150,lost,True,False,2026-07-29,2026-08-07,,,2026-08-15,2026-08-15,No budget,demo
+D0210,L00686,Duneton Spa,R02,North America,10000,lost,True,False,2026-04-18,2026-04-22,2026-05-01,,2026-05-07,2026-05-07,Price,proposal
+D0211,L00692,Canyonford Spa LLC,R04,EMEA,6450,lost,True,False,2026-09-11,2026-09-16,2026-09-20,,2026-10-02,2026-10-02,Price,proposal
+D0212,L00695,Hollowdale Coffee,R05,APAC,4750,won,True,True,2026-03-02,2026-03-14,2026-03-27,2026-04-13,2026-04-30,2026-04-30,,
+D0213,L00699,Riverspring Fitness,R02,North America,5700,lost,True,False,2026-05-03,2026-05-08,2026-05-20,,2026-05-29,2026-05-29,No decision,proposal
+D0214,L00702,Juniperford Academy,R03,EMEA,6350,lost,True,False,2026-06-30,2026-07-06,2026-07-10,,2026-07-23,2026-07-23,Went with a competitor,proposal
+D0215,L00705,Birchbrook Kitchen Inc.,R04,EMEA,11100,proposal,False,False,2026-09-29,2026-10-11,2026-10-16,,,2026-10-21,,
+D0216,L00718,Thistlelight Legal,R06,LATAM,5500,negotiation,False,False,2026-09-12,2026-09-22,2026-10-04,2026-10-23,,2026-10-25,,
+D0217,L00719,Duneleaf Tires Co.,R03,EMEA,26400,lost,True,False,2026-06-29,2026-07-09,,,2026-07-15,2026-07-15,Went with a competitor,demo
+D0218,L00730,Larkline Supply Inc.,R05,APAC,5800,lost,True,False,2026-09-04,,,,2026-09-14,2026-09-14,No budget,qualified
+D0219,L00731,Sageworth Supply Co.,R02,North America,3950,lost,True,False,2026-07-11,2026-07-17,,,2026-07-31,2026-07-31,Went with a competitor,demo
+D0220,L00733,Emberstone Learning,R01,North America,9400,negotiation,False,False,2026-10-01,2026-10-08,2026-10-13,2026-10-29,,2026-10-31,,
+D0221,L00736,Hazelwood Wellness Co.,R04,EMEA,5850,lost,True,False,2026-03-20,2026-03-27,,,2026-04-04,2026-04-04,No decision,demo
+D0222,L00742,Ferncrest Design Co.,R02,North America,3350,lost,True,False,2026-03-09,2026-03-21,2026-04-01,2026-04-07,2026-04-12,2026-04-12,Legal / procurement,negotiation
+D0223,L00747,Ironside Dental,R03,EMEA,4950,lost,True,False,2026-02-03,,,,2026-02-08,2026-02-08,No decision,qualified
+D0224,L00753,Amberbridge Realty Inc.,R01,North America,5950,lost,True,False,2026-07-07,,,,2026-07-12,2026-07-12,No decision,qualified
+D0225,L00759,Larkline Yoga,R02,North America,36750,lost,True,False,2026-08-08,2026-08-18,2026-08-30,,2026-09-19,2026-09-19,Timing,proposal
+D0226,L00764,Granitewick Bistro,R01,North America,11400,lost,True,False,2026-02-15,,,,2026-02-26,2026-02-26,Not a fit,qualified
+D0227,L00768,Larkbridge Spa,R01,North America,12000,lost,True,False,2026-09-15,2026-09-23,,,2026-09-29,2026-09-29,No decision,demo
+D0228,L00771,Bluehaven Inn,R01,North America,8400,won,True,True,2026-03-08,2026-03-20,2026-03-28,2026-04-15,2026-05-03,2026-05-03,,
+D0229,L00772,Foxton Learning,R02,North America,2250,lost,True,False,2026-04-18,2026-04-22,,,2026-05-04,2026-05-04,No decision,demo
+D0230,L00776,Willowwell Design,R03,EMEA,6400,won,True,True,2026-05-07,2026-05-17,2026-05-31,2026-06-05,2026-06-17,2026-06-17,,
+D0231,L00777,Crestworth Bakery,R02,North America,5200,lost,True,False,2026-07-29,2026-08-08,2026-08-21,,2026-08-26,2026-08-26,Price,proposal
+D0232,L00780,Brightgate Bistro,R03,EMEA,4100,qualified,False,False,2026-10-29,,,,,2026-10-31,,
+D0233,L00781,Coralgate Homes,R04,EMEA,6300,proposal,False,False,2026-05-21,2026-05-28,2026-06-10,,,2026-07-02,,
+D0234,L00783,Cedarwood Tutoring Co.,R06,LATAM,8450,won,True,True,2026-09-14,2026-09-22,2026-09-28,2026-10-12,2026-10-23,2026-10-23,,
+D0235,L00791,Willowwood Goods,R01,North America,5100,lost,True,False,2026-05-06,,,,2026-05-10,2026-05-10,No budget,qualified
+D0236,L00792,Riverspring Bistro LLC,R02,North America,19800,lost,True,False,2026-03-20,2026-03-24,,,2026-03-31,2026-03-31,No budget,demo
+D0237,L00793,Quillmore Wellness Co.,R05,APAC,2800,lost,True,False,2026-08-08,2026-08-13,,,2026-08-22,2026-08-22,Missing feature,demo
+D0238,L00794,Wrenvale Inn LLC,R03,EMEA,7550,lost,True,False,2026-07-10,2026-07-16,,,2026-07-21,2026-07-21,No decision,demo
+D0239,L00795,Quillworth Advisors Co.,R03,EMEA,3950,lost,True,False,2026-05-07,,,,2026-05-17,2026-05-17,No decision,qualified
+D0240,L00798,Willowbrook Homes,R06,LATAM,13100,lost,True,False,2026-06-30,2026-07-06,,,2026-07-11,2026-07-11,No decision,demo
+D0241,L00803,Flintleaf Properties,R02,North America,3200,won,True,True,2026-06-27,2026-07-01,2026-07-14,2026-07-25,2026-07-31,2026-07-31,,
+D0242,L00804,Orchidwick Learning,R01,North America,7850,lost,True,False,2026-04-22,2026-04-26,,,2026-05-11,2026-05-11,Missing feature,demo
+D0243,L00806,Flintbridge Yoga,R02,North America,4450,lost,True,False,2026-10-05,2026-10-11,,,2026-10-17,2026-10-17,No decision,demo
+D0244,L00808,Sunhaven Advisors LLC,R05,APAC,43450,lost,True,False,2026-07-01,2026-07-12,,,2026-07-17,2026-07-17,Went with a competitor,demo
+D0245,L00811,Mapleworth Advisors Inc.,R05,APAC,8950,won,True,True,2026-02-17,2026-02-22,2026-02-27,2026-03-09,2026-03-19,2026-03-19,,
+D0246,L00813,Sundale Consulting,R03,EMEA,14900,lost,True,False,2026-03-26,2026-03-29,,,2026-04-08,2026-04-08,Went with a competitor,demo
+D0247,L00815,Clearcrest Pharmacy,R05,APAC,5050,lost,True,False,2026-05-17,2026-05-24,,,2026-05-30,2026-05-30,No budget,demo
+D0248,L00824,Quillpoint Fitness Inc.,R03,EMEA,12800,lost,True,False,2026-06-24,2026-07-01,2026-07-09,,2026-07-20,2026-07-20,Price,proposal
+D0249,L00826,Graniteton Athletics Inc.,R06,LATAM,47550,won,True,True,2026-04-06,2026-04-09,2026-04-15,2026-04-25,2026-05-04,2026-05-04,,
+D0250,L00827,Birchlight Clinic,R01,North America,2700,lost,True,False,2026-07-07,2026-07-10,2026-07-25,2026-08-01,2026-08-05,2026-08-05,Went with a competitor,negotiation
+D0251,L00828,Copperbridge Dental,R02,North America,8750,lost,True,False,2026-09-17,2026-09-25,,,2026-10-02,2026-10-02,No decision,demo
+D0252,L00831,Amberlight Salon LLC,R04,EMEA,16250,lost,True,False,2026-02-03,2026-02-13,,,2026-02-19,2026-02-19,No decision,demo
+D0253,L00832,Lindenford Spa LLC,R01,North America,5850,proposal,False,False,2026-03-05,2026-03-17,2026-03-23,,,2026-08-22,,
+D0254,L00834,Emberbridge Tires,R04,EMEA,10350,won,True,True,2026-05-01,2026-05-08,2026-05-22,2026-06-10,2026-06-25,2026-06-25,,
+D0255,L00841,Copperdale Catering Co.,R04,EMEA,3300,lost,True,False,2026-07-24,2026-07-27,2026-08-09,,2026-08-26,2026-08-26,Price,proposal
+D0256,L00843,Redside Physio,R03,EMEA,5250,lost,True,False,2026-02-24,2026-03-05,,,2026-03-20,2026-03-20,Missing feature,demo
+D0257,L00844,Hollowbrook Yoga LLC,R06,LATAM,9750,lost,True,False,2026-07-18,,,,2026-07-24,2026-07-24,No budget,qualified
+D0258,L00846,Crestbridge Academy LLC,R02,North America,4000,demo,False,False,2026-10-16,2026-10-22,,,,2026-10-29,,
+D0259,L00853,Glenbridge Tutoring,R01,North America,4050,won,True,True,2026-09-19,2026-09-24,2026-09-30,2026-10-16,2026-10-20,2026-10-20,,
+D0260,L00854,Bluewood Properties LLC,R03,EMEA,10500,lost,True,False,2026-04-27,2026-05-08,2026-05-22,2026-06-08,2026-06-24,2026-06-24,Went with a competitor,negotiation
+D0261,L00855,Thistleside Goods Co.,R01,North America,16500,lost,True,False,2026-02-20,2026-02-24,,,2026-03-11,2026-03-11,Missing feature,demo
+D0262,L00864,Quilllight Catering Inc.,R06,LATAM,7500,lost,True,False,2026-06-23,2026-06-28,2026-07-09,,2026-07-17,2026-07-17,Timing,proposal
+D0263,L00871,Meadowcrest Motors,R02,North America,19050,lost,True,False,2026-08-16,,,,2026-08-24,2026-08-24,Not a fit,qualified
+D0264,L00875,Dunewood Athletics,R05,APAC,3800,lost,True,False,2026-03-26,,,,2026-04-02,2026-04-02,No decision,qualified
+D0265,L00878,Sunworth Clinic Co.,R02,North America,4900,lost,True,False,2026-02-11,,,,2026-02-23,2026-02-23,No decision,qualified
+D0266,L00885,Harborford Spa,R03,EMEA,24800,won,True,True,2026-08-10,2026-08-21,2026-08-29,2026-09-14,2026-09-22,2026-09-22,,
+D0267,L00887,Silverbridge Bakery,R05,APAC,3500,lost,True,False,2026-03-31,,,,2026-04-04,2026-04-04,Not a fit,qualified
+D0268,L00889,Cresthaven Dental LLC,R05,APAC,6500,won,True,True,2026-09-09,2026-09-20,2026-09-28,2026-10-14,2026-10-21,2026-10-21,,
+D0269,L00892,Quillleaf Learning,R05,APAC,27850,lost,True,False,2026-05-28,2026-06-07,2026-06-11,,2026-06-28,2026-06-28,Price,proposal
+D0270,L00898,Willowwind Outfitters Inc.,R04,EMEA,6950,negotiation,False,False,2026-10-01,2026-10-11,2026-10-20,2026-10-31,,2026-10-31,,
+D0271,L00899,Harbormore Inn LLC,R02,North America,8600,lost,True,False,2026-09-28,2026-10-04,2026-10-09,,2026-10-19,2026-10-19,Timing,proposal
+D0272,L00900,Bluedale Fitness,R02,North America,3800,lost,True,False,2026-02-10,2026-02-22,2026-03-08,2026-03-26,2026-03-30,2026-03-30,Legal / procurement,negotiation
+D0273,L00902,Coraldale Spa LLC,R06,LATAM,10050,qualified,False,False,2026-10-29,,,,,2026-10-31,,
+D0274,L00906,Emberwick Goods,R03,EMEA,8100,lost,True,False,2026-09-26,,,,2026-10-04,2026-10-04,No budget,qualified
+D0275,L00908,Northdale Physio,R05,APAC,11200,lost,True,False,2026-08-17,,,,2026-08-24,2026-08-24,Not a fit,qualified
+D0276,L00911,Emberworth Gym,R04,EMEA,5000,lost,True,False,2026-10-07,,,,2026-10-17,2026-10-17,Not a fit,qualified
+D0277,L00912,Fernleaf Market,R04,EMEA,5350,lost,True,False,2026-03-05,2026-03-13,2026-03-17,,2026-04-06,2026-04-06,No decision,proposal
+D0278,L00916,Orchidrock Bakery LLC,R02,North America,7250,lost,True,False,2026-03-13,,,,2026-03-21,2026-03-21,No budget,qualified
+D0279,L00919,Northstone Outfitters,R01,North America,1600,won,True,True,2026-02-22,2026-02-27,2026-03-07,2026-03-12,2026-03-28,2026-03-28,,
+D0280,L00920,Amberstone Coffee,R06,LATAM,6600,lost,True,False,2026-08-13,,,,2026-08-23,2026-08-23,No decision,qualified
+D0281,L00921,Flintdale Legal Co.,R02,North America,7650,won,True,True,2026-05-08,2026-05-19,2026-05-24,2026-06-02,2026-06-20,2026-06-20,,
+D0282,L00924,Harborline Auto LLC,R03,EMEA,13200,qualified,False,False,2026-10-27,,,,,2026-10-29,,
+D0283,L00932,Orchidlight Supply,R06,LATAM,11000,lost,True,False,2026-10-05,2026-10-14,,,2026-10-26,2026-10-26,No decision,demo
+D0284,L00933,Cedarwood Bakery LLC,R01,North America,18850,lost,True,False,2026-05-25,,,,2026-06-03,2026-06-03,No budget,qualified
+D0285,L00936,Summitgate Wellness Inc.,R06,LATAM,5000,lost,True,False,2026-02-04,2026-02-10,2026-02-15,,2026-02-23,2026-02-23,No decision,proposal
+D0286,L00938,Millline Inn,R01,North America,18400,won,True,True,2026-09-09,2026-09-17,2026-09-27,2026-10-13,2026-10-20,2026-10-20,,
+D0287,L00939,Brightdale Lodge,R04,EMEA,13900,lost,True,False,2026-09-06,2026-09-10,2026-09-24,,2026-10-04,2026-10-04,No decision,proposal
+D0288,L00940,Birchline Outfitters,R03,EMEA,4100,lost,True,False,2026-02-02,,,,2026-02-11,2026-02-11,No decision,qualified
+D0289,L00942,Pinewell Bakery LLC,R05,APAC,11600,won,True,True,2026-01-31,2026-02-10,2026-02-21,2026-03-11,2026-03-29,2026-03-29,,
+D0290,L00944,Harborspring Advisors Co.,R01,North America,19900,proposal,False,False,2026-10-01,2026-10-08,2026-10-21,,,2026-10-23,,
+D0291,L00948,Foxside Consulting Co.,R06,LATAM,32400,lost,True,False,2026-04-10,2026-04-16,,,2026-04-22,2026-04-22,Went with a competitor,demo
+D0292,L00953,Aspenside Market,R01,North America,7100,won,True,True,2026-01-19,2026-01-26,2026-02-03,2026-02-08,2026-02-25,2026-02-25,,
+D0293,L00956,Ironstone Yoga,R06,LATAM,13100,demo,False,False,2026-10-24,2026-10-27,,,,2026-10-29,,
+D0294,L00975,Pineline Inn,R05,APAC,4700,lost,True,False,2026-06-17,,,,2026-06-25,2026-06-25,No budget,qualified
+D0295,L00978,Cobaltview Goods,R02,North America,3250,won,True,True,2026-06-25,2026-06-30,2026-07-12,2026-07-26,2026-07-30,2026-07-30,,
+D0296,L00980,Aspendale Academy,R04,EMEA,5400,lost,True,False,2026-04-11,,,,2026-04-16,2026-04-16,No budget,qualified
+D0297,L00984,Sunview Yoga,R03,EMEA,3300,lost,True,False,2026-01-20,2026-02-01,2026-02-16,,2026-03-08,2026-03-08,No decision,proposal
+D0298,L00986,Meadowview Consulting,R01,North America,3600,won,True,True,2026-03-12,2026-03-22,2026-03-27,2026-04-05,2026-04-12,2026-04-12,,
+D0299,L00990,Sunspring Realty,R02,North America,3900,lost,True,False,2026-04-28,2026-05-03,,,2026-05-15,2026-05-15,No decision,demo
+D0300,L00991,Hollowfield Gym LLC,R02,North America,23000,lost,True,False,2026-06-18,,,,2026-06-27,2026-06-27,Not a fit,qualified
+D0301,L00997,Hollowwind Tires LLC,R02,North America,14950,lost,True,False,2026-05-07,2026-05-19,2026-05-27,,2026-06-13,2026-06-13,No decision,proposal
+D0302,L01000,Hollowpoint Clinic,R03,EMEA,4550,lost,True,False,2026-07-08,2026-07-16,,,2026-07-31,2026-07-31,No budget,demo
+D0303,L01002,Aspenline Goods LLC,R03,EMEA,5400,lost,True,False,2026-01-31,2026-02-09,,,2026-02-18,2026-02-18,Went with a competitor,demo
+D0304,L01004,Ferncrest Market,R04,EMEA,14500,lost,True,False,2026-03-20,2026-03-30,2026-04-12,,2026-04-29,2026-04-29,No decision,proposal
+D0305,L01007,Hollowline Academy LLC,R01,North America,8200,proposal,False,False,2026-08-10,2026-08-14,2026-08-29,,,2026-09-29,,
+D0306,L01008,Copperwell Legal Co.,R03,EMEA,5450,lost,True,False,2026-05-02,2026-05-05,,,2026-05-19,2026-05-19,No budget,demo
+D0307,L01010,Orchiddale Clinic Inc.,R01,North America,5050,negotiation,False,False,2026-09-21,2026-10-03,2026-10-11,2026-10-19,,2026-10-20,,
+D0308,L01011,Oakcrest Catering Co.,R02,North America,4750,lost,True,False,2026-05-05,2026-05-09,2026-05-22,,2026-05-29,2026-05-29,No decision,proposal
+D0309,L01014,Graniteside Consulting Co.,R03,EMEA,3950,lost,True,False,2026-07-01,2026-07-10,2026-07-19,,2026-08-01,2026-08-01,Went with a competitor,proposal
+D0310,L01016,Riverspring Properties LLC,R02,North America,14300,lost,True,False,2026-07-13,2026-07-16,2026-07-27,,2026-08-02,2026-08-02,Went with a competitor,proposal
+D0311,L01019,Granitegate Design,R04,EMEA,24400,lost,True,False,2026-08-11,2026-08-19,,,2026-08-26,2026-08-26,No budget,demo
+D0312,L01022,Amberwell Boutique Inc.,R06,LATAM,3250,lost,True,False,2026-10-13,2026-10-24,,,2026-10-28,2026-10-28,No decision,demo
+D0313,L01025,Sagefield Gym LLC,R02,North America,15500,lost,True,False,2026-06-13,2026-06-19,,,2026-06-26,2026-06-26,No budget,demo
+D0314,L01026,Meadowview Spa,R03,EMEA,4550,negotiation,False,False,2026-10-04,2026-10-08,2026-10-16,2026-10-31,,2026-10-31,,
+D0315,L01030,Elmwood Bistro LLC,R02,North America,3700,lost,True,False,2026-03-16,2026-03-28,,,2026-04-10,2026-04-10,Missing feature,demo
+D0316,L01034,Mapleleaf Bistro,R01,North America,8400,lost,True,False,2026-02-19,2026-03-03,2026-03-10,2026-03-19,2026-03-30,2026-03-30,Went with a competitor,negotiation
+D0317,L01039,Birchline Tires LLC,R04,EMEA,13750,won,True,True,2026-03-27,2026-04-07,2026-04-19,2026-04-30,2026-05-09,2026-05-09,,
+D0318,L01042,Summitcrest Fitness Co.,R05,APAC,12650,won,True,True,2026-05-09,2026-05-13,2026-05-25,2026-06-14,2026-06-21,2026-06-21,,
+D0319,L01044,Canyonleaf Bakery,R01,North America,11150,lost,True,False,2026-10-11,,,,2026-10-21,2026-10-21,No decision,qualified
+D0320,L01045,Summitwick Consulting,R04,EMEA,11350,lost,True,False,2026-05-14,,,,2026-05-24,2026-05-24,No decision,qualified
+D0321,L01049,Sunford Bakery,R03,EMEA,8750,lost,True,False,2026-06-21,2026-07-02,,,2026-07-17,2026-07-17,No decision,demo
+D0322,L01056,Quillwell Athletics,R03,EMEA,10550,lost,True,False,2026-09-02,,,,2026-09-13,2026-09-13,No decision,qualified
+D0323,L01061,Foxspring Properties,R05,APAC,5150,won,True,True,2026-07-24,2026-07-29,2026-08-02,2026-08-08,2026-08-13,2026-08-13,,
+D0324,L01062,Aspenvale Catering,R01,North America,6100,lost,True,False,2026-03-11,2026-03-23,,,2026-03-29,2026-03-29,No budget,demo
+D0325,L01065,Brightstone Clinic,R05,APAC,21550,lost,True,False,2026-03-24,2026-03-31,2026-04-07,,2026-04-20,2026-04-20,No decision,proposal
+D0326,L01068,Harborhaven Boutique Co.,R06,LATAM,6550,proposal,False,False,2026-10-04,2026-10-12,2026-10-27,,,2026-10-30,,
+D0327,L01083,Brookpoint Properties,R01,North America,9750,lost,True,False,2026-08-29,,,,2026-09-04,2026-09-04,No decision,qualified
+D0328,L01085,Pinerock Design LLC,R01,North America,17700,won,True,True,2026-03-02,2026-03-10,2026-03-15,2026-03-27,2026-04-06,2026-04-06,,
+D0329,L01089,Granitewell Athletics LLC,R03,EMEA,8200,proposal,False,False,2026-10-08,2026-10-18,2026-10-22,,,2026-10-29,,
+D0330,L01098,Wrenwood Outfitters,R04,EMEA,11350,lost,True,False,2026-09-08,,,,2026-09-16,2026-09-16,No decision,qualified
+D0331,L01100,Stonevale Spa Inc.,R06,LATAM,9200,lost,True,False,2026-07-20,2026-07-26,,,2026-08-04,2026-08-04,No budget,demo
+D0332,L01106,Wrenwood Physio LLC,R05,APAC,8950,lost,True,False,2026-02-05,2026-02-12,,,2026-02-22,2026-02-22,Missing feature,demo
+D0333,L01111,Canyonvale Bakery Inc.,R05,APAC,3250,lost,True,False,2026-04-16,,,,2026-04-27,2026-04-27,Not a fit,qualified
+D0334,L01115,Bluehaven Wellness LLC,R03,EMEA,4450,lost,True,False,2026-02-04,2026-02-11,2026-02-25,,2026-03-03,2026-03-03,Timing,proposal
+D0335,L01119,Brookcrest Auto Inc.,R02,North America,25000,lost,True,False,2026-04-19,2026-04-29,2026-05-11,,2026-05-24,2026-05-24,Went with a competitor,proposal
+D0336,L01125,Rivermore Outfitters,R04,EMEA,4250,lost,True,False,2026-07-19,,,,2026-07-24,2026-07-24,No budget,qualified
+D0337,L01126,Copperford Bakery,R02,North America,13400,lost,True,False,2026-06-25,2026-07-04,2026-07-08,,2026-07-20,2026-07-20,Timing,proposal
+D0338,L01131,Pinepoint Guesthouse,R03,EMEA,4950,proposal,False,False,2026-09-05,2026-09-09,2026-09-18,,,2026-09-26,,
+D0339,L01133,Stoneside Dental LLC,R03,EMEA,8000,lost,True,False,2026-07-05,2026-07-15,,,2026-07-27,2026-07-27,No budget,demo
+D0340,L01135,Quillbrook Dental,R05,APAC,1450,lost,True,False,2026-08-31,,,,2026-09-04,2026-09-04,Not a fit,qualified
+D0341,L01136,Northhaven Bistro,R06,LATAM,4000,proposal,False,False,2026-02-11,2026-02-16,2026-03-03,,,2026-04-14,,
+D0342,L01137,Crestmore Coffee LLC,R03,EMEA,6700,won,True,True,2026-05-02,2026-05-13,2026-05-27,2026-06-10,2026-06-19,2026-06-19,,
+D0343,L01141,Maplebridge Guesthouse,R03,EMEA,10000,won,True,True,2026-08-11,2026-08-20,2026-09-04,2026-09-17,2026-09-22,2026-09-22,,
+D0344,L01150,Brookwood Lodge Co.,R05,APAC,3750,lost,True,False,2026-09-25,2026-09-30,2026-10-10,,2026-10-17,2026-10-17,Went with a competitor,proposal
+D0345,L01152,Coralstone Supply,R05,APAC,1000,won,True,True,2026-07-11,2026-07-20,2026-07-24,2026-08-01,2026-08-12,2026-08-12,,
+D0346,L01153,Wrenwind Barbers,R01,North America,5750,lost,True,False,2026-02-18,2026-03-02,,,2026-03-15,2026-03-15,No decision,demo
+D0347,L01155,Wrenpoint Outfitters LLC,R05,APAC,4150,won,True,True,2026-02-22,2026-03-01,2026-03-15,2026-03-21,2026-04-07,2026-04-07,,
+D0348,L01161,Elmford Accounting LLC,R02,North America,6200,lost,True,False,2026-01-22,2026-02-03,2026-02-10,,2026-02-28,2026-02-28,Price,proposal
+D0349,L01164,Duneleaf Barbers Inc.,R01,North America,5850,lost,True,False,2026-05-11,,,,2026-05-14,2026-05-14,No budget,qualified
+D0350,L01165,Harborside Clinic Co.,R01,North America,2150,won,True,True,2026-03-26,2026-04-07,2026-04-18,2026-04-30,2026-05-10,2026-05-10,,
+D0351,L01167,Ironvale Gym,R01,North America,24600,lost,True,False,2026-08-11,2026-08-20,2026-08-30,,2026-09-13,2026-09-13,No decision,proposal
+D0352,L01170,Copperford Clinic Inc.,R04,EMEA,2500,lost,True,False,2026-09-21,2026-10-02,,,2026-10-16,2026-10-16,Missing feature,demo
+D0353,L01171,Willowlight Realty,R01,North America,6400,lost,True,False,2026-03-30,2026-04-03,,,2026-04-11,2026-04-11,Went with a competitor,demo
+D0354,L01173,Sundale Learning,R01,North America,5750,lost,True,False,2026-05-29,2026-06-04,2026-06-18,,2026-07-05,2026-07-05,Went with a competitor,proposal
+D0355,L01177,Hazelpoint Wellness LLC,R05,APAC,2150,lost,True,False,2026-07-20,2026-07-24,,,2026-07-29,2026-07-29,Missing feature,demo
+D0356,L01179,Ferngate Clinic,R01,North America,6050,proposal,False,False,2026-09-25,2026-10-05,2026-10-15,,,2026-10-28,,
+D0357,L01180,Orchidcrest Tutoring LLC,R06,LATAM,6850,won,True,True,2026-08-05,2026-08-10,2026-08-17,2026-08-28,2026-09-11,2026-09-11,,
+D0358,L01182,Lindenwind Pharmacy LLC,R06,LATAM,13800,lost,True,False,2026-01-20,2026-01-30,2026-02-06,2026-02-18,2026-03-08,2026-03-08,Timing,negotiation
+D0359,L01183,Foxcrest Guesthouse LLC,R04,EMEA,14400,proposal,False,False,2026-03-30,2026-04-08,2026-04-20,,,2026-06-29,,
+D0360,L01187,Dunestone Goods,R05,APAC,6100,lost,True,False,2026-08-18,,,,2026-08-23,2026-08-23,No budget,qualified
+D0361,L01188,Bluepoint Supply LLC,R04,EMEA,15250,lost,True,False,2026-04-17,2026-04-24,,,2026-05-07,2026-05-07,No decision,demo
+D0362,L01189,Dunehaven Academy,R04,EMEA,20100,won,True,True,2026-09-20,2026-09-25,2026-10-01,2026-10-17,2026-10-27,2026-10-27,,
+D0363,L01190,Oakbridge Auto,R04,EMEA,10300,lost,True,False,2026-07-13,,,,2026-07-24,2026-07-24,No decision,qualified
+D0364,L01197,Sunside Outfitters,R04,EMEA,33250,lost,True,False,2026-05-30,2026-06-02,2026-06-10,,2026-06-20,2026-06-20,Timing,proposal
+D0365,L01204,Stonecrest Learning,R01,North America,5400,lost,True,False,2026-10-01,2026-10-11,2026-10-18,,2026-10-26,2026-10-26,Price,proposal
+D0366,L01206,Copperfield Pharmacy,R02,North America,5850,lost,True,False,2026-09-23,,,,2026-10-05,2026-10-05,Not a fit,qualified
+D0367,L01207,Quillline Outfitters,R06,LATAM,2950,lost,True,False,2026-04-20,2026-04-30,2026-05-13,,2026-05-23,2026-05-23,Went with a competitor,proposal
+D0368,L01209,Emberdale Academy,R05,APAC,16950,proposal,False,False,2026-08-04,2026-08-08,2026-08-16,,,2026-09-09,,
+D0369,L01213,Graniteton Market LLC,R03,EMEA,9500,lost,True,False,2026-05-14,,,,2026-05-21,2026-05-21,No decision,qualified
+D0370,L01214,Birchwind Boutique Inc.,R06,LATAM,6500,won,True,True,2026-02-13,2026-02-17,2026-02-25,2026-03-10,2026-03-17,2026-03-17,,
+D0371,L01216,Foxleaf Goods LLC,R01,North America,24350,lost,True,False,2026-09-23,,,,2026-10-01,2026-10-01,Not a fit,qualified
+D0372,L01217,Bluepoint Properties,R01,North America,7300,won,True,True,2026-05-22,2026-05-30,2026-06-14,2026-06-19,2026-07-07,2026-07-07,,
+D0373,L01218,Hollowworth Yoga,R02,North America,31100,lost,True,False,2026-03-02,2026-03-06,2026-03-18,,2026-04-01,2026-04-01,Price,proposal
+D0374,L01219,Slatebrook Barbers,R06,LATAM,20900,lost,True,False,2026-10-04,2026-10-09,,,2026-10-14,2026-10-14,No budget,demo
+D0375,L01220,Elmstone Market,R06,LATAM,3500,lost,True,False,2026-03-04,2026-03-07,2026-03-16,,2026-03-23,2026-03-23,Price,proposal
+D0376,L01223,Wrenline Gym Co.,R01,North America,6450,lost,True,False,2026-03-18,2026-03-25,2026-04-09,,2026-04-28,2026-04-28,Price,proposal
+D0377,L01224,Sunview Tutoring LLC,R03,EMEA,7700,lost,True,False,2026-07-23,,,,2026-07-27,2026-07-27,No budget,qualified
+D0378,L01225,Baydale Fitness,R04,EMEA,4300,lost,True,False,2026-02-06,2026-02-12,2026-02-23,,2026-03-12,2026-03-12,Went with a competitor,proposal
+D0379,L01227,Sunmore Auto Inc.,R02,North America,7650,lost,True,False,2026-07-03,2026-07-13,,,2026-07-17,2026-07-17,Went with a competitor,demo
+D0380,L01237,Sageford Realty,R05,APAC,6800,lost,True,False,2026-04-14,,,,2026-04-24,2026-04-24,No budget,qualified
+D0381,L01240,Elmbrook Yoga,R05,APAC,20050,won,True,True,2026-05-26,2026-06-01,2026-06-12,2026-06-18,2026-06-24,2026-06-24,,
+D0382,L01241,Summitgate Auto,R05,APAC,8400,lost,True,False,2026-01-23,2026-01-29,,,2026-02-04,2026-02-04,No budget,demo
+D0383,L01250,Northview Bistro LLC,R01,North America,3100,lost,True,False,2026-05-31,2026-06-08,,,2026-06-15,2026-06-15,No budget,demo
+D0384,L01256,Wrenwind Design,R01,North America,6900,won,True,True,2026-06-15,2026-06-20,2026-06-24,2026-07-11,2026-07-21,2026-07-21,,
+D0385,L01262,Ridgebridge Guesthouse,R02,North America,19800,lost,True,False,2026-03-19,2026-03-23,,,2026-04-04,2026-04-04,Went with a competitor,demo
+D0386,L01263,Silverdale Accounting LLC,R04,EMEA,7200,lost,True,False,2026-04-04,2026-04-11,2026-04-20,,2026-05-01,2026-05-01,Price,proposal
+D0387,L01267,Sagewood Catering,R05,APAC,4450,lost,True,False,2026-03-25,,,,2026-03-31,2026-03-31,Not a fit,qualified
+D0388,L01272,Coralwood Homes,R04,EMEA,14400,lost,True,False,2026-09-23,2026-09-29,,,2026-10-11,2026-10-11,Missing feature,demo
+D0389,L01273,Granitevale Pharmacy Inc.,R06,LATAM,2550,lost,True,False,2026-09-06,2026-09-17,2026-09-26,,2026-10-09,2026-10-09,No decision,proposal
+D0390,L01277,Ridgeline Market,R06,LATAM,3500,lost,True,False,2026-08-02,2026-08-09,2026-08-19,,2026-09-07,2026-09-07,No decision,proposal
+D0391,L01280,Ferncrest Supply,R01,North America,3850,lost,True,False,2026-07-12,,,,2026-07-21,2026-07-21,No budget,qualified
+D0392,L01283,Brookleaf Clinic LLC,R04,EMEA,25800,lost,True,False,2026-05-02,2026-05-13,2026-05-19,2026-06-02,2026-06-15,2026-06-15,Went with a competitor,negotiation
+D0393,L01285,Thistlevale Spa,R01,North America,9450,won,True,True,2026-09-01,2026-09-11,2026-09-24,2026-10-04,2026-10-20,2026-10-20,,
+D0394,L01287,Canyonmore Accounting,R02,North America,3300,lost,True,False,2026-01-30,2026-02-09,,,2026-02-21,2026-02-21,No decision,demo
+D0395,L01289,Irongate Inn LLC,R03,EMEA,38550,lost,True,False,2026-04-14,,,,2026-04-19,2026-04-19,No budget,qualified
+D0396,L01290,Elmleaf Coffee,R03,EMEA,4750,lost,True,False,2026-01-20,,,,2026-01-25,2026-01-25,No decision,qualified
+D0397,L01293,Aspenton Inn,R02,North America,6600,lost,True,False,2026-07-03,2026-07-08,,,2026-07-22,2026-07-22,No budget,demo
+D0398,L01296,Brightvale Design,R01,North America,39100,lost,True,False,2026-06-09,2026-06-19,,,2026-06-23,2026-06-23,No budget,demo
+D0399,L01301,Oakbrook Gym,R02,North America,5450,lost,True,False,2026-02-15,2026-02-27,2026-03-06,,2026-03-26,2026-03-26,Timing,proposal
+D0400,L01305,Riverview Lodge LLC,R01,North America,10350,lost,True,False,2026-09-16,2026-09-26,,,2026-10-09,2026-10-09,No budget,demo
+D0401,L01310,Elmmore Gym,R05,APAC,15950,won,True,True,2026-02-03,2026-02-07,2026-02-18,2026-03-03,2026-03-20,2026-03-20,,
+D0402,L01312,Hazelview Kitchen,R03,EMEA,7800,won,True,True,2026-04-08,2026-04-12,2026-04-23,2026-05-12,2026-05-25,2026-05-25,,
+D0403,L01318,Harborworth Academy,R01,North America,4700,lost,True,False,2026-03-19,2026-03-22,2026-04-04,,2026-04-18,2026-04-18,Went with a competitor,proposal
+D0404,L01322,Meadowwood Yoga Co.,R03,EMEA,10250,won,True,True,2026-08-19,2026-08-26,2026-09-05,2026-09-25,2026-10-13,2026-10-13,,
+D0405,L01323,Larkvale Advisors,R02,North America,27150,demo,False,False,2026-10-06,2026-10-17,,,,2026-10-21,,
+D0406,L01327,Ironspring Market Inc.,R05,APAC,1850,won,True,True,2026-06-17,2026-06-27,2026-07-07,2026-07-25,2026-08-01,2026-08-01,,
+D0407,L01332,Millline Homes,R02,North America,4000,lost,True,False,2026-10-04,2026-10-13,,,2026-10-17,2026-10-17,No decision,demo
+D0408,L01337,Mapleford Accounting,R01,North America,23150,lost,True,False,2026-09-04,2026-09-13,,,2026-09-26,2026-09-26,No budget,demo
+D0409,L01351,Orchidbridge Bakery,R02,North America,6000,won,True,True,2026-06-03,2026-06-08,2026-06-13,2026-07-01,2026-07-05,2026-07-05,,
+D0410,L01358,Embermore Coffee,R05,APAC,17750,demo,False,False,2026-10-15,2026-10-24,,,,2026-10-26,,
+D0411,L01361,Elmline Pharmacy LLC,R02,North America,11500,lost,True,False,2026-09-21,,,,2026-09-24,2026-09-24,No budget,qualified
+D0412,L01368,Brookspring Advisors LLC,R06,LATAM,2250,lost,True,False,2026-08-27,,,,2026-08-31,2026-08-31,Not a fit,qualified
+D0413,L01369,Duneleaf Bistro LLC,R01,North America,11300,lost,True,False,2026-09-05,,,,2026-09-11,2026-09-11,No budget,qualified
+D0414,L01372,Sagehaven Advisors,R06,LATAM,18350,lost,True,False,2026-06-30,,,,2026-07-05,2026-07-05,No budget,qualified
+D0415,L01375,Clearmore Outfitters LLC,R02,North America,4550,lost,True,False,2026-04-26,2026-05-02,,,2026-05-12,2026-05-12,No decision,demo
+D0416,L01379,Dunelight Legal,R05,APAC,9250,lost,True,False,2026-02-16,,,,2026-02-24,2026-02-24,No budget,qualified
+D0417,L01381,Willowgate Wellness,R04,EMEA,12250,won,True,True,2026-02-19,2026-03-01,2026-03-16,2026-04-04,2026-04-08,2026-04-08,,
+D0418,L01384,Brookwood Supply,R05,APAC,6950,lost,True,False,2026-04-21,2026-04-27,,,2026-05-04,2026-05-04,No decision,demo
+D0419,L01387,Hollowwell Bistro Co.,R02,North America,7000,lost,True,False,2026-07-19,2026-07-31,2026-08-08,2026-08-21,2026-09-05,2026-09-05,Legal / procurement,negotiation
+D0420,L01390,Quillhaven Supply,R06,LATAM,47800,won,True,True,2026-05-07,2026-05-16,2026-05-24,2026-06-11,2026-06-15,2026-06-15,,
+D0421,L01393,Redmore Salon,R01,North America,11950,qualified,False,False,2026-10-22,,,,,2026-10-29,,
+D0422,L01394,Lindenwick Kitchen Co.,R01,North America,7050,proposal,False,False,2026-08-24,2026-09-03,2026-09-15,,,2026-09-30,,
+D0423,L01400,Brooklight Gym,R06,LATAM,17850,won,True,True,2026-03-30,2026-04-08,2026-04-21,2026-05-05,2026-05-21,2026-05-21,,
+D0424,L01403,Canyonton Bistro,R01,North America,7100,lost,True,False,2026-02-04,2026-02-11,,,2026-02-25,2026-02-25,Went with a competitor,demo
+D0425,L01406,Coppergate Kitchen,R03,EMEA,4900,lost,True,False,2026-05-11,2026-05-16,2026-05-27,2026-06-05,2026-06-16,2026-06-16,Price,negotiation
+D0426,L01407,Aspenford Athletics,R01,North America,14350,lost,True,False,2026-09-02,,,,2026-09-06,2026-09-06,No budget,qualified
+D0427,L01417,Thistlebridge Outfitters Co.,R06,LATAM,6000,lost,True,False,2026-06-16,2026-06-22,2026-07-07,,2026-07-15,2026-07-15,Price,proposal
+D0428,L01420,Bluecrest Catering,R05,APAC,30950,lost,True,False,2026-08-22,2026-08-27,,,2026-09-07,2026-09-07,No budget,demo
+D0429,L01421,Oakmore Yoga Inc.,R05,APAC,6800,proposal,False,False,2026-02-21,2026-03-05,2026-03-19,,,2026-08-21,,
+D0430,L01422,Orchidvale Tutoring LLC,R01,North America,8500,won,True,True,2026-05-10,2026-05-14,2026-05-22,2026-05-29,2026-06-13,2026-06-13,,
+D0431,L01423,Riverspring Yoga,R03,EMEA,1550,lost,True,False,2026-07-17,2026-07-23,2026-08-06,2026-08-24,2026-08-28,2026-08-28,Price,negotiation
+D0432,L01424,Oakfield Fitness Co.,R02,North America,5400,lost,True,False,2026-04-23,,,,2026-04-28,2026-04-28,Not a fit,qualified
+D0433,L01430,Wrengate Guesthouse LLC,R05,APAC,4650,won,True,True,2026-05-24,2026-05-29,2026-06-07,2026-06-12,2026-06-26,2026-06-26,,
+D0434,L01431,Mapleworth Boutique,R04,EMEA,14400,lost,True,False,2026-04-26,2026-05-01,,,2026-05-10,2026-05-10,No decision,demo
+D0435,L01432,Ridgeworth Goods,R04,EMEA,17550,proposal,False,False,2026-10-23,2026-10-26,2026-10-31,,,2026-10-31,,
+D0436,L01439,Emberton Properties Inc.,R02,North America,5450,lost,True,False,2026-05-01,2026-05-08,2026-05-23,2026-06-11,2026-06-26,2026-06-26,Timing,negotiation
+D0437,L01440,Wrenpoint Bakery,R04,EMEA,16500,won,True,True,2026-06-19,2026-07-01,2026-07-08,2026-07-14,2026-07-22,2026-07-22,,
+D0438,L01442,Dunebridge Spa Co.,R01,North America,4300,lost,True,False,2026-08-07,,,,2026-08-18,2026-08-18,No budget,qualified
+D0439,L01443,Bayrock Physio,R02,North America,4450,lost,True,False,2026-02-08,2026-02-11,2026-02-16,2026-02-26,2026-03-12,2026-03-12,Legal / procurement,negotiation
+D0440,L01446,Maplelight Bistro Inc.,R06,LATAM,7500,demo,False,False,2026-10-22,2026-10-31,,,,2026-10-31,,
+D0441,L01452,Elmton Motors,R01,North America,2950,lost,True,False,2026-05-22,,,,2026-06-01,2026-06-01,No decision,qualified
+D0442,L01453,Brookgate Market LLC,R05,APAC,10200,lost,True,False,2026-02-25,,,,2026-03-03,2026-03-03,No budget,qualified
+D0443,L01456,Cobaltspring Auto LLC,R02,North America,6450,lost,True,False,2026-04-26,2026-05-04,2026-05-12,,2026-05-20,2026-05-20,Timing,proposal
+D0444,L01457,Hollowline Supply,R02,North America,16950,won,True,True,2026-04-14,2026-04-21,2026-04-26,2026-05-15,2026-05-29,2026-05-29,,
+D0445,L01465,Meadowbridge Wellness,R01,North America,8050,qualified,False,False,2026-10-29,,,,,2026-10-30,,
+D0446,L01466,Larkside Salon Co.,R03,EMEA,12150,lost,True,False,2026-02-11,,,,2026-02-20,2026-02-20,No decision,qualified
+D0447,L01471,Slatebrook Catering,R01,North America,5450,won,True,True,2026-02-16,2026-02-19,2026-03-04,2026-03-21,2026-04-02,2026-04-02,,
+D0448,L01472,Coralbridge Bakery,R05,APAC,5300,lost,True,False,2026-04-08,,,,2026-04-17,2026-04-17,No budget,qualified
+D0449,L01473,Copperleaf Tires,R05,APAC,9200,won,True,True,2026-09-22,2026-09-25,2026-10-06,2026-10-11,2026-10-16,2026-10-16,,
+D0450,L01475,Quillline Legal,R01,North America,12550,lost,True,False,2026-04-09,,,,2026-04-20,2026-04-20,Not a fit,qualified
+D0451,L01480,Wrenside Consulting LLC,R04,EMEA,6300,won,True,True,2026-06-15,2026-06-26,2026-07-08,2026-07-27,2026-08-06,2026-08-06,,
+D0452,L01483,Dunehaven Design LLC,R06,LATAM,6900,proposal,False,False,2026-10-13,2026-10-18,2026-10-31,,,2026-10-31,,
+D0453,L01485,Brightline Tutoring,R05,APAC,5700,lost,True,False,2026-02-05,2026-02-14,,,2026-02-19,2026-02-19,Missing feature,demo
+D0454,L01487,Ironpoint Gym,R05,APAC,10050,lost,True,False,2026-01-23,2026-02-01,,,2026-02-06,2026-02-06,Went with a competitor,demo
+D0455,L01488,Mapleside Spa,R01,North America,4400,lost,True,False,2026-06-01,,,,2026-06-04,2026-06-04,Not a fit,qualified
+D0456,L01499,Baywood Bistro LLC,R01,North America,3650,won,True,True,2026-08-10,2026-08-16,2026-08-21,2026-08-26,2026-09-07,2026-09-07,,
+D0457,L01501,Aspenton Athletics,R03,EMEA,6100,lost,True,False,2026-08-06,2026-08-18,2026-08-27,,2026-09-08,2026-09-08,Timing,proposal
+D0458,L01506,Riverside Goods,R01,North America,10650,lost,True,False,2026-03-17,,,,2026-03-23,2026-03-23,No budget,qualified
+D0459,L01509,Lindenside Kitchen LLC,R05,APAC,3250,proposal,False,False,2026-04-12,2026-04-17,2026-04-26,,,2026-08-10,,
+D0460,L01512,Canyonview Bakery LLC,R04,EMEA,5050,lost,True,False,2026-09-23,2026-10-03,,,2026-10-15,2026-10-15,Missing feature,demo
+D0461,L01513,Clearbridge Homes Inc.,R02,North America,6200,lost,True,False,2026-03-23,2026-04-01,,,2026-04-05,2026-04-05,No budget,demo
+D0462,L01514,Elmworth Properties LLC,R04,EMEA,8300,lost,True,False,2026-01-20,2026-01-30,,,2026-02-11,2026-02-11,Missing feature,demo
+D0463,L01515,Granitemore Motors,R05,APAC,4950,proposal,False,False,2026-07-08,2026-07-17,2026-07-23,,,2026-09-15,,
+D0464,L01517,Brookstone Supply Co.,R03,EMEA,12550,proposal,False,False,2026-07-06,2026-07-10,2026-07-14,,,2026-09-07,,
+D0465,L01519,Aspencrest Tutoring Inc.,R04,EMEA,37400,lost,True,False,2026-05-11,2026-05-23,,,2026-06-03,2026-06-03,No decision,demo
+D0466,L01522,Summitgate Learning LLC,R01,North America,10950,lost,True,False,2026-06-16,2026-06-21,,,2026-07-06,2026-07-06,No budget,demo
+D0467,L01524,Fernbrook Goods,R01,North America,12400,lost,True,False,2026-07-06,,,,2026-07-17,2026-07-17,No budget,qualified
+D0468,L01529,Clearworth Market,R03,EMEA,7400,demo,False,False,2026-10-21,2026-10-26,,,,2026-10-28,,
+D0469,L01534,Ironspring Clinic,R05,APAC,7600,lost,True,False,2026-03-19,2026-03-28,,,2026-04-07,2026-04-07,No budget,demo
+D0470,L01536,Flintstone Motors,R04,EMEA,8250,lost,True,False,2026-06-25,,,,2026-07-05,2026-07-05,No budget,qualified
+D0471,L01537,Wrenbridge Legal LLC,R02,North America,2450,won,True,True,2026-09-08,2026-09-14,2026-09-29,2026-10-12,2026-10-19,2026-10-19,,
+D0472,L01542,Ironleaf Accounting LLC,R05,APAC,4650,lost,True,False,2026-04-09,2026-04-15,2026-04-25,,2026-05-01,2026-05-01,Price,proposal
+D0473,L01544,Emberfield Bistro,R05,APAC,18350,lost,True,False,2026-02-19,2026-03-01,,,2026-03-07,2026-03-07,Missing feature,demo
+D0474,L01547,Millstone Homes,R02,North America,8400,lost,True,False,2026-05-18,2026-05-27,2026-06-02,2026-06-17,2026-07-04,2026-07-04,Price,negotiation
+D0475,L01549,Dunedale Bakery,R06,LATAM,3900,lost,True,False,2026-10-13,,,,2026-10-16,2026-10-16,No decision,qualified
+D0476,L01553,Riverpoint Supply,R06,LATAM,34150,proposal,False,False,2026-02-13,2026-02-23,2026-03-09,,,2026-05-14,,
+D0477,L01554,Sunwind Salon,R05,APAC,23300,lost,True,False,2026-05-18,,,,2026-05-30,2026-05-30,Not a fit,qualified
+D0478,L01557,Ridgewood Wellness Co.,R04,EMEA,2100,lost,True,False,2026-06-30,2026-07-10,,,2026-07-23,2026-07-23,No decision,demo
+D0479,L01558,Riverfield Accounting,R01,North America,11650,won,True,True,2026-03-30,2026-04-03,2026-04-16,2026-05-03,2026-05-10,2026-05-10,,
+D0480,L01561,Riverbrook Lodge,R03,EMEA,6250,won,True,True,2026-03-14,2026-03-18,2026-03-30,2026-04-17,2026-04-28,2026-04-28,,
+D0481,L01562,Elmpoint Coffee,R02,North America,3300,lost,True,False,2026-07-09,2026-07-19,2026-08-03,2026-08-21,2026-09-03,2026-09-03,Timing,negotiation
+D0482,L01563,Silvermore Auto,R03,EMEA,13850,lost,True,False,2026-07-14,2026-07-26,2026-08-04,,2026-08-14,2026-08-14,Timing,proposal
+D0483,L01564,Cobaltrock Guesthouse Co.,R06,LATAM,18150,lost,True,False,2026-05-07,,,,2026-05-13,2026-05-13,No decision,qualified
+D0484,L01566,Meadowcrest Realty,R03,EMEA,7000,lost,True,False,2026-04-27,2026-05-01,2026-05-07,,2026-05-17,2026-05-17,Went with a competitor,proposal
+D0485,L01569,Pinedale Lodge LLC,R06,LATAM,16700,lost,True,False,2026-05-13,,,,2026-05-20,2026-05-20,Not a fit,qualified
+D0486,L01575,Foxwick Goods Co.,R01,North America,3750,lost,True,False,2026-03-28,2026-04-03,2026-04-07,,2026-04-15,2026-04-15,No decision,proposal
+D0487,L01578,Fernvale Barbers LLC,R06,LATAM,26000,won,True,True,2026-03-30,2026-04-08,2026-04-18,2026-05-03,2026-05-09,2026-05-09,,
+D0488,L01579,Sunford Legal LLC,R04,EMEA,17150,lost,True,False,2026-01-27,2026-02-03,2026-02-14,,2026-03-06,2026-03-06,Went with a competitor,proposal
+D0489,L01580,Meadowmore Salon,R05,APAC,2850,lost,True,False,2026-09-20,2026-09-26,,,2026-10-04,2026-10-04,Went with a competitor,demo
+D0490,L01581,Quillmore Clinic,R03,EMEA,5200,lost,True,False,2026-04-01,,,,2026-04-13,2026-04-13,No budget,qualified
+D0491,L01583,Amberbridge Gym,R03,EMEA,12850,lost,True,False,2026-10-09,2026-10-14,,,2026-10-28,2026-10-28,Missing feature,demo
+D0492,L01590,Riverline Market LLC,R03,EMEA,4550,lost,True,False,2026-02-11,2026-02-22,2026-03-04,,2026-03-11,2026-03-11,Went with a competitor,proposal
+D0493,L01591,Harbormore Fitness LLC,R05,APAC,11050,won,True,True,2026-01-13,2026-01-21,2026-01-30,2026-02-08,2026-02-15,2026-02-15,,
+D0494,L01593,Birchwick Accounting,R02,North America,3900,lost,True,False,2026-02-28,2026-03-06,2026-03-12,,2026-03-25,2026-03-25,No decision,proposal
+D0495,L01598,Maplestone Motors LLC,R06,LATAM,5800,won,True,True,2026-05-15,2026-05-19,2026-05-30,2026-06-13,2026-06-23,2026-06-23,,
+D0496,L01599,Junipercrest Design Inc.,R03,EMEA,5600,lost,True,False,2026-06-14,,,,2026-06-22,2026-06-22,No budget,qualified
+D0497,L01602,Orchidton Bistro,R02,North America,4600,lost,True,False,2026-07-27,2026-08-02,2026-08-13,,2026-08-19,2026-08-19,Went with a competitor,proposal
+D0498,L01603,Ironbridge Tires LLC,R01,North America,9650,lost,True,False,2026-10-11,,,,2026-10-21,2026-10-21,No decision,qualified
+D0499,L01604,Baydale Tutoring,R04,EMEA,11800,lost,True,False,2026-10-13,,,,2026-10-17,2026-10-17,No decision,qualified
+D0500,L01608,Redwick Goods,R01,North America,14850,lost,True,False,2026-02-21,,,,2026-02-28,2026-02-28,Not a fit,qualified
+D0501,L01610,Pineworth Pharmacy LLC,R02,North America,22050,lost,True,False,2026-05-12,,,,2026-05-15,2026-05-15,No decision,qualified
+D0502,L01611,Coralstone Coffee Co.,R05,APAC,7000,lost,True,False,2026-01-22,,,,2026-01-25,2026-01-25,No decision,qualified
+D0503,L01612,Bayleaf Boutique,R06,LATAM,20800,won,True,True,2026-07-14,2026-07-21,2026-07-27,2026-08-16,2026-09-01,2026-09-01,,
+D0504,L01614,Riverlight Outfitters LLC,R02,North America,8650,won,True,True,2026-02-06,2026-02-10,2026-02-18,2026-03-06,2026-03-10,2026-03-10,,
+D0505,L01622,Glenbridge Fitness,R01,North America,4600,demo,False,False,2026-10-19,2026-10-29,,,,2026-10-30,,
+D0506,L01628,Maplegate Dental,R06,LATAM,10950,lost,True,False,2026-04-19,,,,2026-04-29,2026-04-29,No decision,qualified
+D0507,L01629,Birchside Tires Inc.,R05,APAC,4800,lost,True,False,2026-04-14,2026-04-26,,,2026-04-30,2026-04-30,No budget,demo
+D0508,L01630,Ironbridge Yoga LLC,R01,North America,12900,lost,True,False,2026-08-20,,,,2026-08-29,2026-08-29,No decision,qualified
+D0509,L01632,Foxview Bakery LLC,R05,APAC,9600,lost,True,False,2026-01-17,2026-01-24,2026-02-06,,2026-02-12,2026-02-12,Went with a competitor,proposal
+D0510,L01634,Brightbrook Lodge Co.,R04,EMEA,9000,proposal,False,False,2026-10-02,2026-10-14,2026-10-28,,,2026-10-30,,
+D0511,L01641,Bayside Supply,R02,North America,12750,lost,True,False,2026-08-11,,,,2026-08-15,2026-08-15,Not a fit,qualified
+D0512,L01642,Sagebridge Outfitters,R01,North America,5300,lost,True,False,2026-08-21,2026-08-26,,,2026-08-31,2026-08-31,Went with a competitor,demo
+D0513,L01650,Juniperbridge Coffee,R06,LATAM,3600,lost,True,False,2026-10-02,2026-10-08,,,2026-10-12,2026-10-12,No decision,demo
+D0514,L01653,Glenhaven Outfitters Co.,R01,North America,24150,lost,True,False,2026-05-29,2026-06-08,2026-06-14,,2026-06-23,2026-06-23,Price,proposal
+D0515,L01657,Milldale Learning,R03,EMEA,4450,lost,True,False,2026-04-29,2026-05-04,2026-05-10,,2026-05-20,2026-05-20,Timing,proposal
+D0516,L01658,Clearworth Yoga,R05,APAC,6150,proposal,False,False,2026-04-17,2026-04-28,2026-05-05,,,2026-05-25,,
+D0517,L01661,Elmgate Consulting Inc.,R06,LATAM,11850,won,True,True,2026-08-03,2026-08-07,2026-08-11,2026-08-19,2026-09-03,2026-09-03,,
+D0518,L01663,Sunvale Boutique Inc.,R01,North America,12500,won,True,True,2026-07-16,2026-07-22,2026-08-03,2026-08-19,2026-08-28,2026-08-28,,
+D0519,L01665,Slatespring Market Co.,R04,EMEA,5150,lost,True,False,2026-09-19,2026-09-25,2026-09-30,2026-10-05,2026-10-14,2026-10-14,Price,negotiation
+D0520,L01668,Willowworth Motors LLC,R04,EMEA,7450,lost,True,False,2026-10-11,,,,2026-10-16,2026-10-16,No budget,qualified
+D0521,L01669,Thistlestone Bistro,R04,EMEA,6800,demo,False,False,2026-10-21,2026-10-29,,,,2026-10-31,,
+D0522,L01674,Quillwick Academy Co.,R05,APAC,4700,proposal,False,False,2026-05-20,2026-05-29,2026-06-10,,,2026-09-13,,
+D0523,L01675,Cedarton Supply,R02,North America,9500,lost,True,False,2026-05-06,2026-05-09,,,2026-05-19,2026-05-19,Went with a competitor,demo
+D0524,L01676,Foxwood Kitchen LLC,R03,EMEA,5800,lost,True,False,2026-08-19,2026-08-30,2026-09-08,,2026-09-26,2026-09-26,No decision,proposal
+D0525,L01680,Goldenworth Spa LLC,R04,EMEA,3350,lost,True,False,2026-01-27,,,,2026-02-05,2026-02-05,No budget,qualified
+D0526,L01682,Meadowgate Advisors,R03,EMEA,4400,lost,True,False,2026-07-18,2026-07-29,2026-08-11,,2026-08-16,2026-08-16,No decision,proposal
+D0527,L01684,Harborton Outfitters,R01,North America,1800,lost,True,False,2026-06-30,,,,2026-07-12,2026-07-12,No decision,qualified
+D0528,L01686,Thistlelight Gym,R01,North America,6650,lost,True,False,2026-09-11,,,,2026-09-17,2026-09-17,No budget,qualified
+D0529,L01693,Bluevale Tutoring,R01,North America,7750,lost,True,False,2026-02-02,,,,2026-02-14,2026-02-14,No budget,qualified
+D0530,L01696,Sagewood Homes Co.,R05,APAC,4700,won,True,True,2026-07-14,2026-07-18,2026-07-22,2026-08-02,2026-08-09,2026-08-09,,
+D0531,L01698,Riverton Goods Co.,R04,EMEA,6750,lost,True,False,2026-02-18,2026-02-25,2026-03-08,,2026-03-22,2026-03-22,No decision,proposal
+D0532,L01709,Goldenfield Kitchen,R05,APAC,3350,lost,True,False,2026-05-22,,,,2026-05-26,2026-05-26,No decision,qualified
+D0533,L01714,Clearpoint Goods,R01,North America,42550,proposal,False,False,2026-03-29,2026-04-06,2026-04-20,,,2026-07-20,,
+D0534,L01721,Mapleleaf Accounting LLC,R06,LATAM,5500,won,True,True,2026-04-16,2026-04-20,2026-04-29,2026-05-19,2026-05-28,2026-05-28,,
+D0535,L01725,Ridgewood Athletics,R04,EMEA,12300,proposal,False,False,2026-07-20,2026-07-30,2026-08-09,,,2026-09-29,,
+D0536,L01729,Hollowleaf Legal,R02,North America,2800,lost,True,False,2026-09-22,2026-10-02,2026-10-09,,2026-10-23,2026-10-23,Timing,proposal
+D0537,L01732,Summitrock Legal Inc.,R01,North America,12150,proposal,False,False,2026-09-30,2026-10-11,2026-10-18,,,2026-10-31,,
+D0538,L01734,Meadowspring Goods LLC,R02,North America,5250,qualified,False,False,2026-10-28,,,,,2026-10-31,,
+D0539,L01735,Slatebridge Yoga,R03,EMEA,11750,lost,True,False,2026-04-26,,,,2026-05-08,2026-05-08,Not a fit,qualified
+D0540,L01744,Mapleford Spa,R01,North America,3250,proposal,False,False,2026-10-05,2026-10-09,2026-10-24,,,2026-10-29,,
+D0541,L01746,Orchiddale Salon LLC,R04,EMEA,4550,lost,True,False,2026-06-16,2026-06-21,2026-07-02,2026-07-13,2026-07-21,2026-07-21,Legal / procurement,negotiation
+D0542,L01749,Thistleleaf Dental Co.,R02,North America,5400,lost,True,False,2026-02-04,2026-02-11,2026-02-22,,2026-03-04,2026-03-04,Price,proposal
+D0543,L01753,Emberfield Bakery,R01,North America,27950,lost,True,False,2026-06-08,2026-06-15,,,2026-06-30,2026-06-30,No decision,demo
+D0544,L01759,Millpoint Wellness,R05,APAC,27700,lost,True,False,2026-05-02,2026-05-10,2026-05-15,,2026-05-29,2026-05-29,Price,proposal
+D0545,L01760,Dunerock Learning,R05,APAC,4350,lost,True,False,2026-09-18,2026-09-21,,,2026-10-04,2026-10-04,Missing feature,demo
+D0546,L01761,Riverpoint Boutique Co.,R02,North America,4000,won,True,True,2026-06-16,2026-06-20,2026-07-05,2026-07-20,2026-07-28,2026-07-28,,
+D0547,L01767,Baywood Barbers,R03,EMEA,4650,lost,True,False,2026-08-08,,,,2026-08-15,2026-08-15,Not a fit,qualified
+D0548,L01768,Northline Auto,R02,North America,4000,lost,True,False,2026-03-04,2026-03-13,2026-03-18,,2026-03-24,2026-03-24,Timing,proposal
+D0549,L01769,Summitline Spa,R03,EMEA,21900,lost,True,False,2026-05-24,,,,2026-06-03,2026-06-03,No budget,qualified
+D0550,L01774,Birchwick Kitchen,R05,APAC,17450,proposal,False,False,2026-02-10,2026-02-15,2026-02-19,,,2026-07-22,,
+D0551,L01776,Oakview Design LLC,R03,EMEA,2150,proposal,False,False,2026-08-17,2026-08-27,2026-09-01,,,2026-09-15,,
+D0552,L01777,Brookwind Tires,R04,EMEA,23950,proposal,False,False,2026-08-14,2026-08-25,2026-08-31,,,2026-09-20,,
+D0553,L01779,Mapleton Catering,R01,North America,6600,lost,True,False,2026-05-10,2026-05-16,,,2026-05-30,2026-05-30,Missing feature,demo
+D0554,L01782,Brookvale Salon Co.,R01,North America,5950,lost,True,False,2026-08-03,2026-08-07,2026-08-18,,2026-08-27,2026-08-27,Went with a competitor,proposal
+D0555,L01783,Cobaltstone Inn,R02,North America,6300,lost,True,False,2026-02-06,2026-02-11,2026-02-15,,2026-03-07,2026-03-07,Timing,proposal
+D0556,L01785,Hollowgate Fitness Co.,R05,APAC,11400,lost,True,False,2026-08-23,2026-08-28,2026-09-01,2026-09-17,2026-10-03,2026-10-03,Legal / procurement,negotiation
+D0557,L01788,Lindenwood Design,R02,North America,15550,lost,True,False,2026-04-11,2026-04-18,,,2026-04-22,2026-04-22,No budget,demo
+D0558,L01790,Juniperline Accounting LLC,R03,EMEA,4850,lost,True,False,2026-03-04,2026-03-13,,,2026-03-27,2026-03-27,No budget,demo
+D0559,L01795,Cobaltwell Kitchen Inc.,R02,North America,13400,lost,True,False,2026-09-22,2026-10-03,2026-10-16,,2026-10-25,2026-10-25,Timing,proposal
+D0560,L01797,Duneworth Yoga Co.,R01,North America,40550,lost,True,False,2026-01-18,,,,2026-01-24,2026-01-24,Not a fit,qualified
+D0561,L01799,Cleardale Wellness,R01,North America,9900,proposal,False,False,2026-08-29,2026-09-02,2026-09-16,,,2026-09-26,,
+D0562,L01803,Maplewick Spa Co.,R06,LATAM,5250,lost,True,False,2026-06-06,2026-06-14,,,2026-06-25,2026-06-25,No decision,demo
+D0563,L01810,Summitline Bistro,R02,North America,7650,lost,True,False,2026-04-17,2026-04-24,2026-05-03,,2026-05-20,2026-05-20,Went with a competitor,proposal
+D0564,L01813,Cedarvale Bistro,R01,North America,3650,lost,True,False,2026-10-19,,,,2026-10-26,2026-10-26,No budget,qualified
+D0565,L01816,Cedarmore Dental,R05,APAC,5100,lost,True,False,2026-02-12,2026-02-17,,,2026-02-24,2026-02-24,No decision,demo
+D0566,L01821,Foxdale Outfitters LLC,R05,APAC,22000,proposal,False,False,2026-07-30,2026-08-08,2026-08-15,,,2026-10-01,,
+D0567,L01822,Millwood Realty,R06,LATAM,10450,proposal,False,False,2026-10-09,2026-10-21,2026-10-31,,,2026-10-31,,
+D0568,L01823,Maplehaven Physio LLC,R01,North America,31050,lost,True,False,2026-10-03,2026-10-08,,,2026-10-21,2026-10-21,No budget,demo
+D0569,L01830,Sunspring Academy Inc.,R01,North America,2900,lost,True,False,2026-01-30,,,,2026-02-04,2026-02-04,No decision,qualified
+D0570,L01833,Redbrook Learning,R01,North America,20300,lost,True,False,2026-07-13,2026-07-25,,,2026-08-09,2026-08-09,Missing feature,demo
+D0571,L01838,Redfield Realty,R02,North America,10850,lost,True,False,2026-03-29,2026-04-06,2026-04-21,,2026-04-26,2026-04-26,Went with a competitor,proposal
+D0572,L01839,Millwind Properties,R02,North America,11450,lost,True,False,2026-01-23,2026-01-29,2026-02-09,,2026-02-21,2026-02-21,Timing,proposal
+D0573,L01852,Flintmore Advisors LLC,R01,North America,14250,won,True,True,2026-07-26,2026-08-06,2026-08-20,2026-09-09,2026-09-17,2026-09-17,,
+D0574,L01856,Ridgeside Coffee,R01,North America,7850,lost,True,False,2026-05-17,2026-05-21,2026-06-05,,2026-06-15,2026-06-15,Timing,proposal
+D0575,L01859,Hollowton Homes,R01,North America,4000,lost,True,False,2026-07-06,,,,2026-07-13,2026-07-13,Not a fit,qualified
+D0576,L01860,Ironpoint Bakery,R04,EMEA,1650,lost,True,False,2026-03-15,2026-03-19,2026-03-27,,2026-04-03,2026-04-03,Timing,proposal
+D0577,L01866,Hazelhaven Realty,R03,EMEA,3100,lost,True,False,2026-09-05,,,,2026-09-11,2026-09-11,Not a fit,qualified
+D0578,L01867,Ambergate Boutique LLC,R02,North America,7700,lost,True,False,2026-08-02,,,,2026-08-05,2026-08-05,Not a fit,qualified
+D0579,L01870,Meadowhaven Properties LLC,R06,LATAM,24650,lost,True,False,2026-06-08,2026-06-11,,,2026-06-25,2026-06-25,No budget,demo
+D0580,L01875,Silverwell Spa,R04,EMEA,4950,won,True,True,2026-02-14,2026-02-21,2026-03-06,2026-03-13,2026-03-18,2026-03-18,,
+D0581,L01877,Flintpoint Legal Co.,R05,APAC,10500,won,True,True,2026-03-09,2026-03-16,2026-03-27,2026-04-02,2026-04-07,2026-04-07,,
+D0582,L01881,Ironpoint Boutique,R06,LATAM,13050,lost,True,False,2026-08-15,2026-08-26,,,2026-09-10,2026-09-10,Went with a competitor,demo
+D0583,L01887,Northstone Consulting LLC,R06,LATAM,3500,proposal,False,False,2026-03-28,2026-04-09,2026-04-18,,,2026-06-17,,
+D0584,L01889,Ironline Boutique,R01,North America,9350,lost,True,False,2026-03-08,2026-03-11,,,2026-03-20,2026-03-20,No budget,demo
+D0585,L01896,Pineworth Homes Co.,R05,APAC,5250,lost,True,False,2026-08-27,,,,2026-09-03,2026-09-03,No decision,qualified
+D0586,L01898,Elmspring Yoga LLC,R02,North America,19450,lost,True,False,2026-05-30,2026-06-05,2026-06-14,,2026-06-23,2026-06-23,No decision,proposal
+D0587,L01899,Hazelcrest Accounting,R05,APAC,7000,lost,True,False,2026-04-30,2026-05-11,2026-05-21,,2026-05-29,2026-05-29,Went with a competitor,proposal
+D0588,L01908,Duneton Dental,R01,North America,6750,proposal,False,False,2026-10-09,2026-10-19,2026-10-26,,,2026-10-28,,
+D0589,L01911,Willowline Barbers,R05,APAC,6950,qualified,False,False,2026-10-30,,,,,2026-10-31,,
+D0590,L01917,Emberbridge Legal,R02,North America,2450,qualified,False,False,2026-10-30,,,,,2026-10-31,,
+D0591,L01919,Pinewick Tutoring,R02,North America,9150,qualified,False,False,2026-10-10,,,,,2026-10-29,,
+D0592,L01920,Slate Point Consulting,R06,LATAM,1250,qualified,False,False,2026-10-03,,,,,2026-10-21,,
+D0593,L01923,Hollow Wood Dental,R03,EMEA,3850,qualified,False,False,2026-10-25,,,,,2026-10-28,,
+D0594,L01929,Foxford Properties Co.,R02,North America,8750,qualified,False,False,2026-09-23,,,,,2026-10-22,,
+D0595,L01930,Harborwell Bistro,R01,North America,4150,qualified,False,False,2026-10-30,,,,,2026-10-30,,
+D0596,L01939,Amber View Academy,R01,North America,5000,qualified,False,False,2026-10-30,,,,,2026-10-30,,
+D0597,L01961,Iron Stone Yoga,R06,LATAM,13100,qualified,False,False,2026-10-30,,,,,2026-10-31,,
+D0598,L01965,Orchiddale Clinic Inc.,R01,North America,5050,qualified,False,False,2026-09-28,,,,,2026-10-24,,
+D0599,L01975,"Embermore Coffee, Inc.",R05,APAC,17750,qualified,False,False,2026-10-15,,,,,2026-10-17,,
+D0600,L01987,Clear Worth Market,R03,EMEA,7400,qualified,False,False,2026-10-30,,,,,2026-10-30,,

@@ -1,0 +1,2 @@
+# keep LF everywhere so the generated sample stays byte-identical on every OS
+* text=auto eol=lf
