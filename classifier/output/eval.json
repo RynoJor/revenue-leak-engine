@@ -1,0 +1,176 @@
+{
+  "model": "claude-haiku-5-5",
+  "prompt_version": "e7e3dab8d980",
+  "n_scored": 1500,
+  "n_total": 1500,
+  "accuracy": 0.996,
+  "macro_f1": 0.9971,
+  "n_wrong": 6,
+  "missed_interested": 0,
+  "per_class": {
+    "interested": {
+      "support": 441,
+      "predicted": 447,
+      "precision": 0.9866,
+      "recall": 1.0,
+      "f1": 0.9932
+    },
+    "not_now": {
+      "support": 400,
+      "predicted": 394,
+      "precision": 1.0,
+      "recall": 0.985,
+      "f1": 0.9924
+    },
+    "out_of_office": {
+      "support": 312,
+      "predicted": 312,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "referral": {
+      "support": 142,
+      "predicted": 142,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "unsubscribe": {
+      "support": 205,
+      "predicted": 205,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "confusion_matrix": {
+    "rows_true_cols_predicted": [
+      "interested",
+      "not_now",
+      "out_of_office",
+      "referral",
+      "unsubscribe"
+    ],
+    "matrix": [
+      [
+        441,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        394,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        312,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        142,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        205
+      ]
+    ]
+  },
+  "calibration": [
+    {
+      "confidence": "< 0.70",
+      "n": 0,
+      "accuracy": null
+    },
+    {
+      "confidence": "0.70-0.89",
+      "n": 170,
+      "accuracy": 0.9706
+    },
+    {
+      "confidence": "0.90-0.94",
+      "n": 329,
+      "accuracy": 0.997
+    },
+    {
+      "confidence": ">= 0.95",
+      "n": 1001,
+      "accuracy": 1.0
+    }
+  ],
+  "usage": {
+    "input_tokens": 1049289,
+    "output_tokens": 76648,
+    "cost_usd": 0.1433
+  },
+  "mistakes": [
+    {
+      "reply_id": "E00150",
+      "subject": "Re: Re: your demo request",
+      "reply_text": "Hey,\n\nWe're reviewing tools next quarter. Put me down for a follow-up then.\n\nRobert",
+      "true_label": "not_now",
+      "predicted_label": "interested",
+      "confidence": 0.9,
+      "reason": "Sender asks for a follow-up next quarter, showing future intent to move forward with a demo."
+    },
+    {
+      "reply_id": "E00563",
+      "subject": "Re: Ideas for Juniperlight Outfitters",
+      "reply_text": "Good morning,\n\nWe're reviewing tools next quarter. Put me down for a follow-up then.\n\nRegards,\nTheresa Edwards",
+      "true_label": "not_now",
+      "predicted_label": "interested",
+      "confidence": 0.85,
+      "reason": "Sender agrees to a follow-up next quarter, which is a request to continue the conversation."
+    },
+    {
+      "reply_id": "E00087",
+      "subject": "Re: Ideas for Mapleford Fitness",
+      "reply_text": "Good morning,\n\nWe're reviewing tools next quarter. Put me down for a follow-up then.\n\nThanks\nFrank | Mapleford Fitness",
+      "true_label": "not_now",
+      "predicted_label": "interested",
+      "confidence": 0.8,
+      "reason": "Asks for a follow-up next quarter when they review tools; wants to continue the conversation."
+    },
+    {
+      "reply_id": "E00210",
+      "subject": "Re: Cutting admin time at Fernline Consulting",
+      "reply_text": "Thanks for reaching out.\n\nWe're reviewing tools next quarter. Put me down for a follow-up then.\n\nThanks\nGregg | Fernline Consulting",
+      "true_label": "not_now",
+      "predicted_label": "interested",
+      "confidence": 0.8,
+      "reason": "Asks for a follow-up next quarter when they review tools; wants to continue."
+    },
+    {
+      "reply_id": "E00520",
+      "subject": "Re: Cutting admin time at Quillline Gym",
+      "reply_text": "Good morning,\n\nWe're reviewing tools next quarter. Put me down for a follow-up then.\n\nThanks,\nJoseph",
+      "true_label": "not_now",
+      "predicted_label": "interested",
+      "confidence": 0.8,
+      "reason": "Asks for a follow-up next quarter, so the sender wants to continue the conversation later."
+    },
+    {
+      "reply_id": "E00758",
+      "subject": "Re: Following up",
+      "reply_text": "We're reviewing tools next quarter. Put me down for a follow-up then.\n\nBest,\nVincent",
+      "true_label": "not_now",
+      "predicted_label": "interested",
+      "confidence": 0.8,
+      "reason": "Asks for a follow-up next quarter, showing future interest in evaluating tools."
+    }
+  ]
+}

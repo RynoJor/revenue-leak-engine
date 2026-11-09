@@ -1,0 +1,1501 @@
+reply_id,lead_id,predicted_label,confidence,reason
+E00001,L00034,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E00002,L00492,out_of_office,0.97,Automatic holiday reply saying office is closed until January 15; no offer response.
+E00003,L00555,out_of_office,0.9,Automatic parental leave reply directing urgent matters to a colleague; says nothing about the offer.
+E00004,L00801,referral,0.97,Sender says they are not the right person and points to Janet Campbell with an email address.
+E00005,L01588,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E00006,L01276,interested,0.9,"Requests the proposal to share with partner, so the sender wants to move forward."
+E00007,L01389,referral,0.95,Sender says she doesn't buy tools and points to Teresa Garcia with her email.
+E00008,L00119,out_of_office,0.9,Automatic parental leave reply; it redirects to Donna but says nothing about the offer itself.
+E00009,L01298,out_of_office,0.98,Automatic reply saying sender is on annual leave until January 17.
+E00010,L01538,interested,0.96,"Sender is keen and asks directly when they can chat, so the rep should schedule a call."
+E00011,L01780,not_now,0.8,"Declines because they just signed a 12-month contract with another provider; a polite no, not a permanent opt-out."
+E00012,L00675,interested,0.97,Sender agrees to look and asks for a Thursday afternoon call.
+E00013,L00998,not_now,0.9,"Polite decline for now, keeping current setup this year; door not closed for good."
+E00014,L00573,out_of_office,0.93,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E00015,L00135,not_now,0.9,Polite decline citing satisfaction with current solution; door not closed for good.
+E00016,L00331,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they won't be interested.
+E00017,L01706,interested,0.97,Asks for a demo and wants a colleague to join; clear next step.
+E00018,L01680,referral,0.97,Sender says it's not their area and redirects to Rebekah with an email address.
+E00019,L01182,interested,0.93,"Asks whether it integrates with QuickBooks and proposes a conversation if so, signaling intent to move forward."
+E00020,L01241,not_now,0.85,"Defers evaluation to next quarter; asks for follow-up then, not a demo now."
+E00021,L01662,interested,0.97,"Asks for the earliest walkthrough, clearly wanting to move forward now."
+E00022,L01745,referral,0.97,Sender says they are not the right person and points to Diana Tapia with email.
+E00023,L01294,not_now,0.9,Polite request to follow up after busy season ending March; door stays open.
+E00024,L00747,not_now,0.95,Polite decline citing frozen budget until Q2; asks to reach out later.
+E00025,L00831,not_now,0.93,"Polite decline citing bad timing, short-staffing, and no capacity for a new tool; not a permanent no."
+E00026,L00366,not_now,0.85,"Asks for follow-up next quarter; timing is deferred, not an immediate interest in demo or call."
+E00027,L01276,out_of_office,0.9,"Automatic away message until February 4; it names Kyle as an urgent contact, but the offer itself is not addressed."
+E00028,L01168,unsubscribe,0.97,Sender explicitly asks to be unsubscribed from all future emails.
+E00029,L00568,not_now,0.9,Polite decline due to timing; asks to follow up in a couple of months.
+E00030,L01182,interested,0.97,"Asks for pricing for their team size, a clear buying signal to move forward."
+E00031,L01294,out_of_office,0.97,Automatic travel away message with return date; says nothing about the offer.
+E00032,L01002,interested,0.93,"Asks about QuickBooks integration and says 'let's talk' if compatible, signaling readiness to proceed."
+E00033,L01002,interested,0.97,"Asks for pricing for their team size, a clear buying signal and next step."
+E00034,L01367,not_now,0.93,Polite deferral due to a move; asks to be contacted again in a couple of months.
+E00035,L00331,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00036,L01830,interested,0.9,"Asks for the proposal to review with partner, indicating they want to move forward."
+E00037,L01107,not_now,0.93,Polite decline citing bad timing and staffing; door not closed for good.
+E00038,L00158,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; timing issue.
+E00039,L00511,unsubscribe,0.97,Sender asks to delete their data and stop all further contact.
+E00040,L01366,not_now,0.9,Polite decline citing being too busy at the moment; door not closed for good.
+E00041,L00462,referral,0.97,"Sender redirects the rep to Seth, the office manager, and provides his email address."
+E00042,L01538,not_now,0.9,Polite no due to timing and staffing; can't take on a new tool currently.
+E00043,L00942,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E00044,L01309,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E00045,L01611,interested,0.96,"Asks about onboarding after looking for such a solution, signaling intent to move forward."
+E00046,L01182,not_now,0.93,Polite decline citing being too busy at the moment; door not closed for good.
+E00047,L01590,interested,0.93,"Sender engaged and asked about setup time for their business, signaling willingness to move forward."
+E00048,L01749,out_of_office,0.97,Automatic sick-day reply with no statement about the offer itself.
+E00049,L01797,not_now,0.93,Polite decline citing bad timing and staffing; no request to stop contact.
+E00050,L01287,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00051,L01783,not_now,0.9,Polite decline citing current satisfaction with existing solution; door not closed for good.
+E00052,L01402,not_now,0.93,Polite decline citing being too busy at the moment; not a permanent no.
+E00053,L00786,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they won't be interested.
+E00054,L01568,out_of_office,0.98,Automatic reply saying the sender is on annual leave until February 11.
+E00055,L01259,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E00056,L01596,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E00057,L00519,referral,0.93,"Sender forwards the outreach to a named colleague, Kevin Huerta, and provides his email address."
+E00058,L00831,interested,0.97,"Sender asks for a demo of recurring invoice handling, signaling a clear next step."
+E00059,L01751,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00060,L00930,not_now,0.9,"Polite decline for now; they are keeping current setup this year, so door not closed."
+E00061,L00607,referral,0.97,Sender says she is not the right person and points to Grace Howard with an email.
+E00062,L01290,out_of_office,0.98,Automatic reply stating the sender is on annual leave until February 11.
+E00063,L00637,interested,0.97,Sender says timing is good and asks for a link to book a demo.
+E00064,L01745,not_now,0.9,"Polite decline: happy with current solution for now, door not closed for good."
+E00065,L01783,interested,0.93,"Asks what onboarding involves, signaling genuine interest in moving forward with the product."
+E00066,L00158,not_now,0.95,Sender says not a priority now and asks to check back in the new year.
+E00067,L00893,not_now,0.85,"Polite decline; they are happy with current solution for now, door not closed."
+E00068,L01672,referral,0.95,"Sender says it's not their area and redirects to Jill Scott, who handles admin and billing."
+E00069,L00488,not_now,0.9,"Sender is too busy at the moment, a polite no for now without closing the door."
+E00070,L01541,not_now,0.95,"Polite decline for now, explicitly asks to check back in the new year."
+E00071,L01797,not_now,0.88,Polite decline saying they're happy with current solution for now; door not closed.
+E00072,L00484,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from all future emails.
+E00073,L01626,out_of_office,0.9,"Automatic parental leave reply; no interest signal, though it names a backup contact."
+E00074,L01640,unsubscribe,0.98,Sender explicitly asks to be removed from the list and states they are not interested.
+E00075,L00073,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E00076,L01830,interested,0.97,"Asks for pricing for their team, a clear request to move forward."
+E00077,L01466,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, not a closed door."
+E00078,L01783,out_of_office,0.9,"Automatic parental leave reply; redirects to another contact but is an away message, not a referral."
+E00079,L00900,interested,0.93,"Asks about onboarding for a product they're looking for, signaling genuine next-step interest."
+E00080,L01225,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E00081,L00936,interested,0.9,"Asks for a proposal to share with partner, signaling intent to move forward."
+E00082,L01485,out_of_office,0.98,Automatic reply stating the sender is on annual leave until February 18.
+E00083,L01366,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until February 10.
+E00084,L01182,not_now,0.85,Polite deferral: interested in the idea but cannot review until after hiring a manager.
+E00085,L01745,not_now,0.95,Polite decline citing frozen budget until Q2; asks to reach out later.
+E00086,L01863,not_now,0.8,Polite decline due to an existing 12-month contract with another provider; not an unsubscribe request.
+E00087,L01568,interested,0.8,Asks for a follow-up next quarter when they review tools; wants to continue the conversation.
+E00088,L01310,not_now,0.8,Polite decline citing an existing 12-month contract with another provider; door not closed.
+E00089,L01106,not_now,0.96,Polite decline for now; asks to check back in the new year.
+E00090,L01002,not_now,0.93,Polite decline citing being too busy at the moment; door not closed for good.
+E00091,L01115,not_now,0.85,Interested in the idea but deferring evaluation until after hiring a new manager; door stays open.
+E00092,L00158,not_now,0.93,Polite decline citing being too busy at the moment; door not closed for good.
+E00093,L01182,out_of_office,0.96,Automatic reply saying sender is at a trade show until February 21.
+E00094,L00441,interested,0.95,"Sender is engaged and asks about onboarding, signaling readiness to explore the product further."
+E00095,L01588,referral,0.95,Sender says he doesn't buy tools and points to Scott King with email.
+E00096,L00573,out_of_office,0.97,Automatic reply saying the sender is on annual leave until February 11.
+E00097,L00441,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00098,L01797,not_now,0.85,Interested in principle but defers evaluation until after hiring a new manager; timing issue.
+E00099,L01568,unsubscribe,0.98,Sender explicitly asks to be removed from all future emails.
+E00100,L01306,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E00101,L00519,out_of_office,0.97,Automatic reply saying sender is travelling and returns February 17.
+E00102,L01875,out_of_office,0.97,Automatic away message stating absence until February 24; says nothing about the offer.
+E00103,L01402,not_now,0.95,Polite decline for now; asks to check back in the new year.
+E00104,L00982,referral,0.95,Sender forwards the outreach to operations manager Dalton Griffin and copies him.
+E00105,L01538,out_of_office,0.97,Automatic reply saying the sender is on annual leave until February 12.
+E00106,L01797,not_now,0.95,"Polite deferral: not a priority now, asks to check back in the new year."
+E00107,L00831,not_now,0.93,"Polite decline citing short staffing and inability to adopt a new tool; timing issue, not a permanent no."
+E00108,L01290,referral,0.97,Sender says they are not the right person and redirects to Michael Hernandez with email.
+E00109,L01281,interested,0.93,"Asks about QuickBooks integration and says 'let's talk', signaling readiness to move forward."
+E00110,L00274,interested,0.97,Asks for a demo and wants a colleague to join; clear next step.
+E00111,L01611,interested,0.93,"Asks whether it integrates with QuickBooks and says 'let's talk' if so, showing intent to proceed."
+E00112,L00288,not_now,0.95,Polite decline citing timing; asks to check back in the new year.
+E00113,L00421,out_of_office,0.96,Automatic away message until February 23; it names a backup contact but says nothing about the offer.
+E00114,L00697,referral,0.97,"Sender redirects the rep to Samantha, the decision-maker, and provides her email address."
+E00115,L00660,interested,0.95,Sender is asking about onboarding after saying they have been looking for something like this.
+E00116,L01907,out_of_office,0.97,Automatic reply saying the sender is on annual leave until February 26.
+E00117,L01281,interested,0.97,"Asks for a demo and wants a colleague to join, so the rep should schedule it."
+E00118,L01330,interested,0.85,"Asks for the proposal to review with partner, signaling move-forward next step."
+E00119,L01453,interested,0.97,Sender agrees to look and asks for a Thursday afternoon call.
+E00120,L00528,interested,0.97,Explicitly asks for a demo link and says current setup is a mess.
+E00121,L01147,not_now,0.95,"Budget frozen until Q2; sender explicitly asks to be contacted then, so the door stays open."
+E00122,L00936,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E00123,L00317,out_of_office,0.95,"Automatic away message until February 27; names Scott Diaz as urgent contact, but no offer response."
+E00124,L00550,interested,0.97,Asks for a demo and wants office manager Donald to join; clear next step.
+E00125,L01485,interested,0.97,"Asks for a demo of recurring invoice handling, clearly wanting to move forward."
+E00126,L00987,unsubscribe,0.97,Sender explicitly asks to be removed from the email list.
+E00127,L01310,interested,0.97,"Sender asks for a demo link and says current setup is a mess, clear buying intent."
+E00128,L00646,interested,0.97,"Asks for a demo and wants a colleague, Brian, to join the call."
+E00129,L01487,interested,0.97,"Asks for pricing for their team, a clear request to move forward."
+E00130,L00119,interested,0.98,"Sender agrees to look and proposes a Thursday afternoon call, a clear next step."
+E00131,L01095,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00132,L01106,interested,0.97,Sender explicitly says interested and asks for a demo of recurring invoices.
+E00133,L01733,not_now,0.93,Polite decline citing bad timing and staffing; door not closed for good.
+E00134,L00568,interested,0.93,"Asks about onboarding after saying they have been looking for this, signalling readiness to move forward."
+E00135,L01221,interested,0.85,"Requests a proposal to review, indicating willingness to move forward with the offer."
+E00136,L00267,unsubscribe,0.98,Sender explicitly asks to unsubscribe from further emails.
+E00137,L01281,referral,0.96,"Sender redirects to Joshua, the decision maker, providing his email address."
+E00138,L00135,not_now,0.9,Polite decline citing being too busy at the moment; door not closed for good.
+E00139,L00936,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, a clear next step."
+E00140,L01075,not_now,0.95,Polite decline for now; asks to check back in the new year.
+E00141,L00331,not_now,0.9,Polite deferral: asks to follow up after busy season ending March.
+E00142,L01241,interested,0.93,"Asks about QuickBooks integration and conditionally agrees to talk, signaling readiness to move forward."
+E00143,L01085,not_now,0.95,Polite decline citing frozen budget until Q2 and asks to reach out then.
+E00144,L01514,interested,0.97,"Sender is keen and asks when they can chat, so they want a call now."
+E00145,L00960,out_of_office,0.97,Automatic reply saying sender is at a trade show until February 24.
+E00146,L01148,out_of_office,0.9,"Automatic parental leave reply; redirects to another contact but is an away message, not a referral."
+E00147,L00519,referral,0.95,Sender forwards the offer to operations manager Scott Thomas instead of engaging directly.
+E00148,L01579,interested,0.97,Sender agrees to look and asks for a Thursday afternoon call.
+E00149,L00488,not_now,0.85,Interested in idea but defers evaluation until after hiring a new manager; timing issue.
+E00150,L01702,interested,0.9,"Sender asks for a follow-up next quarter, showing future intent to move forward with a demo."
+E00151,L00694,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they won't be interested.
+E00152,L00438,not_now,0.9,"Asks to follow up after busy season ending March; a timing deferral, not a closed door."
+E00153,L00633,interested,0.97,"Sender asks to start a trial this week, clearly wanting to move forward now."
+E00154,L01702,referral,0.95,Sender says he doesn't buy tools and points to Donald Wilson with his email.
+E00155,L00667,referral,0.97,Sender says not their area and points to Nicholas James for admin and billing.
+E00156,L01161,not_now,0.9,"Asks to follow up after busy season ending March, so timing is the blocker, not rejection."
+E00157,L01247,referral,0.97,Sender left the company and points to Todd Arellano as the new contact.
+E00158,L00788,interested,0.98,Sender says timing is good and asks for a demo booking link.
+E00159,L00722,not_now,0.9,"Polite decline; happy with current solution for now, door not closed for good."
+E00160,L01625,interested,0.95,"Sender is engaged and asks how long setup takes, a clear next-step signal."
+E00161,L00095,interested,0.93,"Asks how long setup takes for her specific business, signaling engagement and interest in moving forward."
+E00162,L00417,out_of_office,0.98,Automatic reply saying the sender is away until March 6; says nothing about the offer.
+E00163,L01155,interested,0.97,"Asks to see a demo of recurring invoice handling, signaling a clear next step."
+E00164,L01487,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, a clear next step."
+E00165,L00694,not_now,0.9,Interested in the idea but deferring until after hiring a new manager; polite delay.
+E00166,L01116,not_now,0.93,Polite decline citing bad timing due to move; asks to retry in a couple months.
+E00167,L00569,unsubscribe,0.98,Sender explicitly asks to stop receiving emails; no further contact should be made.
+E00168,L01706,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until March 6.
+E00169,L00497,not_now,0.9,"Polite decline; they're happy with current solution for now, so the door isn't closed."
+E00170,L01762,out_of_office,0.98,Automatic away message until March 1; says nothing about the offer itself.
+E00171,L00701,not_now,0.9,Polite decline citing satisfaction with current solution; door not closed for good.
+E00172,L00855,not_now,0.92,"Polite decline citing bad timing and staffing; no tool now, door not closed."
+E00173,L01531,not_now,0.9,"Polite decline for now; they are keeping current setup this year, door not closed."
+E00174,L01397,not_now,0.93,Polite decline citing being too busy at the moment; no closed door implied.
+E00175,L01443,out_of_office,0.97,Automatic holiday closure reply; says nothing about the offer itself.
+E00176,L01143,interested,0.97,Asks for the earliest walkthrough and says yes to a demo.
+E00177,L00929,interested,0.97,"Asks for pricing for their team size, signaling clear intent to move forward."
+E00178,L01238,out_of_office,0.93,Automatic parental leave reply redirecting to a colleague; says nothing about the offer itself.
+E00179,L00643,interested,0.97,"Asks for pricing for their team size, a clear buying signal to move forward."
+E00180,L01774,referral,0.97,Sender left the company and points to Lisa Austin with her email address.
+E00181,L00482,out_of_office,0.9,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E00182,L01817,out_of_office,0.97,Automatic travel away message; says nothing about the offer and returns March 2.
+E00183,L01702,not_now,0.8,"Asks for follow-up next quarter; defers evaluation, so timing is not now."
+E00184,L01366,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E00185,L00046,unsubscribe,0.97,"Single-word 'Remove.' is a request to stop receiving emails, so no more outreach."
+E00186,L00536,unsubscribe,0.97,Sender asks to delete their email and not be contacted again; clear opt-out.
+E00187,L01608,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E00188,L00361,unsubscribe,0.98,"Sender explicitly asks to stop receiving emails, a clear opt-out request."
+E00189,L01403,out_of_office,0.97,Automatic away message until March 2; says nothing about the offer.
+E00190,L01018,unsubscribe,0.97,Explicit request to be removed from the list; no further emails wanted.
+E00191,L01326,unsubscribe,0.98,Sender explicitly asks to stop receiving emails; no further outreach should be sent.
+E00192,L00317,not_now,0.96,Explicitly says not a priority now and asks to check back in the new year.
+E00193,L01531,referral,0.97,Sender says they're not the right person and points to Laura Pearson with email.
+E00194,L00528,interested,0.97,"Asks to start a trial this week, clearly wants to move forward now."
+E00195,L00568,not_now,0.8,"Asks for follow-up next quarter; defers interest to a later time, not an immediate demo or call."
+E00196,L00220,interested,0.93,"Asks about onboarding after saying they've been looking for something like this, signaling real interest."
+E00197,L00855,not_now,0.95,Polite decline for now; asks to check back in the new year.
+E00198,L00951,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E00199,L00590,referral,0.96,"Sender redirects the rep to a named colleague, Dillon, with his email address."
+E00200,L01182,referral,0.96,"Sender forwards the outreach to operations manager Michaela Burgess, naming her and her email."
+E00201,L00046,not_now,0.93,Polite deferral due to a move; asks to be contacted again in a couple of months.
+E00202,L00664,out_of_office,0.97,Automatic away message stating absence until March 1; says nothing about the offer.
+E00203,L00085,not_now,0.93,Polite decline citing bad timing; asks to follow up in a couple of months.
+E00204,L00646,referral,0.97,"Sender redirects the rep to Roberto, the decision maker, with his email address."
+E00205,L01221,unsubscribe,0.97,Explicitly rejects the offer and asks to be removed from the mailing list.
+E00206,L00747,interested,0.95,"Sender is keen and asks when they can chat, signaling readiness to move forward."
+E00207,L01182,interested,0.95,"Asks what onboarding involves, signaling genuine interest in moving forward."
+E00208,L01153,interested,0.93,"Asks how long setup takes, showing genuine interest and inviting next-step discussion."
+E00209,L01034,not_now,0.9,"Polite decline; they are happy with current solution, so door stays open for later."
+E00210,L01681,interested,0.8,Asks for a follow-up next quarter when they review tools; wants to continue.
+E00211,L01469,referral,0.95,Sender forwards the conversation to operations manager William Myers with his email address.
+E00212,L01592,interested,0.97,"Asks for a demo link and says current setup is a mess, clear buying intent."
+E00213,L00421,interested,0.95,"Sender is looking for this and asks about onboarding, signaling readiness to move forward."
+E00214,L01877,unsubscribe,0.97,Sender explicitly asks to be removed from the mailing list.
+E00215,L01561,interested,0.97,"Sender is keen and asks when they can chat, a clear request to move forward."
+E00216,L00494,interested,0.85,"Asks for a proposal to review, indicating forward movement; partner review is a next step."
+E00217,L01863,interested,0.97,"Asks to start a trial this week, clearly wants to move forward now."
+E00218,L00633,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00219,L01398,referral,0.97,"Sender redirects the rep to Daniel, the actual decision maker, with his email."
+E00220,L00832,out_of_office,0.98,Automatic away message stating absence until March 5; says nothing about the offer.
+E00221,L00084,out_of_office,0.97,Automatic reply saying sender is at a trade show until March 6.
+E00222,L00114,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00223,L00767,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00224,L00488,not_now,0.93,Polite decline citing bad timing and staffing; door not closed for good.
+E00225,L00701,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, not a rejection."
+E00226,L00317,interested,0.93,"Asks what onboarding involves after looking for something like this, signaling genuine interest in next steps."
+E00227,L00708,interested,0.97,"Asks to start a trial this week, clearly ready to move forward now."
+E00228,L01644,out_of_office,0.97,"Automatic holiday away message; office closed until March 16, says nothing about the offer."
+E00229,L01342,unsubscribe,0.97,Sender explicitly says 'Remove.' asking to be taken off the list.
+E00230,L01127,not_now,0.9,Polite decline citing being too busy right now; door not closed for good.
+E00231,L00695,interested,0.85,"Asks for a proposal to review with partner, signaling move-forward intent."
+E00232,L01592,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00233,L00165,not_now,0.85,"Defers evaluation to next quarter; asks for follow-up then, so not an immediate yes."
+E00234,L01593,out_of_office,0.97,Automatic travel away message saying the sender is back Thursday March 12.
+E00235,L01331,not_now,0.95,Polite decline citing lack of priority; asks to check back in the new year.
+E00236,L00968,referral,0.97,Sender says she is not the right person and points to Matthew Adams with an email.
+E00237,L00708,out_of_office,0.98,Automatic reply stating the sender is on annual leave until March 16.
+E00238,L01339,unsubscribe,0.97,Sender explicitly tells the rep to stop emailing them.
+E00239,L01116,out_of_office,0.98,Automatic reply saying the sender is travelling and returns March 7.
+E00240,L01198,not_now,0.92,Polite deferral due to a move; asks to be contacted again in a couple of months.
+E00241,L00643,interested,0.95,"Sender is asking about onboarding after a demo request, signaling readiness to move forward."
+E00242,L00293,not_now,0.9,"Sender says they are too busy right now; a polite no for timing, not permanent."
+E00243,L00819,not_now,0.9,"Polite decline for now; keeping current setup this year, not a permanent no."
+E00244,L01259,interested,0.93,"Asks about QuickBooks integration and says 'let's talk', signaling readiness to move forward."
+E00245,L00695,interested,0.93,"Asks about QuickBooks integration and says 'let's talk', signaling readiness to move forward."
+E00246,L00253,interested,0.95,"Asks about QuickBooks integration and says 'let's talk', signaling readiness to move forward."
+E00247,L01344,unsubscribe,0.98,"Sender explicitly asks to stop receiving emails, so no further outreach should be sent."
+E00248,L00122,out_of_office,0.9,Automatic parental leave reply; it redirects to another contact but says nothing about interest in the offer.
+E00249,L01590,interested,0.95,"Asks whether it integrates with QuickBooks and says 'let's talk' if so, showing intent to proceed."
+E00250,L00529,interested,0.95,"Sender asks how long setup takes, signaling genuine interest in moving forward with the product."
+E00251,L00432,interested,0.97,"Asks for a demo and says a colleague should join, so the rep should book it."
+E00252,L01136,unsubscribe,0.98,Sender explicitly asks to unsubscribe from further emails.
+E00253,L00811,interested,0.9,"Asks about QuickBooks integration and conditionally proposes a call, signalling intent to move forward."
+E00254,L01593,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E00255,L00300,not_now,0.9,Polite deferral; interest exists but timing is blocked until after a manager hire.
+E00256,L01127,not_now,0.95,"Polite deferral: not a priority now, asks to check back in the new year."
+E00257,L01136,out_of_office,0.97,Automatic reply saying the sender is away until March 14; no interest signal.
+E00258,L00936,not_now,0.85,"Asks to follow up after busy season ending March; a polite deferral, not a closed door."
+E00259,L00811,not_now,0.92,"Polite decline for now; keeping current setup this year, door not closed for good."
+E00260,L01453,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E00261,L00694,interested,0.97,"Sender says yes and asks for the earliest walkthrough, clearly wanting to move forward now."
+E00262,L01103,referral,0.97,Sender says they're not the right person and points to Cheryl Johnson with an email address.
+E00263,L00166,not_now,0.92,Polite decline citing being too busy at the moment; door not closed for good.
+E00264,L00590,out_of_office,0.98,Automatic reply saying the sender is on annual leave until March 18.
+E00265,L01262,not_now,0.8,"Defers engagement until next quarter's tool review; asks for follow-up then, not now."
+E00266,L00505,not_now,0.95,Polite decline citing frozen budget until Q2; asks to reach out later.
+E00267,L00320,interested,0.93,"Asks whether it integrates with QuickBooks and says 'let's talk' if so, signaling readiness to proceed."
+E00268,L00742,interested,0.95,"Asks for a demo and wants a colleague to join, signaling clear intent to move forward."
+E00269,L00396,out_of_office,0.98,Automatic reply saying sender is travelling and returns March 27.
+E00270,L00722,not_now,0.9,"Polite decline for now; keeping current setup this year, door not closed for good."
+E00271,L01711,interested,0.97,"Sender is keen and asks when they can chat, wanting to move forward now."
+E00272,L00066,out_of_office,0.97,Automatic away message stating absence until March 21; says nothing about the offer.
+E00273,L00042,out_of_office,0.97,Automatic holiday away message saying the office is closed until March 27.
+E00274,L00660,out_of_office,0.97,Automatic reply saying sender is out sick; says nothing about the offer.
+E00275,L01303,interested,0.97,"Sender is keen and asks when they can chat, wanting to move forward now."
+E00276,L00664,referral,0.96,Sender says it's not their area and points to Jennifer Martinez for admin and billing.
+E00277,L00819,out_of_office,0.98,Automatic reply stating the sender is on annual leave until March 24.
+E00278,L01875,not_now,0.85,"Asks for follow-up next quarter; timing is bad now, so it's a deferral, not interest."
+E00279,L01063,unsubscribe,0.97,"Sender says 'Remove.' asking to be taken off the list, which is an unsubscribe request."
+E00280,L01825,not_now,0.92,"Asks to follow up after busy season ending March; polite deferral, door open."
+E00281,L00811,unsubscribe,0.97,Sender explicitly asks to be removed from the email list.
+E00282,L01360,unsubscribe,0.97,Sender explicitly asks to be removed from the mailing list.
+E00283,L00869,not_now,0.93,Polite decline citing bad timing and staffing; door not closed for good.
+E00284,L00843,interested,0.93,"Sender is asking about onboarding, signaling genuine interest in moving forward with the product."
+E00285,L01608,not_now,0.85,"Interest in the idea, but deferred until after hiring a new manager; door stays open."
+E00286,L00314,interested,0.97,"Asks to start a trial this week, clearly wants to move forward now."
+E00287,L00394,interested,0.97,Sender explicitly asks for a demo link and says their current setup is a mess.
+E00288,L01848,interested,0.85,"Asks for a proposal to review with partner, signaling intent to move forward."
+E00289,L00878,out_of_office,0.97,"Automatic away message: at a trade show until March 21, says nothing about the offer."
+E00290,L01860,interested,0.93,"Asks whether it integrates with QuickBooks and says to talk if so, signaling interest in a call."
+E00291,L01080,out_of_office,0.97,Automatic reply saying sender is at a trade show until March 20; no offer response.
+E00292,L01155,out_of_office,0.98,Automatic reply stating the sender is on annual leave until March 31.
+E00293,L01271,referral,0.97,"Sender redirects the rep to Scott, the decision maker, with his email address."
+E00294,L01644,unsubscribe,0.98,Sender explicitly says 'Unsubscribe' and wants no more emails.
+E00295,L01576,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00296,L01889,out_of_office,0.97,Automatic travel away message; says nothing about the offer itself.
+E00297,L00490,not_now,0.9,"Polite decline for now; keeping current setup this year, door not closed for good."
+E00298,L01887,out_of_office,0.97,Automatic holiday closure message; says nothing about the offer itself.
+E00299,L01614,referral,0.96,"Sender says it's not their area and redirects to Lori, who handles billing."
+E00300,L00343,referral,0.97,Sender says they are not the right person and points to Joseph Dean with an email.
+E00301,L00499,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E00302,L01354,unsubscribe,0.97,Sender says not interested and explicitly asks to be removed from the list.
+E00303,L00114,not_now,0.95,Polite decline citing frozen budget until Q2; asks to reach out later.
+E00304,L00251,not_now,0.8,Polite decline because they just signed a 12-month contract with a competitor.
+E00305,L00453,not_now,0.93,Polite decline citing bad timing (office move); asks to follow up in a couple of months.
+E00306,L01534,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00307,L00490,referral,0.95,Sender says they don't buy tools and points to Michael Montoya with his email.
+E00308,L00346,unsubscribe,0.97,Sender explicitly asks to be removed and says they will never be interested.
+E00309,L01758,not_now,0.92,"Polite decline for now; keeping current setup this year, door not closed for good."
+E00310,L00588,out_of_office,0.97,Automatic reply saying sender is at a trade show until April 4; no comment on offer.
+E00311,L00320,interested,0.93,"Asks about QuickBooks integration and says 'let's talk' if compatible, signaling readiness to proceed."
+E00312,L00742,not_now,0.9,Polite decline citing satisfaction with current setup; door not closed permanently.
+E00313,L00695,interested,0.97,"Asks for the earliest walkthrough, clearly wants to move forward with a demo now."
+E00314,L01711,not_now,0.93,Polite decline citing being too busy at the moment; door not closed.
+E00315,L00081,out_of_office,0.97,Automatic away message stating absence until March 29; says nothing about the offer.
+E00316,L01136,interested,0.97,"Asks for the earliest walkthrough, clearly wants a demo now."
+E00317,L01608,out_of_office,0.9,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E00318,L01030,out_of_office,0.97,Automatic reply saying the sender is away until March 25; no signal about the offer.
+E00319,L00183,out_of_office,0.9,"Automatic away message until April 3; refers urgent matters to Virginia Rhodes, which is a referral signal but the reply is an auto-responder."
+E00320,L01118,not_now,0.85,Positive about the idea but deferring until after a manager hire; door stays open.
+E00321,L00139,not_now,0.9,"Asks to follow up after busy season ending in March; polite deferral, not a closed door."
+E00322,L01558,interested,0.95,"Asks about onboarding for a product they've been looking for, signaling genuine interest in moving forward."
+E00323,L00110,interested,0.97,"Sender is keen and asks when they can chat, signaling readiness to move forward."
+E00324,L00869,interested,0.97,Sender agrees to look and asks for a Thursday afternoon call.
+E00325,L00247,referral,0.97,Sender says they are not the right person and names Jeremy Garcia with an email to contact.
+E00326,L01421,not_now,0.85,Positive about the idea but deferring until after hiring a new manager; door stays open.
+E00327,L00986,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E00328,L01561,not_now,0.9,"Polite decline for this year, keeping current setup; door not closed permanently."
+E00329,L00223,not_now,0.8,"Already signed a 12-month contract with another provider; polite decline, not an explicit unsubscribe."
+E00330,L01062,interested,0.97,"Asks for a demo and wants a colleague to join, signaling clear intent to move forward."
+E00331,L00453,not_now,0.93,Polite decline citing bad timing and staffing; door not closed for good.
+E00332,L01904,unsubscribe,0.97,Explicitly declines and asks to be removed from the list.
+E00333,L01379,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E00334,L01636,interested,0.97,"Asks for the earliest walkthrough, clearly wanting to move forward with a demo now."
+E00335,L01183,out_of_office,0.9,"Automatic parental leave reply; redirects to another contact but is an away message, not a referral."
+E00336,L00664,not_now,0.93,Polite decline citing being too busy at the moment; door not closed for good.
+E00337,L01386,not_now,0.85,"Sender defers to next quarter for review; polite postponement, not a current request for a demo."
+E00338,L01184,unsubscribe,0.97,Explicit request to be removed from the list and states not interested.
+E00339,L00269,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E00340,L00143,not_now,0.8,Defers evaluation to next quarter; wants follow-up later rather than now.
+E00341,L01578,referral,0.97,"Sender redirects the rep to John, the decision maker, with his email address."
+E00342,L00487,not_now,0.93,"Polite decline citing bad timing and staffing; not a permanent no, no unsubscribe request."
+E00343,L01666,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; timing issue.
+E00344,L00742,not_now,0.82,"Polite deferral: they're reviewing tools next quarter and want follow-up then, not now."
+E00345,L00291,not_now,0.95,Polite no due to frozen budget; asks to reach out in Q2.
+E00346,L00139,out_of_office,0.97,"Automatic holiday away message; office closed until April 9, nothing about the offer."
+E00347,L01380,out_of_office,0.9,"Automatic away message until April 8; names Shelly Rush as urgent contact, but no offer response."
+E00348,L01261,not_now,0.9,"Asks to follow up after busy season ending March; a polite deferral, not a closed door."
+E00349,L00139,out_of_office,0.98,"Automatic holiday away message; office closed until April 10, says nothing about the offer."
+E00350,L01593,interested,0.97,"Asks for the earliest walkthrough, clearly wanting a demo now."
+E00351,L00487,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; timing is the blocker.
+E00352,L01482,referral,0.97,Sender says they are not the right person and points to Patricia Peterson with an email.
+E00353,L01392,referral,0.97,Sender left the company and points to Susan White as the new contact.
+E00354,L01331,out_of_office,0.9,Automatic away message until April 9; names a backup contact but makes no decision on the offer.
+E00355,L01533,interested,0.93,"Asks what onboarding involves, showing genuine interest in moving forward with the product."
+E00356,L00195,not_now,0.9,"Polite deferral due to busy season; asks to follow up after March, so door stays open."
+E00357,L01261,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E00358,L01472,out_of_office,0.98,Automatic reply stating the sender is on annual leave until April 12.
+E00359,L00456,out_of_office,0.97,"Automatic holiday away message; office closed until April 9, says nothing about the offer."
+E00360,L00873,referral,0.95,Sender declines and points to Lori Howard with her email address for the rep to contact.
+E00361,L01810,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00362,L01157,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E00363,L00161,interested,0.85,"Asks for the proposal to review, a concrete next step toward moving forward."
+E00364,L01218,interested,0.97,Asks for a demo and wants a colleague to join; clear forward momentum.
+E00365,L00082,out_of_office,0.95,Automatic away message until April 10; it names a backup contact but says nothing about the offer.
+E00366,L01183,out_of_office,0.97,Automatic reply saying sender is at a trade show until April 16.
+E00367,L00875,out_of_office,0.97,Automatic holiday away message stating office is closed until April 16.
+E00368,L00402,referral,0.97,"Sender redirects to James, the decision maker, with his email address provided."
+E00369,L01171,interested,0.95,"Sender asks about onboarding for a trial, signaling intent to move forward."
+E00370,L01261,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00371,L00252,not_now,0.8,Declines because they just signed a 12-month contract with a competitor; door not explicitly closed.
+E00372,L01531,interested,0.95,"Asks for a demo and wants a colleague to join, signaling clear intent to move forward."
+E00373,L00298,referral,0.96,"Sender redirects the rep to Jessica, the decision maker, and provides her email address."
+E00374,L00869,interested,0.97,"Sender asks to start a trial this week, a clear request to move forward now."
+E00375,L01127,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they are not interested.
+E00376,L00948,not_now,0.9,Polite decline citing bad timing and staffing constraints; door not closed permanently.
+E00377,L01263,interested,0.97,"Sender says they are interested and asks how recurring invoices are handled, requesting a demo-style walkthrough."
+E00378,L00558,not_now,0.93,Polite deferral due to a move; asks to try again in a couple of months.
+E00379,L00298,out_of_office,0.97,Automatic sick-leave reply with no engagement on the offer itself.
+E00380,L00139,interested,0.97,"Sender asks for the earliest walkthrough, clearly wanting to move forward now."
+E00381,L00111,interested,0.97,"Sender is keen and asks when they can chat, signaling readiness to move forward."
+E00382,L00948,interested,0.97,"Asks to start a trial this week, clearly wants to move forward now."
+E00383,L00500,unsubscribe,0.97,Sender explicitly asks to be unsubscribed from all future emails.
+E00384,L00813,out_of_office,0.93,"Automatic parental leave reply; it redirects to a colleague but is an away message, not a referral."
+E00385,L01261,referral,0.93,Sender declines buying but points to Richard Porter with his email address.
+E00386,L00461,out_of_office,0.97,Automatic away message until April 15; names a contact for urgent matters only.
+E00387,L01384,interested,0.98,"Sender asks for the earliest walkthrough, clearly requesting a demo now."
+E00388,L01534,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E00389,L01810,interested,0.97,"Asks for the earliest walkthrough after saying yes to the trial, clearly wanting to move forward."
+E00390,L01215,out_of_office,0.97,Automatic reply saying the sender is away until April 10; says nothing about the offer.
+E00391,L01262,interested,0.9,"Sender asks about onboarding for the product, signaling genuine interest in moving forward."
+E00392,L00195,out_of_office,0.9,"Automatic away message until April 14; refers urgent matters to Thomas Gomez, but is not a substantive referral."
+E00393,L00599,out_of_office,0.97,Automatic holiday away message saying office is closed until April 14.
+E00394,L01520,out_of_office,0.93,Automatic away message with return date; names a backup contact but makes no decision on the offer.
+E00395,L01400,unsubscribe,0.98,Explicit request to stop emailing; the sender wants no further contact.
+E00396,L00804,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, clear next step."
+E00397,L01624,out_of_office,0.97,Automatic reply stating the sender is on annual leave until April 12.
+E00398,L00252,out_of_office,0.97,Automatic holiday away message saying the office is closed until April 19.
+E00399,L01267,interested,0.97,"Sender asks to start a trial this week, clearly wanting to move forward now."
+E00400,L00402,not_now,0.85,Interested in the idea but deferring evaluation until after hiring a new manager.
+E00401,L01578,interested,0.97,"Sender says yes and asks for a Thursday afternoon call, a clear next step."
+E00402,L01312,interested,0.97,Asks for a demo link and says current setup is a mess; ready to move forward.
+E00403,L00745,not_now,0.93,Polite decline citing bad timing and staffing; door not closed for good.
+E00404,L00850,referral,0.9,Sender forwards the request to a named operations manager instead of handling it themselves.
+E00405,L01208,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from further emails.
+E00406,L01312,not_now,0.95,"Budget frozen until Q2; polite request to reach out later, not a permanent no."
+E00407,L00490,interested,0.97,Sender says yes and asks for a call Thursday afternoon.
+E00408,L00830,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00409,L00365,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until April 19.
+E00410,L01575,out_of_office,0.97,"Automatic holiday away message; office closed until April 16, says nothing about the offer."
+E00411,L00365,interested,0.97,"Sender is keen and asks when they can chat, a clear request to move forward."
+E00412,L01400,interested,0.97,Sender asks for a demo link and says the current setup is a mess.
+E00413,L00851,not_now,0.93,Polite decline citing bad timing (office move); asks to follow up in a couple of months.
+E00414,L01853,interested,0.97,"Sender asks for a demo link and says current setup is a mess, so timing is right."
+E00415,L01689,referral,0.97,Sender says they're not the right person and points to Logan Moreno with an email.
+E00416,L00418,interested,0.97,"Sender explicitly asks for a demo booking link, signaling readiness to move forward now."
+E00417,L00873,not_now,0.9,Polite decline citing satisfaction with current solution; door not closed for good.
+E00418,L01527,not_now,0.85,Polite deferral: cannot evaluate until after hiring a new manager; door stays open.
+E00419,L00500,not_now,0.93,"Polite decline citing bad timing and staffing; not a permanent no, door stays open."
+E00420,L00236,out_of_office,0.93,Automatic away message until April 23; it contains a backup contact but no real interest signal.
+E00421,L00080,out_of_office,0.97,"Automatic holiday away message; office closed until April 21, says nothing about the offer."
+E00422,L00223,referral,0.95,Sender forwards the conversation to operations manager Jeffrey Ray instead of engaging directly.
+E00423,L01312,interested,0.97,"Sender is keen and explicitly asks when they can chat, so the rep should schedule a call."
+E00424,L01444,not_now,0.8,"Recently signed a 12-month contract with a competitor; polite decline, so a later check-in is possible."
+E00425,L00195,referral,0.97,"Sender redirects to office manager Emily with her email address, not handling it himself."
+E00426,L00206,referral,0.96,"Sender says they are not the right person and points to James Moss, with email."
+E00427,L01237,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, a clear next step."
+E00428,L01183,interested,0.98,Sender agrees to look and proposes a Thursday afternoon call.
+E00429,L00851,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E00430,L01065,interested,0.97,Prospect explicitly says interested and asks for a demo of recurring invoices.
+E00431,L00952,out_of_office,0.97,Automatic away reply stating absence until April 23; says nothing about the offer.
+E00432,L00227,not_now,0.95,Polite no for now; asks to check back in the new year.
+E00433,L01279,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from all future emails.
+E00434,L01267,interested,0.97,"Asks for pricing for their team size, a clear buying signal to move forward."
+E00435,L01759,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00436,L01183,interested,0.97,"Sender says yes and asks for the earliest walkthrough, a clear request for a demo."
+E00437,L01575,not_now,0.95,Polite decline for now; asks to check back in the new year.
+E00438,L00804,interested,0.97,"Sender asks to start a trial this week, clearly wanting to move forward now."
+E00439,L01400,not_now,0.9,Polite decline for this year due to keeping current setup; door not closed permanently.
+E00440,L00721,interested,0.97,"Sender is engaged and asks about onboarding, signaling readiness to move forward."
+E00441,L01375,referral,0.97,"Sender redirects the rep to Jack, the office manager, and gives his email address."
+E00442,L00736,referral,0.95,"Sender redirects the rep to Kyle, who makes the decisions, and gives his email."
+E00443,L00151,not_now,0.93,Polite decline citing bad timing and being short-staffed; door not closed for good.
+E00444,L00850,not_now,0.93,"Polite decline for now; keeping current setup this year, door not closed for good."
+E00445,L01759,out_of_office,0.9,Automatic away message until April 25; refers to a colleague but is not a personal handoff.
+E00446,L00097,not_now,0.95,Polite decline citing frozen budget until Q2; asks to reach out later.
+E00447,L00663,not_now,0.95,Polite decline for now with explicit request to check back in the new year.
+E00448,L00340,interested,0.97,Asks for a demo link and says current setup is a mess; clear buying intent.
+E00449,L00963,unsubscribe,0.97,"Sender asks for deletion and no further contact, so the rep must stop emailing."
+E00450,L01151,interested,0.95,"Sender engaged and asks how long setup takes, signaling intent to move forward."
+E00451,L00816,not_now,0.9,"Sender says they are too busy at the moment, a polite no for now."
+E00452,L01312,interested,0.97,Asks for a demo and wants the office manager to join; clear next step.
+E00453,L01520,out_of_office,0.97,Automatic travel away message with return date; says nothing about the offer.
+E00454,L01757,referral,0.97,Sender redirects the rep to office manager Melissa with her email address.
+E00455,L01457,interested,0.97,"Sender says yes and asks for the earliest walkthrough, clearly wanting to move forward."
+E00456,L01254,not_now,0.95,"Budget frozen until Q2 and asks to reach out then; a polite deferral, not a closed door."
+E00457,L00980,interested,0.97,"Asks to see how the product handles recurring invoices, a clear request for a demo."
+E00458,L00735,out_of_office,0.98,Automatic reply saying the office is closed for a holiday until May 5.
+E00459,L00170,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00460,L01080,out_of_office,0.97,Automatic reply saying sender is at a trade show until April 30.
+E00461,L01703,referral,0.95,"Janet forwards the outreach to operations manager Justin Mcdowell and copies him, pointing to a new contact."
+E00462,L01237,not_now,0.85,Polite decline citing satisfaction with current solution; door not closed for good.
+E00463,L01635,interested,0.97,"Asks to start a trial this week, wanting to test before month end."
+E00464,L01261,unsubscribe,0.98,Explicit request to unsubscribe the address from all future emails.
+E00465,L01575,interested,0.95,"Sender is keen and asks when they can chat, so the rep should schedule a call."
+E00466,L00337,out_of_office,0.97,Automatic away message stating absence until May 2; says nothing about the offer.
+E00467,L01124,unsubscribe,0.97,Sender explicitly tells the rep to stop emailing them.
+E00468,L01375,referral,0.95,"Sender redirects the rep to Jamie, the decision maker, providing an email address."
+E00469,L01210,not_now,0.9,"Asks to follow up after busy season ending March; a polite deferral, not a closed door."
+E00470,L00487,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E00471,L00797,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00472,L00175,out_of_office,0.97,"Automatic holiday away message; office closed until May 2, says nothing about the offer."
+E00473,L00080,interested,0.97,"Sender asks for a demo of recurring invoice handling, signaling clear interest in next steps."
+E00474,L01708,not_now,0.9,"Asks to follow up after busy season ending March; a timing deferral, not a closed door."
+E00475,L00199,unsubscribe,0.97,"Sender explicitly tells the rep to stop emailing them, which is a request to end contact."
+E00476,L01842,out_of_office,0.97,Automatic reply stating the sender is travelling and returns Monday May 4.
+E00477,L00579,not_now,0.85,"Defers evaluation to next quarter and asks for follow-up then, so timing is the blocker."
+E00478,L00921,interested,0.97,Asks for a demo and wants a colleague to join; clear intent to move forward.
+E00479,L01534,interested,0.97,"Sender asks for a demo link and says current setup is a mess, clear buying intent."
+E00480,L00206,interested,0.93,"Asks what onboarding involves after saying they have been looking for this, a next-step signal."
+E00481,L00280,not_now,0.9,Polite deferral: asks to follow up after busy season ending March; door stays open.
+E00482,L00490,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E00483,L01390,out_of_office,0.97,Automatic reply saying the sender is away until May 9; says nothing about the offer.
+E00484,L00231,not_now,0.85,Polite decline citing satisfaction with current solution; door not closed for good.
+E00485,L01124,referral,0.96,Sender forwards the outreach to operations manager Linda Chang instead of engaging herself.
+E00486,L00797,not_now,0.95,Polite decline for now; asks to check back in the new year.
+E00487,L00167,referral,0.97,Sender says they are not the right person and points to Kayla Todd with an email address.
+E00488,L00830,out_of_office,0.97,Automatic holiday away message with office closed until May 8; nothing about the offer.
+E00489,L01708,referral,0.97,Sender left the company and points to Patricia Stewart as the new contact.
+E00490,L00921,not_now,0.95,Polite decline citing bad timing and asking to check back in the new year.
+E00491,L01215,not_now,0.9,"Polite decline for this year, keeping current setup; door not closed permanently."
+E00492,L00090,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00493,L00047,unsubscribe,0.97,Explicitly declines and asks to be removed from the list; no more email wanted.
+E00494,L00321,interested,0.97,"Asks for pricing for their team size, a clear next step toward buying."
+E00495,L01404,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from further emails.
+E00496,L00193,not_now,0.95,Polite decline for now with a request to check back in the new year.
+E00497,L00887,interested,0.97,"Sender asks to start a trial this week, a clear request to move forward now."
+E00498,L01404,out_of_office,0.97,Automatic reply saying the sender is travelling and back May 7; no offer response.
+E00499,L00685,interested,0.95,"Asks how long setup takes for their business, signaling real interest in moving forward."
+E00500,L00689,not_now,0.8,"Polite deferral: reviewing tools next quarter, asks for follow-up then, not immediate interest."
+E00501,L00365,not_now,0.9,"Polite decline for now, keeping current setup this year; door not closed for good."
+E00502,L01354,out_of_office,0.98,Automatic reply saying the sender is on annual leave until May 5.
+E00503,L00595,interested,0.97,Asks for a demo and wants office manager Nichole to join.
+E00504,L00298,out_of_office,0.95,"Automatic away message until May 3; it names Shelby as an urgent contact, but the sender is away, not redirecting the offer."
+E00505,L00454,out_of_office,0.97,"Automatic holiday away message; office closed until May 9, says nothing about the offer."
+E00506,L01834,not_now,0.9,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E00507,L01086,referral,0.97,Sender redirects the rep to office manager Angela with her email address.
+E00508,L00769,not_now,0.93,Polite decline citing bad timing and being short-staffed; door not closed for good.
+E00509,L00049,not_now,0.85,Interested in the idea but deferring evaluation until after hiring a new manager; door stays open.
+E00510,L01812,interested,0.97,"Prospect says interested and asks how the product handles recurring invoices, a clear request for a demo."
+E00511,L01861,unsubscribe,0.97,"Explicit request to be removed from the list, with firm refusal of future contact."
+E00512,L01086,out_of_office,0.9,Automatic away message until May 11; refers urgent matters to Sara Williams.
+E00513,L00301,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E00514,L00365,interested,0.97,"Asks for pricing for their team size, a clear request to move forward."
+E00515,L01043,not_now,0.8,Polite decline citing satisfaction with current solution; door not closed for good.
+E00516,L01521,out_of_office,0.97,Automatic reply saying the sender is at a trade show until May 15.
+E00517,L00489,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00518,L00804,referral,0.96,"Sender redirects to Thomas Lowe, the decision maker, providing his email address."
+E00519,L00373,out_of_office,0.9,Automatic away message until May 15; refers urgent matters to a colleague but is not a handoff.
+E00520,L00134,interested,0.8,"Asks for a follow-up next quarter, so the sender wants to continue the conversation later."
+E00521,L00301,interested,0.97,"Asks for pricing for their team size, signaling clear intent to move forward."
+E00522,L00755,not_now,0.95,"Budget frozen until Q2; polite no for now, asks to reach out later."
+E00523,L01628,interested,0.97,"Sender asks for a demo link and says current setup is a mess, clear next step."
+E00524,L00699,out_of_office,0.98,Automatic reply stating annual leave until May 9; says nothing about the offer.
+E00525,L01861,not_now,0.97,Polite decline citing timing; asks to check back in the new year.
+E00526,L01006,not_now,0.95,Polite decline for now with a request to check back in the new year.
+E00527,L00419,unsubscribe,0.98,"Explicitly asks to be removed from the mailing list, so no further emails should be sent."
+E00528,L00162,out_of_office,0.9,Automatic parental leave reply; it redirects to another contact but is primarily an away message.
+E00529,L00373,interested,0.93,"Sender is engaged and asks how long setup takes, signaling intent to explore further."
+E00530,L01659,interested,0.97,"Sender asks for a demonstration of recurring invoice handling, signaling clear interest in next steps."
+E00531,L01857,out_of_office,0.97,"Automatic away message until May 10; refers urgent matters to Heidi Smith, but no real interest expressed."
+E00532,L00111,not_now,0.85,"Asks to follow up after busy season ending March; polite deferral, not a closed door."
+E00533,L01757,not_now,0.9,Polite decline citing satisfaction with current solution; door not closed for good.
+E00534,L01810,not_now,0.85,"Asks to follow up after busy season ending March; polite deferral, not a closed door."
+E00535,L01067,out_of_office,0.8,"Automatic away message until May 17; names Beth as urgent contact, but offer not addressed."
+E00536,L00980,out_of_office,0.97,Automatic away message stating absence until May 15; says nothing about the offer.
+E00537,L01834,not_now,0.95,Polite decline due to timing; asks to check back in the new year.
+E00538,L00026,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E00539,L01340,interested,0.97,"Asks for pricing for their team, a clear request to move forward."
+E00540,L00419,out_of_office,0.98,Automatic reply saying the sender is away until May 12; says nothing about the offer.
+E00541,L00772,interested,0.96,Sender says they are still keen and asks when they can chat.
+E00542,L01779,interested,0.97,"Sender asks for the earliest walkthrough, clearly wanting to move forward now."
+E00543,L00691,referral,0.97,Sender says they are not the right person and points to Robert Miller with an email address.
+E00544,L00424,interested,0.97,"Asks to start a trial this week, a clear request to move forward now."
+E00545,L00342,unsubscribe,0.98,"Sender explicitly asks to be removed from the mailing list, so no further emails should be sent."
+E00546,L00997,interested,0.97,"Asks for a demo and wants a colleague to join, so the rep should schedule it."
+E00547,L01027,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; timing is the blocker.
+E00548,L01430,out_of_office,0.97,Automatic reply saying sender is out sick; says nothing about the offer.
+E00549,L00429,not_now,0.8,"Signed a 12-month contract with another provider; polite no, though not explicitly a permanent close."
+E00550,L00424,interested,0.97,"Asks for pricing for their team, a clear buying signal and next step."
+E00551,L01779,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E00552,L01027,unsubscribe,0.99,Sender explicitly asks to be unsubscribed from all future emails.
+E00553,L00132,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they are not interested.
+E00554,L01721,out_of_office,0.8,"Automatic parental leave reply; it points to a contact but is an away message, not a true referral."
+E00555,L01076,referral,0.97,Sender says they are not the right person and points to Lisa Hendrix with email.
+E00556,L00298,interested,0.93,"Sender says 'you have my attention' and asks about setup time, signaling interest in next steps."
+E00557,L01775,unsubscribe,0.97,Explicit request to be removed from list; says not interested and never will be.
+E00558,L01862,unsubscribe,0.97,Explicit request to be removed from the list and a clear rejection.
+E00559,L00981,not_now,0.85,Polite decline citing current satisfaction with existing solution; door not closed for good.
+E00560,L00098,not_now,0.85,"Defers evaluation to next quarter; asks for follow-up then, so not an immediate yes."
+E00561,L01775,referral,0.95,Sender declines buying but points to Ryan Simmons with an email address.
+E00562,L00208,out_of_office,0.97,Automatic reply saying the sender is on annual leave until May 26.
+E00563,L01786,interested,0.85,"Sender agrees to a follow-up next quarter, which is a request to continue the conversation."
+E00564,L00834,out_of_office,0.97,Automatic reply saying sender is at a trade show until May 25.
+E00565,L01119,interested,0.85,"Asks for the proposal to review with partner, showing a clear next step."
+E00566,L00782,unsubscribe,0.98,"Sender explicitly asks to stop receiving emails, so no further outreach should be sent."
+E00567,L01713,not_now,0.8,"Already signed a 12-month contract with another provider; polite decline, though a future renewal may be possible."
+E00568,L01011,out_of_office,0.8,"Automatic away message until May 19; names Rita as urgent contact, but the offer itself is unaddressed."
+E00569,L00538,not_now,0.85,"Defers evaluation to next quarter; asks for follow-up then, so not ready now."
+E00570,L00761,referral,0.96,Sender points to office manager Anthony with his email instead of handling the trial themselves.
+E00571,L00148,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E00572,L00508,not_now,0.85,Defers evaluation to next quarter and asks for a follow-up then; not a current interest.
+E00573,L01658,interested,0.97,"Asks for a demo link and says current setup is a mess, clear buying intent."
+E00574,L00883,not_now,0.95,Polite decline citing low priority and asking to check back in the new year.
+E00575,L00429,referral,0.97,Sender says they're not the right person and points to Diane Fox with email.
+E00576,L00686,interested,0.95,"Sender is engaged and asks how long setup takes, signaling intent to move forward."
+E00577,L01207,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E00578,L00611,unsubscribe,0.97,Asks to delete their email and not be contacted again; clear opt-out request.
+E00579,L01430,interested,0.97,"Sender says yes and asks for the earliest walkthrough, a clear request to move forward."
+E00580,L00047,interested,0.93,"Asks whether it integrates with QuickBooks and says to talk if so, signaling readiness for a call."
+E00581,L01713,not_now,0.9,Polite decline for now citing keeping things as they are this year; door not closed.
+E00582,L00301,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, door stays open."
+E00583,L00554,out_of_office,0.9,Automatic parental leave reply; it points to a backup contact but says nothing about the offer.
+E00584,L00301,unsubscribe,0.97,Sender explicitly says 'Unsubscribe' and wants no further emails.
+E00585,L01648,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E00586,L01067,referral,0.96,Sender says they are not the right person and points to Benjamin Thomas with an email address.
+E00587,L01554,interested,0.97,Sender says interested and asks for a demo of recurring invoice handling.
+E00588,L01151,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E00589,L00580,interested,0.95,"Asks what onboarding involves, signaling genuine interest in moving forward with the product."
+E00590,L00787,out_of_office,0.97,Automatic holiday closure message; says nothing about the offer itself.
+E00591,L00665,out_of_office,0.97,Automatic reply saying sender is away until June 4; says nothing about the offer.
+E00592,L01864,not_now,0.95,Polite decline citing lack of priority; asks to check back in the new year.
+E00593,L01781,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00594,L01803,not_now,0.9,"Polite decline for now; keeping current setup this year, door not closed for good."
+E00595,L01769,interested,0.97,"Asks for pricing for their team, so they want to move forward now."
+E00596,L01713,not_now,0.8,"Polite decline due to existing 12-month contract with another provider; no closed door stated, but not interested currently."
+E00597,L01430,interested,0.85,"Asks for a proposal to review, indicating willingness to move forward and involve a partner."
+E00598,L01229,interested,0.85,"Requests a proposal to review with partner, indicating engagement and a next step."
+E00599,L00270,not_now,0.9,"Polite decline; happy with current solution for now, so the door stays open."
+E00600,L00477,out_of_office,0.98,Automatic reply saying sender is on annual leave until May 31.
+E00601,L00833,out_of_office,0.97,Automatic travel away message with return date; says nothing about the offer.
+E00602,L01229,not_now,0.9,"Polite decline for now; they're keeping current setup this year, door not closed permanently."
+E00603,L00735,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E00604,L00181,out_of_office,0.97,Automatic travel away message with return date; says nothing about the offer.
+E00605,L01898,not_now,0.9,Polite decline citing satisfaction with current solution; door not closed permanently.
+E00606,L00776,interested,0.97,"Asks to start a trial this week, clearly wanting to move forward now."
+E00607,L00933,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, not a closed door."
+E00608,L01422,interested,0.97,"Asks to start a trial this week and test before month end, a clear next step."
+E00609,L00181,interested,0.97,"Sender explicitly asks for a demo of recurring invoice handling, a clear next step."
+E00610,L00002,out_of_office,0.97,Automatic reply saying sender is out sick; says nothing about the offer.
+E00611,L00477,out_of_office,0.97,Automatic away message stating absence until June 6; says nothing about the offer.
+E00612,L00693,interested,0.97,"Asks to see how the product handles recurring invoices, a clear request for a demo."
+E00613,L00653,not_now,0.93,"Sender is too busy right now; polite deferral, not a permanent no."
+E00614,L01566,not_now,0.9,"Polite decline for now; keeping current setup this year, door not closed for good."
+E00615,L01864,interested,0.97,"Asks for the earliest walkthrough, clearly requesting a demo and moving forward now."
+E00616,L01096,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; door stays open.
+E00617,L01233,unsubscribe,0.98,Sender explicitly asks to be removed from all future emails.
+E00618,L00781,not_now,0.85,Interested in principle but defers evaluation until after a future hire; polite postponement.
+E00619,L00566,not_now,0.85,Interested in the idea but deferring evaluation until after hiring a new manager; door stays open.
+E00620,L00769,out_of_office,0.97,Automatic away message until May 29; says nothing about the offer itself.
+E00621,L01779,out_of_office,0.98,Automatic travel reply with return date; says nothing about the offer itself.
+E00622,L00040,interested,0.93,"Asks about onboarding after saying they've been looking for something like this, signaling real intent."
+E00623,L00997,out_of_office,0.97,Automatic reply saying sender is at a trade show until May 30.
+E00624,L00703,not_now,0.93,"Polite decline citing bad timing and staffing; no tool adoption now, door not closed."
+E00625,L00592,interested,0.97,"Sender says yes and proposes a Thursday afternoon call, asking to move forward."
+E00626,L01288,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00627,L01675,not_now,0.95,Budget frozen until Q2 and asks to reach out then; polite no for now.
+E00628,L01864,out_of_office,0.98,Automatic reply saying the sender is on annual leave until June 5; says nothing about the offer.
+E00629,L01452,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E00630,L00614,interested,0.97,"Sender asks for the earliest walkthrough, clearly wanting to move forward now."
+E00631,L00795,out_of_office,0.93,Automatic away reply until June 10; it names a backup contact but offers no decision-maker handoff.
+E00632,L00332,interested,0.95,"Sender is engaged and asks how long setup takes, signaling interest in next steps."
+E00633,L00994,out_of_office,0.97,Automatic reply saying sender is at a trade show until June 11.
+E00634,L01543,not_now,0.8,Polite decline citing an existing 12-month contract with another provider; not a permanent no.
+E00635,L01390,interested,0.97,"Asks for the earliest walkthrough time, clearly wanting to move forward with a demo."
+E00636,L00721,not_now,0.9,"Asks to follow up after busy season ending in March; a polite deferral, not a closed door."
+E00637,L00384,not_now,0.85,"Recently signed a 12-month contract with another provider; polite decline, no immediate opening."
+E00638,L01029,unsubscribe,0.97,"Sender explicitly asks to stop receiving emails, despite the subject mentioning a demo request."
+E00639,L00997,interested,0.9,"Asks for the proposal to review with partner, so the sender wants to move forward."
+E00640,L01054,out_of_office,0.97,Automatic reply saying the sender is out sick today; no interest expressed.
+E00641,L00716,not_now,0.9,"Polite decline; they are happy with current solution, door not closed for good."
+E00642,L00679,not_now,0.85,Interested in principle but defers evaluation until after hiring a new manager; door stays open.
+E00643,L00670,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00644,L01898,referral,0.97,"Sender redirects to Rhonda, the decision maker, with her email address provided."
+E00645,L00892,unsubscribe,0.97,Sender asks for deletion and no further contact; clear opt-out request.
+E00646,L00994,interested,0.97,"Asks for pricing for their team size, signaling clear intent to move forward."
+E00647,L00754,not_now,0.93,Polite decline citing bad timing during a move; asks to retry in a couple of months.
+E00648,L01703,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E00649,L01653,interested,0.93,"Asks what onboarding involves, signaling genuine interest and readiness to evaluate next steps."
+E00650,L01713,out_of_office,0.97,Automatic reply saying the sender is at a trade show until June 10.
+E00651,L01304,not_now,0.95,Polite decline citing frozen budget until Q2; asks to reach out then.
+E00652,L01554,out_of_office,0.8,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E00653,L01746,referral,0.95,Sender says he doesn't buy tools and points to Jessica Bernard with her email.
+E00654,L00221,not_now,0.9,"Sender is too busy right now; a polite no for the moment, not a permanent refusal."
+E00655,L00235,referral,0.97,"Sender points to office manager Amy with her email, instead of engaging directly."
+E00656,L00437,referral,0.95,Sender forwards the thread to operations manager Pamela Miller with her email address.
+E00657,L01554,referral,0.96,"Sender says it's not her area and points to Daniel Lee, who handles admin and billing."
+E00658,L00975,interested,0.97,Says yes and asks for a Thursday afternoon call to look at the offer.
+E00659,L00761,interested,0.97,"Sender says yes and asks for the earliest walkthrough, a clear request to move forward."
+E00660,L00148,not_now,0.8,"Recently signed a 12-month contract with a competitor; polite decline, not a permanent no."
+E00661,L00250,interested,0.97,"Sender asks to start a trial this week, a clear request to move forward now."
+E00662,L01173,not_now,0.8,"Defers the conversation to next quarter; asks for follow-up then, not now."
+E00663,L01436,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00664,L01598,interested,0.95,"Sender says they have been looking for this and asks about onboarding, signaling readiness to move forward."
+E00665,L01488,interested,0.95,Asks for a demo and wants a colleague to join; clear next step.
+E00666,L01480,referral,0.97,"Sender redirects the rep to Judy at a named email, who makes the decisions."
+E00667,L00319,out_of_office,0.97,Automatic reply stating office is closed for holiday until June 8.
+E00668,L01181,interested,0.97,"Sender says yes and asks for the earliest walkthrough, a clear next step."
+E00669,L00152,out_of_office,0.97,Automatic holiday away message saying the office is closed until June 13.
+E00670,L00616,interested,0.95,"Sender is keen and asks when they can chat, so the rep should schedule a call."
+E00671,L01256,referral,0.95,Sender points to office manager David and provides his email instead of engaging directly.
+E00672,L00538,out_of_office,0.97,Automatic holiday away message saying the office is closed until June 11.
+E00673,L01045,not_now,0.8,"Polite decline; they signed a 12-month contract with another provider, so door not closed for good."
+E00674,L01713,referral,0.97,Sender left the company and points to Samuel Carney with his email address.
+E00675,L00218,interested,0.97,"Sender asks for a demo link and says current setup is a mess, clear buying intent."
+E00676,L00509,unsubscribe,0.97,Sender explicitly asks to delete their email and not be contacted again.
+E00677,L01787,unsubscribe,0.97,"Reply says 'Remove.' asking to be taken off the list, so no further emails."
+E00678,L01302,unsubscribe,0.98,"Sender explicitly asks to stop receiving emails, which is a clear opt-out request."
+E00679,L00299,interested,0.97,"Asks for pricing for their team size, a clear buying signal to move forward."
+E00680,L00332,interested,0.97,"Asks for the earliest walkthrough, clearly wants to move forward with a demo now."
+E00681,L00294,interested,0.93,"Asks how long setup takes, showing curiosity and intent to move forward with the product."
+E00682,L01761,unsubscribe,0.97,Sender explicitly declines and asks to be removed from the mailing list.
+E00683,L00975,interested,0.97,"Sender is keen and asks when they can chat, signaling readiness to move forward."
+E00684,L01488,interested,0.9,"Sender says 'you have my attention' and asks about setup time, signaling engagement and next steps."
+E00685,L00010,out_of_office,0.97,Automatic reply saying sender is at a trade show until June 16.
+E00686,L00469,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; door stays open.
+E00687,L00469,out_of_office,0.97,"Automatic away message: at a trade show until June 20, no statement about the offer."
+E00688,L01598,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, clearly wanting to move forward."
+E00689,L01787,referral,0.97,"Sender redirects the rep to Dorothy, the person who makes these decisions."
+E00690,L01619,not_now,0.95,Polite decline for now with explicit request to check back in the new year.
+E00691,L00405,interested,0.97,"Asks to see how recurring invoices work, a clear request for a demo."
+E00692,L00517,not_now,0.8,"Recently signed a 12-month contract with another provider; polite decline, not an unsubscribe request."
+E00693,L00611,not_now,0.9,Polite decline citing being too busy at the moment; door not closed for good.
+E00694,L00612,not_now,0.95,"Polite decline citing low priority, asks to check back in the new year."
+E00695,L01211,not_now,0.93,"Polite decline citing bad timing and staffing; no request to stop contact, so door stays open."
+E00696,L01311,not_now,0.8,"Defers evaluation to next quarter; asks for follow-up then, not an immediate next step."
+E00697,L01890,out_of_office,0.97,Automatic away message until June 21; it names a backup contact but does not redirect the offer itself.
+E00698,L00088,not_now,0.93,Polite decline due to timing; asks to try again in a couple of months.
+E00699,L01898,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E00700,L01598,interested,0.97,Requests a demo and asks to include a colleague; clear forward momentum.
+E00701,L01203,not_now,0.93,Polite decline due to timing; asks to be contacted again in a couple of months.
+E00702,L01025,interested,0.93,"Prospect says they have attention and asks about setup time for their business, signaling next-step engagement."
+E00703,L01317,unsubscribe,0.98,Sender explicitly asks to unsubscribe and stop receiving emails.
+E00704,L01858,interested,0.95,"Asks about onboarding after a demo request, signaling readiness to move forward with the product."
+E00705,L01351,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E00706,L00612,referral,0.96,Sender says they are not the right person and points to Melissa Henry with an email address.
+E00707,L00614,not_now,0.85,Polite deferral: interested in idea but can't review until after a future hire.
+E00708,L01173,interested,0.97,"Asks for pricing for their team, a clear request to move forward."
+E00709,L01610,interested,0.97,"Asks for pricing for their team size, a clear buying signal to move forward."
+E00710,L00299,interested,0.95,"Prospect says they've been looking for this and asks about onboarding, signaling readiness to move forward."
+E00711,L00539,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, not a closed door."
+E00712,L00088,out_of_office,0.9,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E00713,L00395,interested,0.97,Sender explicitly asks for a demo link and says timing is good.
+E00714,L01200,not_now,0.9,Polite decline citing being too busy at the moment; door not closed for good.
+E00715,L01601,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00716,L00457,out_of_office,0.9,"Automatic parental leave reply; redirects to another contact but is an away message, not a referral."
+E00717,L01452,out_of_office,0.97,Automatic reply saying sender is out sick; says nothing about the offer.
+E00718,L01522,out_of_office,0.97,Automatic reply saying sender is at a trade show until June 26.
+E00719,L01023,unsubscribe,0.97,Explicitly asks to be removed from the list and states they will never be interested.
+E00720,L01203,not_now,0.95,Budget frozen until Q2; sender explicitly asks to reach out later.
+E00721,L00874,out_of_office,0.97,Automatic reply saying sender is at a trade show until July 2.
+E00722,L01786,unsubscribe,0.97,Sender explicitly asks to be removed and states they are not interested ever.
+E00723,L01079,out_of_office,0.97,Automatic reply saying the sender is on annual leave until June 21.
+E00724,L01723,interested,0.85,"Asks for the proposal to review with partner, indicating forward movement on the offer."
+E00725,L00107,not_now,0.92,Polite refusal citing bad timing and staffing; door not closed for good.
+E00726,L01372,referral,0.97,Sender left the company and points to Elizabeth Webster as the new contact.
+E00727,L00333,unsubscribe,0.97,Single word 'Remove' is a clear request to stop receiving emails.
+E00728,L01192,not_now,0.9,"Polite decline for now; keeping current setup this year, door not closed."
+E00729,L00254,referral,0.95,"Sender points to Zachary, the office manager, with his email address instead of handling it himself."
+E00730,L00222,interested,0.95,"Sender is asking about onboarding, signaling genuine interest in moving forward."
+E00731,L00089,not_now,0.85,"Polite decline: they're happy with current solution for now, door not closed."
+E00732,L00027,interested,0.9,"Asks for the proposal to review, a clear next step toward moving forward."
+E00733,L00469,out_of_office,0.9,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E00734,L00294,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E00735,L00105,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; timing issue.
+E00736,L00732,interested,0.97,Sender asks for a demo link and says current setup needs fixing; clear next step.
+E00737,L00027,unsubscribe,0.97,Explicit request to be removed from the list and no future interest.
+E00738,L01462,referral,0.95,"Sender says it's not their area and points to Tony Rodriguez, who handles admin and billing."
+E00739,L01178,not_now,0.93,Polite decline due to being too busy; door not closed for good.
+E00740,L01599,interested,0.97,"Asks to see a demo of recurring invoice handling, signaling clear interest in next steps."
+E00741,L01385,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00742,L01746,not_now,0.93,Polite deferral due to bad timing; asks to be contacted again in a couple of months.
+E00743,L00719,interested,0.97,Sender says yes and asks for a Thursday afternoon call.
+E00744,L01351,interested,0.97,"Asks for pricing for their team size, a clear next step toward buying."
+E00745,L00027,interested,0.93,"Prospect engaged and asked about setup time, signaling interest in moving forward."
+E00746,L00375,referral,0.95,Sender is not the buyer and points to James Clay with his email address.
+E00747,L01000,not_now,0.95,Polite decline for now; asks to check back in the new year.
+E00748,L00808,not_now,0.8,Polite decline: they just signed a 12-month contract with another provider.
+E00749,L00517,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00750,L00978,not_now,0.85,Interested in idea but deferring evaluation until after hiring a new manager; door remains open.
+E00751,L01293,unsubscribe,0.98,Explicit request to be removed from the list; no further emails wanted.
+E00752,L00710,out_of_office,0.93,Automatic away message until July 4; it names a backup contact but is not a referral.
+E00753,L01362,interested,0.97,"Asks for pricing for their team size, a clear request to move forward."
+E00754,L00954,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, not a closed door."
+E00755,L01227,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, not a closed door."
+E00756,L00574,not_now,0.8,"Recently signed a 12-month contract with another provider; polite decline, no interest in moving forward."
+E00757,L00933,referral,0.96,"Sender redirects the rep to David Campbell, the office manager, with his email address."
+E00758,L00051,interested,0.8,"Asks for a follow-up next quarter, showing future interest in evaluating tools."
+E00759,L00333,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E00760,L01160,interested,0.97,"Sender asks to see how the product handles recurring invoices, a clear request for a demo."
+E00761,L01385,not_now,0.9,"Polite decline for now: keeping things as they are this year, door not closed."
+E00762,L01835,not_now,0.9,Sender is too busy right now; a polite no for the time being.
+E00763,L00060,not_now,0.9,Polite decline for this year due to keeping current setup; door not closed permanently.
+E00764,L00150,referral,0.97,Sender says they are not the right person and points to Randall Willis by email.
+E00765,L01557,not_now,0.93,Polite decline citing bad timing and staffing; door not closed for good.
+E00766,L01201,unsubscribe,0.98,"Sender explicitly tells the rep to stop emailing them, so no further outreach."
+E00767,L01713,interested,0.97,"Asks for pricing for their team size, signaling clear intent to move forward."
+E00768,L00312,interested,0.97,Prospect explicitly asks for a demo booking link and says timing is good.
+E00769,L00333,unsubscribe,0.97,Explicit request to be removed from the list; no further contact wanted.
+E00770,L00483,not_now,0.93,Polite decline citing short staffing and no capacity for a new tool; door not closed.
+E00771,L01429,interested,0.95,"Asks what onboarding involves, signaling genuine interest in moving forward."
+E00772,L01307,interested,0.97,"Asks for pricing for their team size, a clear buying signal."
+E00773,L00734,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00774,L01828,not_now,0.92,Polite decline citing being too busy; door not closed for good.
+E00775,L00295,unsubscribe,0.97,"Sender explicitly asks to stop receiving emails, so no further outreach."
+E00776,L00060,interested,0.96,Asks for a demo and wants a colleague to join; clear next step.
+E00777,L01557,interested,0.93,Asks whether it integrates with QuickBooks and says to talk if so; wants next steps.
+E00778,L00509,out_of_office,0.97,Automatic reply saying sender is on annual leave until July 13.
+E00779,L00033,not_now,0.93,Polite no citing short staffing and no capacity for a new tool; door not closed.
+E00780,L01357,interested,0.93,"Asks about onboarding for the product, signaling genuine interest in moving forward."
+E00781,L00043,out_of_office,0.97,Automatic reply saying the sender is on annual leave until July 4.
+E00782,L00798,interested,0.97,"Sender explicitly asks for a demo booking link, signaling readiness to move forward now."
+E00783,L00623,interested,0.97,"Sender is keen and asks when they can chat, so they want a call now."
+E00784,L00561,not_now,0.93,"Polite decline citing bad timing and staffing; not a permanent no, no referral or opt-out."
+E00785,L01357,not_now,0.95,"Polite deferral: not a priority now, asks to check back in the new year."
+E00786,L00377,interested,0.93,"Asks how long setup takes, showing genuine interest and inviting next-step discussion."
+E00787,L01227,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E00788,L00598,interested,0.93,"Asks about QuickBooks integration and says 'let's talk' if compatible, signaling readiness to move forward."
+E00789,L00632,interested,0.97,Sender asks for the earliest walkthrough after saying yes to a demo.
+E00790,L00510,out_of_office,0.95,Automatic away message until July 6; names a contact for urgent matters only.
+E00791,L01829,out_of_office,0.97,Automatic reply saying office is closed for the holiday until July 15.
+E00792,L00245,interested,0.8,"Asks for a proposal to review, indicating movement toward next steps despite partner consultation."
+E00793,L00510,interested,0.93,"Asks about QuickBooks integration and says 'let's talk', signaling readiness to proceed."
+E00794,L00391,out_of_office,0.97,Automatic away message until July 15; says nothing about the offer itself.
+E00795,L01356,unsubscribe,0.97,Sender explicitly asks to be unsubscribed from all future emails.
+E00796,L00874,not_now,0.93,"Polite decline due to staffing and bandwidth; not a permanent no, so door stays open."
+E00797,L01133,interested,0.95,"Asks about onboarding for a product they've been looking for, signaling readiness to move forward."
+E00798,L01886,not_now,0.92,"Sender says they are too busy right now; a polite no for now, not a permanent opt-out."
+E00799,L01886,out_of_office,0.97,Automatic reply saying the sender is travelling and returns July 8.
+E00800,L01612,not_now,0.85,"Asks to follow up after busy season ending March; polite deferral, door still open."
+E00801,L01362,out_of_office,0.97,Automatic reply saying sender is at a trade show until July 6; no offer response.
+E00802,L01835,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, not a closed door."
+E00803,L01643,not_now,0.85,Sender likes the idea but can't engage until after hiring a new manager; timing issue.
+E00804,L01563,interested,0.97,"Sender explicitly asks to start a trial this week, a clear next step."
+E00805,L00565,interested,0.97,"Sender asks for a demo link and says current setup is a mess, so wants to proceed."
+E00806,L00551,out_of_office,0.93,"Automatic parental leave reply; points to another contact but sender is away, not a referral."
+E00807,L01871,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, door open."
+E00808,L01766,not_now,0.85,"Defers evaluation until next quarter and asks for follow-up then, so not ready now."
+E00809,L00931,interested,0.97,"Sender asks for a product demo on recurring invoices, signaling clear interest in moving forward."
+E00810,L00406,interested,0.93,"Asks whether it integrates with QuickBooks and says to talk if so, signaling readiness for a call."
+E00811,L00603,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from further emails.
+E00812,L00570,referral,0.97,"Sender redirects to Michael, the office manager, and provides his email address."
+E00813,L00289,not_now,0.85,"Asks for follow-up next quarter; reviewing tools later, so timing is not now."
+E00814,L00803,interested,0.93,"Asks about QuickBooks integration and says 'let's talk', signaling readiness to move forward."
+E00815,L00439,interested,0.85,"Asks for the proposal to review with partner, signaling intent to move forward."
+E00816,L01417,referral,0.96,Sender says it's not her area and points to Theresa Morgan for admin and billing.
+E00817,L00333,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E00818,L01417,out_of_office,0.97,"Automatic parental leave reply; redirects to another contact but is an away message, not a referral."
+E00819,L01627,unsubscribe,0.97,"Sender asks for deletion and no further contact, so the rep must stop emailing."
+E00820,L01327,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, clearly wanting to move forward."
+E00821,L00803,interested,0.93,"Asks about QuickBooks integration and says 'let's talk' if compatible, signaling readiness to meet."
+E00822,L00592,interested,0.97,"Sender is keen and asks when they can chat, signaling readiness to move forward."
+E00823,L00994,not_now,0.9,"Asks to follow up after busy season ending in March; a polite deferral, not a closed door."
+E00824,L00447,not_now,0.9,"Sender is too busy at the moment, a polite no for now rather than a permanent refusal."
+E00825,L01753,out_of_office,0.98,Automatic reply stating the sender is on annual leave until July 21.
+E00826,L00598,not_now,0.92,Polite no due to bad timing and being short-staffed; door not closed for good.
+E00827,L00294,interested,0.85,"Asks for a proposal to review, moving the deal forward with a partner next."
+E00828,L00401,out_of_office,0.98,Automatic reply saying the sender is on annual leave until July 20.
+E00829,L01726,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E00830,L00381,not_now,0.93,Polite decline citing bad timing and being short-staffed; door not closed for good.
+E00831,L00379,not_now,0.85,Interested in the idea but deferring evaluation until after hiring a new manager; door stays open.
+E00832,L01160,unsubscribe,0.98,Reply explicitly asks to be unsubscribed from further emails.
+E00833,L01902,out_of_office,0.97,Automatic reply saying the sender is at a trade show until July 13.
+E00834,L01126,not_now,0.93,Polite decline due to timing; asks to be contacted again in a couple of months.
+E00835,L00983,out_of_office,0.97,Automatic holiday away message with no engagement on the offer.
+E00836,L01859,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E00837,L00067,not_now,0.85,"Defers evaluation to next quarter; asks for follow-up then, not an immediate demo or call."
+E00838,L00860,interested,0.97,"Asks to start a trial this week, clearly wants to move forward now."
+E00839,L01265,out_of_office,0.97,Automatic holiday reply saying the office is closed until July 24.
+E00840,L00395,interested,0.97,"Asks for the earliest walkthrough, clearly requesting a demo to move forward now."
+E00841,L00447,not_now,0.8,"Signed a 12-month contract with another provider; polite decline, not an unsubscribe request."
+E00842,L01302,unsubscribe,0.97,Sender explicitly asks to be removed from all future emails.
+E00843,L01172,not_now,0.85,"Asks for follow-up next quarter; defers interest to later timing, not an immediate yes."
+E00844,L01047,interested,0.97,Sender agrees to look and asks for a Thursday afternoon call.
+E00845,L01417,referral,0.97,Sender left the company and points to Tiffany Brown with her email address.
+E00846,L00827,interested,0.95,Sender explicitly says they are keen and asks when they can chat.
+E00847,L00808,interested,0.95,"Asks about onboarding after saying they've been looking for this, signaling readiness to move forward."
+E00848,L01100,not_now,0.9,Polite decline citing being too busy at the moment; door not closed.
+E00849,L00375,interested,0.98,"Sender says yes and asks for the earliest walkthrough, a clear request to move forward."
+E00850,L01879,out_of_office,0.8,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E00851,L00068,not_now,0.9,"Asks to follow up after busy season ending March; polite deferral, door still open."
+E00852,L01133,interested,0.98,"Sender says yes and asks for a Thursday afternoon call, so they want to move forward."
+E00853,L01201,interested,0.97,"Asks to see how the product handles recurring invoices, a clear request for a demo."
+E00854,L01851,unsubscribe,0.97,The sender explicitly asks to be unsubscribed from further emails.
+E00855,L01162,not_now,0.96,Polite decline for now with explicit request to check back next year.
+E00856,L00088,interested,0.92,"Asks whether it integrates with QuickBooks and proposes talking if so, showing buying intent."
+E00857,L01005,interested,0.97,Sender says interested and asks for a demo of recurring invoice handling.
+E00858,L01562,out_of_office,0.9,"Automatic parental leave reply; directs to another contact but is an away message, not a referral."
+E00859,L01517,not_now,0.93,"Polite decline for this year, keeping things as they are; door not closed for good."
+E00860,L00512,interested,0.97,"Sender asks for a product demonstration of recurring invoice handling, signaling direct interest."
+E00861,L01522,unsubscribe,0.98,Sender explicitly asks to unsubscribe from further emails.
+E00862,L00057,not_now,0.9,Polite decline for now citing keeping current setup this year; door not closed for good.
+E00863,L00567,not_now,0.93,Polite decline due to timing; asks to retry in a couple of months.
+E00864,L01348,interested,0.95,"Sender asks about onboarding after saying they have been looking for this, signaling intent to move forward."
+E00865,L00719,out_of_office,0.95,Automatic parental leave reply; it names a backup contact but says nothing about the offer itself.
+E00866,L00375,referral,0.97,Sender left the company and points to Jon Little with his email address.
+E00867,L00068,not_now,0.85,Polite decline saying they're happy with current solution for now; door not closed.
+E00868,L01114,not_now,0.8,Polite decline citing a signed 12-month contract with another provider; door not closed for good.
+E00869,L01890,not_now,0.9,Polite decline citing being too busy at the moment; door not closed for good.
+E00870,L00570,unsubscribe,0.97,Sender explicitly asks to be removed from the mailing list.
+E00871,L01074,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00872,L01480,interested,0.95,"Sender says they have been looking for this and asks about onboarding, a clear next step."
+E00873,L01293,interested,0.93,"Asks what onboarding involves after 'looking for something like this', signaling readiness to move forward."
+E00874,L01548,not_now,0.93,Polite decline citing being too busy at the moment; door not closed.
+E00875,L00213,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from further emails.
+E00876,L00235,out_of_office,0.97,Automatic away message until July 28; it names a backup contact but offers no reply on the offer.
+E00877,L01725,interested,0.95,Sender is asking about onboarding after expressing that they have been looking for this.
+E00878,L01440,interested,0.93,"Asks about QuickBooks integration and conditionally agrees to a call, signaling readiness to move forward."
+E00879,L00594,not_now,0.95,"Budget frozen until Q2; sender asks to reach out then, so the door stays open."
+E00880,L00033,interested,0.97,"Sender asks for a demo link and says current setup is a mess, clearly wanting to proceed."
+E00881,L01885,not_now,0.9,Polite decline citing being too busy at the moment; not a permanent no.
+E00882,L01682,out_of_office,0.9,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E00883,L01024,out_of_office,0.9,Automatic reply saying sender is on parental leave; it names a backup contact but does not address the offer.
+E00884,L01682,interested,0.97,"Sender explicitly asks for the earliest walkthrough, clearly wanting to move forward now."
+E00885,L01178,out_of_office,0.98,Automatic annual leave reply; says nothing about the offer itself.
+E00886,L00860,unsubscribe,0.97,Sender says 'Remove.' asking to be taken off the list.
+E00887,L00407,out_of_office,0.98,Automatic reply saying sender is on annual leave until July 25.
+E00888,L01867,out_of_office,0.97,Automatic away message about being away until July 29; says nothing about the offer.
+E00889,L01125,referral,0.97,Sender says it is not her area and points to Bradley for admin and billing.
+E00890,L01517,interested,0.97,Sender says yes and proposes a Thursday afternoon call to look at it.
+E00891,L01661,interested,0.97,"Sender says yes and asks for the earliest walkthrough, a clear request to move forward."
+E00892,L01725,not_now,0.8,"Timing deferred to next quarter; sender asks for follow-up then, not a demo now."
+E00893,L01348,out_of_office,0.9,"Automatic parental leave reply; it redirects to a contact but is an away message, not a referral."
+E00894,L01126,not_now,0.95,Polite decline due to timing; asks to be contacted again in a couple of months.
+E00895,L01828,interested,0.97,"Asks for a demo and wants a colleague to join, signaling clear intent to move forward."
+E00896,L01468,unsubscribe,0.97,"The sender explicitly asks to be removed from the list, so no further emails should be sent."
+E00897,L00374,interested,0.95,"Asks how long setup takes for their business, showing genuine interest in moving forward."
+E00898,L01684,out_of_office,0.8,"Automatic parental leave reply; it points to a colleague but is an away message, not a referral."
+E00899,L01372,out_of_office,0.98,Automatic reply stating the sender is travelling and returns July 21.
+E00900,L00922,interested,0.92,"Asks about QuickBooks integration and says 'let's talk' if compatible, signaling readiness for a call."
+E00901,L00794,not_now,0.95,Polite no for now; asks to check back in the new year.
+E00902,L01532,referral,0.93,Sender doesn't buy tools and points to James Morales with his email address.
+E00903,L00758,out_of_office,0.98,Automatic away message stating absence until July 30; says nothing about the offer.
+E00904,L01667,not_now,0.85,"Defers evaluation to next quarter; asks for follow-up then, so not ready now."
+E00905,L01492,referral,0.97,Sender says they are not the right person and points to Steven Boyer with email.
+E00906,L00539,not_now,0.95,Polite decline for now; asks to check back in the new year.
+E00907,L01320,out_of_office,0.98,Automatic travel away message stating return date; says nothing about the offer.
+E00908,L00333,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, a clear next step."
+E00909,L00827,interested,0.93,"Sender says ""you have my attention"" and asks about setup time, signaling willingness to move forward."
+E00910,L01016,out_of_office,0.97,Automatic reply saying sender is at a trade show until August 4.
+E00911,L00578,interested,0.85,"Asks for the proposal to review with partner, indicating moving forward."
+E00912,L01725,out_of_office,0.97,Automatic holiday reply saying the office is closed until August 4.
+E00913,L00777,interested,0.97,"Asks to start a trial this week, clearly wanting to move forward now."
+E00914,L01357,out_of_office,0.98,Automatic reply saying the sender is on annual leave until July 27.
+E00915,L01280,interested,0.97,"Sender says they're interested and asks how recurring invoices are handled, signaling a demo request."
+E00916,L01796,referral,0.97,"Sender says it's not his area and redirects to Cindy Baker, admin and billing contact."
+E00917,L00163,interested,0.97,"Asks what onboarding involves after saying they have been looking for this, signaling buying intent."
+E00918,L01000,out_of_office,0.97,Automatic holiday away message; office closed until Monday August 3.
+E00919,L01362,unsubscribe,0.98,"Sender explicitly tells us to stop emailing them, which is a clear opt-out request."
+E00920,L01362,out_of_office,0.98,Automatic reply saying the sender is on annual leave until July 28.
+E00921,L00105,unsubscribe,0.98,Explicitly declines the offer and asks to be removed from the mailing list.
+E00922,L00381,out_of_office,0.97,Automatic away message until August 5; names a backup contact but offers no interest signal.
+E00923,L01209,interested,0.97,"Asks to see the product handling recurring invoices, signaling a clear next step."
+E00924,L01651,not_now,0.95,Polite decline for now with explicit request to check back in the new year.
+E00925,L01796,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E00926,L00659,not_now,0.95,"Budget frozen until Q2; sender asks to reach out then, so door stays open."
+E00927,L00230,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E00928,L01719,referral,0.97,"Sender redirects the rep to Meghan, the named decision-maker, with her email address."
+E00929,L01661,interested,0.97,"Asks to start a trial this week, clearly wanting to move forward now."
+E00930,L00201,interested,0.97,Asks for a demo and wants a colleague to join; clear next step.
+E00931,L01336,unsubscribe,0.97,Sender asks for deletion and no further contact; clear unsubscribe request.
+E00932,L00029,interested,0.97,Asks for a demo and wants a colleague to join; clear move forward.
+E00933,L01108,not_now,0.95,Polite decline for now with explicit request to check back in the new year.
+E00934,L01557,interested,0.97,"Sender explicitly asks for the earliest walkthrough, clearly wanting to move forward now."
+E00935,L01047,interested,0.97,"Asks to see how the product handles recurring invoices, a clear request for a demo."
+E00936,L01348,unsubscribe,0.99,Sender explicitly asks to be unsubscribed from all future emails.
+E00937,L00230,unsubscribe,0.97,The sender says 'Remove.' which is a direct request to stop receiving emails.
+E00938,L00544,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00939,L00977,referral,0.96,Sender says it's not their area and points to Kaitlyn with an email address.
+E00940,L00415,not_now,0.9,"Asks to follow up after busy season ending March, a polite deferral for timing."
+E00941,L00785,interested,0.97,Sender agrees to look and asks for a Thursday afternoon call.
+E00942,L01663,not_now,0.95,Polite decline citing frozen budget until Q2; asks to reach out later.
+E00943,L01072,out_of_office,0.97,Automatic reply saying sender is at a trade show until July 31.
+E00944,L00860,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until August 4.
+E00945,L01014,interested,0.97,"Sender asks to start a trial this week, a clear request to move forward now."
+E00946,L01536,unsubscribe,0.97,Explicit request to be removed from the list; no interest in the offer.
+E00947,L00681,interested,0.97,Sender says yes and asks for a Thursday afternoon call.
+E00948,L01851,out_of_office,0.97,Automatic away message until August 13; gives a contact but no interest or referral.
+E00949,L01074,referral,0.95,"Sender forwards the outreach to operations manager Lauren Walker, providing her email for follow-up."
+E00950,L00389,not_now,0.9,Interested in the idea but delays review until after hiring a new manager; door stays open.
+E00951,L00397,interested,0.97,"Sender asks to see how recurring invoices work, signaling a demo request."
+E00952,L01660,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00953,L01881,interested,0.97,"Sender is keen and asks when they can chat, a clear request to move forward."
+E00954,L00753,interested,0.97,"Sender is keen and asks when they can chat, signaling readiness to move forward."
+E00955,L01881,not_now,0.9,"Polite decline; they are happy with current solution for now, door not closed."
+E00956,L00876,referral,0.97,"Sender redirects to office manager Amy Bates with her email address, not themselves."
+E00957,L00140,not_now,0.95,Polite decline for now with a request to check back in the new year.
+E00958,L00760,interested,0.97,"Asks to start a trial this week, which is a clear request to move forward now."
+E00959,L00258,unsubscribe,0.98,Sender explicitly asks to be removed from the list and says they will never be interested.
+E00960,L00817,not_now,0.9,Polite decline saying they're happy with current solution for now; door not closed.
+E00961,L00129,interested,0.85,"Asks for a proposal to review, indicating willingness to move forward with evaluation."
+E00962,L01525,interested,0.95,Sender says they are still keen and asks when they can chat.
+E00963,L01275,referral,0.97,Sender left the company and points to Donald Pierce with his email address.
+E00964,L01333,not_now,0.9,"Polite decline for now; they're keeping current setup this year, so door isn't closed."
+E00965,L01570,not_now,0.95,Polite decline for now; asks to check back in the new year.
+E00966,L00862,referral,0.97,"Sender redirects to Toni Cooper, the decision maker, with a named email address."
+E00967,L01654,referral,0.95,Sender says it's not her area and points to Micheal Valentine for admin and billing.
+E00968,L01536,interested,0.93,"Sender says they've been looking for this and asks about onboarding, signaling a next step."
+E00969,L01667,out_of_office,0.97,Automatic away message stating absence until August 14; says nothing about the offer.
+E00970,L00099,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E00971,L00765,not_now,0.93,"Polite decline for now, explicitly asks to check back in the new year."
+E00972,L00659,interested,0.97,Asks for a demo and wants a colleague included; clear move forward.
+E00973,L00501,out_of_office,0.97,Automatic travel away message; says nothing about the offer and returns August 15.
+E00974,L01642,interested,0.97,"Asks for pricing for their team size, signaling a clear next step."
+E00975,L00835,not_now,0.95,"Budget frozen until Q2; sender explicitly asks to reach out later, so door stays open."
+E00976,L01314,unsubscribe,0.97,Explicit request to be removed from the list and a clear rejection.
+E00977,L01660,referral,0.95,Sender forwards the outreach to operations manager Shawn Nunez with his email address.
+E00978,L00379,not_now,0.85,Interested in principle but defers evaluation until after hiring a new manager; timing issue.
+E00979,L00572,referral,0.95,Sender forwards the outreach to operations manager Lisa Garrett and copies her email.
+E00980,L01336,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from all future emails.
+E00981,L01536,interested,0.95,"Asks whether it integrates with QuickBooks and says 'let's talk', signaling readiness to move forward."
+E00982,L00261,interested,0.95,"Sender is asking about onboarding, signaling genuine interest in moving forward with the product."
+E00983,L00475,unsubscribe,0.97,Sender explicitly says 'Unsubscribe.' and wants no further emails.
+E00984,L01308,interested,0.95,"Sender says they have been looking for this and asks about onboarding, signaling genuine interest in next steps."
+E00985,L00248,unsubscribe,0.97,Sender explicitly asks to stop receiving emails; no further outreach should be sent.
+E00986,L01071,interested,0.95,"Sender is keen and asks directly when they can chat, wanting to move forward."
+E00987,L01641,not_now,0.9,Polite decline saying they are happy with current solution for now; door not closed.
+E00988,L00450,interested,0.93,"Asks how long setup takes, showing genuine interest and inviting next steps."
+E00989,L00844,interested,0.95,"Sender asks about QuickBooks integration and says 'let's talk', signaling readiness to move forward."
+E00990,L01007,interested,0.85,"Asks for a proposal to review with partner, indicating move-forward intent."
+E00991,L01335,referral,0.97,Sender says it's not their area and points to Natalie for admin and billing.
+E00992,L00726,unsubscribe,0.97,Explicitly declines and asks to be removed from the list.
+E00993,L01725,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E00994,L00001,interested,0.97,"Sender says yes and asks for the earliest walkthrough, a clear request to move forward."
+E00995,L01663,out_of_office,0.98,Automatic away message until August 11; says nothing about the offer itself.
+E00996,L00289,not_now,0.8,"Defers evaluation to next quarter; asks for follow-up later, not an immediate demo or call."
+E00997,L01824,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E00998,L00594,not_now,0.95,Polite decline citing low priority; asks to check back in the new year.
+E00999,L01109,not_now,0.9,Interested in the idea but deferring until after hiring a new manager; door stays open.
+E01000,L00979,out_of_office,0.97,"Automatic holiday away message; office closed until August 14, says nothing about the offer."
+E01001,L00648,interested,0.97,Sender explicitly asks to start a trial this week and test before month end.
+E01002,L01135,out_of_office,0.98,Automatic away reply stating absence until August 20; says nothing about the offer.
+E01003,L00591,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E01004,L01903,referral,0.96,"Sender redirects the rep to Melinda, who makes the decisions, and provides her email."
+E01005,L01600,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E01006,L01670,interested,0.85,"Asks for a proposal to review with partner, signaling a move toward next steps."
+E01007,L00759,referral,0.95,Sender doesn't buy tools and points to Gina Marsh with her email.
+E01008,L01209,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01009,L00591,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01010,L00513,not_now,0.9,"Asks to follow up after busy season ending March, so timing is bad now."
+E01011,L01737,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from further emails.
+E01012,L00860,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01013,L00711,not_now,0.85,Polite deferral: interested in idea but can't look until after hiring a manager.
+E01014,L01024,not_now,0.8,"Signed a 12-month contract with another provider; a polite no, though the door may reopen later."
+E01015,L01756,unsubscribe,0.98,"Explicit request to unsubscribe from all future emails, so no further contact."
+E01016,L01782,out_of_office,0.98,Automatic reply stating the sender is away until August 20; says nothing about the offer.
+E01017,L01077,not_now,0.85,Polite deferral: interested in the idea but can't engage until after hiring a manager.
+E01018,L01094,interested,0.97,"Asks for pricing for their team size, a clear buying signal to move forward."
+E01019,L01224,interested,0.95,"Asks whether it integrates with QuickBooks and explicitly says to talk, signaling readiness to proceed."
+E01020,L00473,not_now,0.85,Polite decline stating they are happy with current solution; door not closed for good.
+E01021,L00407,not_now,0.9,"Polite decline for this year; keeping current setup, so door not closed for good."
+E01022,L00447,unsubscribe,0.97,Explicit request to unsubscribe the address from all future emails.
+E01023,L00450,out_of_office,0.97,Automatic travel away message; says nothing about the offer itself.
+E01024,L01510,unsubscribe,0.98,Sender explicitly asks to unsubscribe from further emails.
+E01025,L00876,not_now,0.9,Polite decline for this year due to keeping current setup; door not closed permanently.
+E01026,L01740,not_now,0.9,Polite decline citing bad timing and staffing; door not closed for good.
+E01027,L01094,not_now,0.95,"Polite decline due to frozen budget; asks to reach out in Q2, so the door stays open."
+E01028,L01423,interested,0.97,"Asks to start a trial this week, clearly wanting to move forward now."
+E01029,L00714,not_now,0.9,Polite decline citing short staffing and inability to take on a new tool now; door not closed.
+E01030,L00099,interested,0.85,"Asks for the proposal to review, indicating a desire to move forward with next steps."
+E01031,L00163,referral,0.97,Sender left the company and points to Leah Frye with her email address.
+E01032,L00765,out_of_office,0.9,"Automatic parental leave reply; redirects to another contact but is an away message, not a referral."
+E01033,L00714,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E01034,L01900,unsubscribe,0.97,Explicit rejection plus request to be removed from the list; no more email wanted.
+E01035,L01177,out_of_office,0.97,Automatic reply saying sender is at a trade show until August 24.
+E01036,L00800,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E01037,L00129,unsubscribe,0.97,"Sender explicitly tells the rep to stop emailing them, which is a clear unsubscribe request."
+E01038,L01387,interested,0.85,"Asks for the proposal to review, indicating willingness to move forward with next steps."
+E01039,L00282,not_now,0.95,Budget frozen until Q2 and explicitly asks to reach out then; door left open.
+E01040,L01754,not_now,0.85,"Signed a 12-month contract with a competitor; polite decline, not closed forever but no near-term opportunity."
+E01041,L00908,unsubscribe,0.98,"Sender explicitly asks to be removed from the mailing list, so no further emails."
+E01042,L01391,referral,0.96,Sender says they don't buy tools and points to Bridget Gonzales with her email.
+E01043,L01852,interested,0.85,"Requests the proposal to review with partner, signaling a move toward next steps."
+E01044,L01854,unsubscribe,0.97,"Single word 'Remove' asks to be removed from outreach, so no more emails."
+E01045,L01630,referral,0.97,"Sender redirects the rep to Zachary, the office manager, providing his email address."
+E01046,L01881,interested,0.97,"Sender is keen and asks when they can chat, a clear request to move forward."
+E01047,L00156,interested,0.97,Asks for a demo and wants office manager Robyn to join; clear next step.
+E01048,L00358,not_now,0.85,Interested in the idea but defers evaluation until after hiring a new manager; bad timing.
+E01049,L01249,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01050,L01777,interested,0.97,"Asks for a demo link and says current setup is a mess, clear next step."
+E01051,L00714,not_now,0.85,Interested in principle but defers evaluation until after a future hire; door stays open.
+E01052,L00493,referral,0.97,Sender says they are not the right person and points to Patrick Torres with an email.
+E01053,L01724,referral,0.95,"Sender redirects the rep to office manager Brenda with her email address, not engaging himself."
+E01054,L00390,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they are not interested.
+E01055,L00258,referral,0.93,Sender forwards the conversation to operations manager Anna Bradley instead of engaging directly.
+E01056,L00835,interested,0.95,"Sender says they have been looking for this and asks about onboarding, signaling intent to move forward."
+E01057,L00777,interested,0.85,"Asks for a proposal to review, indicating they want to move forward with next steps."
+E01058,L00431,out_of_office,0.97,Automatic reply saying the office is closed until August 24; no offer response.
+E01059,L00258,not_now,0.93,"Polite decline citing bad timing and staffing; no closed door stated, so not unsubscribe."
+E01060,L01458,out_of_office,0.97,Automatic reply saying sender is at a trade show until August 27.
+E01061,L01313,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from further emails.
+E01062,L00627,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E01063,L01881,unsubscribe,0.97,"Sender explicitly asks to stop receiving emails, which is an unsubscribe request."
+E01064,L01682,out_of_office,0.98,Automatic reply saying sender is on annual leave until September 4.
+E01065,L00714,out_of_office,0.98,Automatic reply saying the sender is on annual leave until August 27.
+E01066,L00474,interested,0.97,Sender says yes and proposes a Thursday afternoon call; clear next step.
+E01067,L00430,unsubscribe,0.97,"Sender explicitly asks to stop emails, so no further outreach should be sent."
+E01068,L00261,not_now,0.93,Polite decline citing bad timing and staffing; door not closed for good.
+E01069,L00995,not_now,0.8,"Signed a 12-month contract with another provider; polite no, but not a permanent rejection."
+E01070,L01641,interested,0.85,"Requests the proposal to review, indicating willingness to move forward and consider it."
+E01071,L00156,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until September 1.
+E01072,L01785,not_now,0.8,"Asks for follow-up next quarter, so timing is deferred rather than an immediate yes."
+E01073,L01642,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E01074,L00389,interested,0.96,Asks what onboarding involves after saying they've been looking for this; clear next-step intent.
+E01075,L01244,out_of_office,0.9,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E01076,L01019,not_now,0.8,"Defers evaluation to next quarter, asking for follow-up then; not a current yes."
+E01077,L00188,out_of_office,0.97,Automatic away message stating absence until September 2; says nothing about the offer.
+E01078,L00210,not_now,0.93,Polite decline citing bad timing and staffing; no permanent rejection or request to stop.
+E01079,L00777,interested,0.85,"Asks for the proposal to review with partner, indicating willingness to move forward."
+E01080,L00389,referral,0.95,Sender forwards the thread to a named operations manager with her email address.
+E01081,L00144,referral,0.96,Sender redirects us to office manager John with his email address instead of engaging directly.
+E01082,L00014,out_of_office,0.97,Automatic reply saying the sender is away until September 8; says nothing about the offer.
+E01083,L01187,interested,0.97,"Sender agrees to look and asks for a Thursday afternoon call, a clear next step."
+E01084,L01776,not_now,0.93,"Polite no due to timing and staffing; no tool adoption right now, door not closed."
+E01085,L00258,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E01086,L00563,not_now,0.95,Budget frozen until Q2; sender explicitly asks to reach out then.
+E01087,L01740,not_now,0.8,"Recently signed a 12-month contract with another provider; a polite no, though the timing suggests a later revisit."
+E01088,L01896,out_of_office,0.97,Automatic away message stating absence until September 3; says nothing about the offer.
+E01089,L00226,not_now,0.9,"Polite decline for this year, keeping current setup; door not closed permanently."
+E01090,L00879,unsubscribe,0.98,"Sender explicitly asks to stop receiving emails, so no further outreach should be sent."
+E01091,L01407,out_of_office,0.95,Automatic parental leave reply; redirects to a colleague but says nothing about the offer.
+E01092,L00262,out_of_office,0.97,Automatic reply stating the office is closed for the holiday until August 31.
+E01093,L01123,out_of_office,0.97,"Automatic away message: at a trade show until September 5, no comment on the offer."
+E01094,L01777,not_now,0.85,Polite decline citing satisfaction with current solution; door not closed for good.
+E01095,L01405,out_of_office,0.97,Automatic sick-day reply; says nothing about the offer itself.
+E01096,L00759,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01097,L00450,out_of_office,0.9,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E01098,L01041,out_of_office,0.9,Automatic away message until September 8; mentions a contact for urgent matters but no interest signal.
+E01099,L01798,unsubscribe,0.97,"Sender explicitly tells the rep to stop emailing, so no further contact should occur."
+E01100,L01394,not_now,0.92,"Asks to follow up after busy season ending March; a timing deferral, not a closed door."
+E01101,L00784,not_now,0.9,"Sender is too busy right now; a polite no for the moment, not a permanent refusal."
+E01102,L00947,not_now,0.9,"Sender is too busy right now; a polite no for the moment, not a permanent refusal."
+E01103,L00244,interested,0.92,"Asks how long setup takes for their business, signaling engagement and openness to next steps."
+E01104,L00308,interested,0.97,"Asks for a walkthrough and earliest availability, clearly wanting to move forward now."
+E01105,L01277,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E01106,L01056,interested,0.95,"Sender says they've been looking for this and asks about onboarding, signaling next-step interest."
+E01107,L01135,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E01108,L00770,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E01109,L01038,out_of_office,0.9,"Automatic away message until September 13; refers urgent matters to a colleague, but no interest signal."
+E01110,L00572,not_now,0.9,"Polite decline for this year; keeping current setup, so door not closed for good."
+E01111,L01369,interested,0.85,"Asks for the proposal to review, a concrete next step, though it needs partner approval."
+E01112,L01770,interested,0.97,"Asks for the earliest walkthrough, clearly wanting a demo now."
+E01113,L00030,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E01114,L00127,interested,0.95,"Sender is engaged and asks about setup time for their business, signaling readiness to move forward."
+E01115,L00240,interested,0.9,"Asks how long setup takes, showing engagement and openness to next steps."
+E01116,L01798,interested,0.97,"Sender says yes and asks for the earliest walkthrough, so they want to move forward now."
+E01117,L01641,interested,0.95,"Sender is asking about onboarding after saying they've been looking for this, signaling buying intent."
+E01118,L01337,interested,0.97,"Sender says yes and proposes a Thursday afternoon call, a clear next step."
+E01119,L00608,referral,0.95,Sender says he doesn't buy tools and points to Hailey Woods with her email.
+E01120,L00591,not_now,0.9,Interested in the idea but deferring evaluation until after a future hire; door stays open.
+E01121,L01449,not_now,0.8,"Polite deferral: reviewing tools next quarter, wants follow-up then, not now."
+E01122,L00793,interested,0.97,Sender says yes and asks for a Thursday afternoon call.
+E01123,L00045,out_of_office,0.97,Automatic away message until September 9; says nothing about the offer itself.
+E01124,L00825,referral,0.97,Sender redirects the rep to office manager Nicole with her email address.
+E01125,L00451,unsubscribe,0.97,Sender says not interested and explicitly asks to be removed from the list.
+E01126,L01056,interested,0.96,"Sender is engaged and asks how long setup takes for their business, signaling next-step interest."
+E01127,L00233,interested,0.97,"Asks for a demo and says a colleague should join, so the rep should schedule it."
+E01128,L01420,out_of_office,0.9,"Automatic away message until September 15; it names a contact for urgent matters, which fits out_of_office rather than referral."
+E01129,L01019,not_now,0.9,Polite decline citing being too busy at the moment; door not closed for good.
+E01130,L00397,interested,0.97,Asks for a demo and wants a colleague to join; clear next step.
+E01131,L01405,not_now,0.85,Polite decline citing current satisfaction with existing setup; no request to be removed or referred.
+E01132,L00064,interested,0.95,"Asks how long setup takes and says she has attention, signaling intent to learn more."
+E01133,L00048,not_now,0.8,"Already signed a 12-month contract with another provider; a polite no, though the door is not permanently closed."
+E01134,L01295,unsubscribe,0.97,Sender says 'Remove.' asking to be taken off the list; no more email wanted.
+E01135,L00348,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E01136,L01337,interested,0.93,"Asks how long setup takes, showing genuine curiosity and intent to evaluate the product."
+E01137,L00303,out_of_office,0.97,Automatic away message about being out until September 17; says nothing about the offer.
+E01138,L01686,not_now,0.95,Polite decline due to frozen budget; asks to reach out in Q2.
+E01139,L00563,interested,0.96,"Sender is keen and asks when they can chat, a clear request to move forward."
+E01140,L01752,interested,0.97,"Sender explicitly asks for a demo booking link, signaling readiness to move forward now."
+E01141,L00020,referral,0.97,Sender says they are not the right person and names Adrienne Gallegos with an email address.
+E01142,L01686,interested,0.92,"Asks what onboarding involves, signaling genuine interest in moving forward with the product."
+E01143,L01868,out_of_office,0.9,"Automatic parental leave reply; points to another contact but is an away message, not a referral."
+E01144,L01368,interested,0.93,"Asks whether it integrates with QuickBooks and says if so, let's talk; wants next steps."
+E01145,L01799,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer itself.
+E01146,L00768,interested,0.93,"Asks about QuickBooks integration and says ""let's talk"", signaling readiness to move forward."
+E01147,L00946,not_now,0.8,Polite decline citing an existing 12-month contract with another provider; door not explicitly closed for good.
+E01148,L00711,not_now,0.8,"Polite decline: they signed with another provider for 12 months, so the door isn't closed permanently."
+E01149,L00677,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E01150,L00563,interested,0.97,"Asks for pricing for their team, a clear signal to move forward."
+E01151,L00730,interested,0.97,"Asks for a demo link and says current setup is a mess, clear buying intent."
+E01152,L01345,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from further emails.
+E01153,L00906,interested,0.97,"Sender asks to start a trial this week, a clear request to move forward now."
+E01154,L01123,referral,0.97,Sender left the company and points to Thomas Thompson as the new contact.
+E01155,L00215,not_now,0.95,"Budget frozen until Q2 and asks to reach out then; polite deferral, not a closed door."
+E01156,L00367,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01157,L01512,interested,0.85,"Asks for the proposal to review with partner, signaling movement toward next steps."
+E01158,L00913,out_of_office,0.97,Automatic reply saying sender is at a trade show until September 23.
+E01159,L01724,unsubscribe,0.97,"Sender explicitly tells us to stop emailing them, so no further contact."
+E01160,L00638,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E01161,L01459,not_now,0.9,"Asks to follow up after busy season ending in March; a polite deferral, not a closed door."
+E01162,L00889,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E01163,L00576,unsubscribe,0.97,Sender asks for deletion and no further contact; clear opt-out request.
+E01164,L01847,not_now,0.95,Polite decline citing bad timing and asking to check back in the new year.
+E01165,L00638,unsubscribe,0.97,"Sender explicitly asks to be removed from the list, so no further emails."
+E01166,L00303,referral,0.97,Sender says she is not the right person and names Amber Nelson as the software contact.
+E01167,L00572,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E01168,L00581,interested,0.85,"Asks for the proposal to review, which signals a next step toward moving forward."
+E01169,L00244,not_now,0.9,"Sender says they are too busy at the moment; polite deferral, not a permanent no."
+E01170,L01501,interested,0.97,Asks for a demo and wants a colleague to join; clear next step.
+E01171,L00889,interested,0.95,"Sender is still keen and asks when they can chat, so they want a call now."
+E01172,L01414,referral,0.97,"Sender redirects the rep to Samuel, the decision maker, providing his email address."
+E01173,L01589,not_now,0.9,Polite decline citing satisfaction with current solution; door not closed for good.
+E01174,L01285,interested,0.97,"Asks for pricing for their team size, a clear buying signal to move forward."
+E01175,L00748,referral,0.97,Sender left the company and redirects to Timothy Burton with his email address.
+E01176,L00123,out_of_office,0.97,Automatic away message stating absence until September 20; says nothing about the offer.
+E01177,L01799,interested,0.93,"Sender says they have been looking for this and asks about onboarding, signaling readiness to move forward."
+E01178,L00985,not_now,0.95,Polite decline citing bad timing; asks to check back in the new year.
+E01179,L00677,unsubscribe,0.97,Sender explicitly asks to be unsubscribed from all future emails.
+E01180,L00958,unsubscribe,0.97,Sender explicitly asks to be removed from the list and states no future interest.
+E01181,L00877,interested,0.85,"Asks for the proposal to review with partner, signaling intent to move forward."
+E01182,L00064,interested,0.93,"Asks about onboarding, signaling genuine interest in moving forward with the product."
+E01183,L01458,unsubscribe,0.97,Explicitly asks to be removed from the list and declines interest.
+E01184,L00935,unsubscribe,0.97,The sender says 'Remove.' which is a direct request to stop receiving emails.
+E01185,L01098,interested,0.97,"Asks to see how recurring invoices are handled, a clear request for a demo."
+E01186,L01040,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; door stays open.
+E01187,L00839,unsubscribe,0.98,Sender explicitly asks to unsubscribe from further emails.
+E01188,L00840,not_now,0.93,Polite decline citing timing (office move); asks to follow up in a couple of months.
+E01189,L01212,out_of_office,0.98,Automatic reply stating the sender is on annual leave until September 23.
+E01190,L01038,not_now,0.92,"Polite decline for now; keeping current setup this year, door not closed permanently."
+E01191,L01337,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; timing is the blocker.
+E01192,L00422,not_now,0.95,Polite decline citing low priority and asking to check back in the new year.
+E01193,L00606,unsubscribe,0.97,"Sender explicitly says 'Remove' the rep from the list, asking for no more emails."
+E01194,L00678,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01195,L00207,interested,0.97,"Sender says yes and asks for the earliest walkthrough, clearly wanting to move forward now."
+E01196,L01206,not_now,0.9,"Polite decline; they're happy with current setup, so the door isn't closed for good."
+E01197,L01741,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E01198,L00368,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 1.
+E01199,L00985,not_now,0.95,Polite decline citing timing; asks to check back in the new year.
+E01200,L01273,not_now,0.9,"Polite decline for now; keeping current setup this year, door not closed."
+E01201,L00311,interested,0.95,"Sender is keen and asks when they can chat, so they want a call now."
+E01202,L01906,not_now,0.93,Polite deferral due to a move; asks to be contacted again in a couple of months.
+E01203,L00007,interested,0.97,"Susan asks for a demo and wants Terry to join, so the rep should schedule it."
+E01204,L00422,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 1.
+E01205,L00386,interested,0.97,"Asks for the earliest walkthrough and says yes, clearly wanting to move forward now."
+E01206,L01195,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E01207,L00606,not_now,0.95,"Polite decline for now, asks to check back in the new year."
+E01208,L01434,not_now,0.9,"Asks to follow up after busy season ending in March; a polite deferral, not a closed door."
+E01209,L00775,unsubscribe,0.98,"Sender explicitly asks to stop receiving emails, so no further contact."
+E01210,L00810,interested,0.97,"Sender asks for a product demo on recurring invoices, signaling clear interest in moving forward."
+E01211,L01068,interested,0.95,"Asks whether it integrates with QuickBooks and says let's talk if so, signaling readiness for a call."
+E01212,L00768,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 4.
+E01213,L01686,out_of_office,0.97,Automatic reply saying sender is travelling and returns Monday September 28.
+E01214,L01664,referral,0.9,Sender forwards the thread to operations manager Ricky Thomas instead of engaging herself.
+E01215,L00718,out_of_office,0.9,Automatic parental leave reply; it redirects to a colleague but says nothing about the offer itself.
+E01216,L00676,not_now,0.93,Polite decline citing bad timing and being short-staffed; door not closed permanently.
+E01217,L01512,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E01218,L01087,interested,0.97,"Asks for pricing for their team size, clearly wanting to move forward."
+E01219,L01896,interested,0.97,Prospect says current setup is a mess and asks for a demo link.
+E01220,L00030,not_now,0.85,"Defers evaluation to next quarter; polite postponement, not a refusal, so follow-up is appropriate later."
+E01221,L00619,not_now,0.85,Polite deferral: interested in idea but cannot review until after hiring a manager.
+E01222,L00935,unsubscribe,0.98,Sender explicitly asks to unsubscribe and stop receiving emails.
+E01223,L01664,out_of_office,0.97,Automatic reply saying the sender is away until October 7; says nothing about the offer.
+E01224,L00748,not_now,0.9,"Polite decline for now, keeping current setup this year; door not closed for good."
+E01225,L00445,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E01226,L00445,interested,0.97,"Sender explicitly asks for a walkthrough and earliest availability, signaling clear intent to proceed."
+E01227,L01822,out_of_office,0.97,Automatic reply saying the sender is out sick; nothing about the offer.
+E01228,L00638,unsubscribe,0.97,Sender explicitly asks to be removed from the email list.
+E01229,L01732,interested,0.93,"Asks about QuickBooks integration and says 'let's talk', signaling readiness to move forward."
+E01230,L01724,interested,0.97,Asks for a demo and wants a colleague to join; clear move-forward signal.
+E01231,L01467,out_of_office,0.8,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E01232,L01358,interested,0.95,"Sender is engaged and asks about onboarding, signaling readiness to move forward."
+E01233,L00520,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E01234,L00229,out_of_office,0.97,Automatic annual leave reply; says nothing about the offer or trial.
+E01235,L00445,interested,0.97,"Requests a demo and asks to include colleague Colleen, signaling clear next-step intent."
+E01236,L00619,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E01237,L00671,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 8.
+E01238,L01369,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E01239,L01494,interested,0.97,"Sender asks to start a trial this week, a clear request to move forward now."
+E01240,L01123,not_now,0.9,"Polite decline for now; keeping current setup this year, door not closed for good."
+E01241,L01908,out_of_office,0.9,Automatic parental leave reply; it names a backup contact but says nothing about the offer.
+E01242,L00733,referral,0.95,Sender redirects us to office manager Robert with his email address instead of engaging.
+E01243,L00440,referral,0.93,Sender forwards the conversation to operations manager Robert Wood instead of handling it herself.
+E01244,L00946,not_now,0.9,"Polite deferral: reviewing tools next quarter, asks to follow up then."
+E01245,L00985,out_of_office,0.97,Automatic parental leave reply; it redirects to a colleague but says nothing about the offer itself.
+E01246,L00367,not_now,0.85,Sender likes the idea but can't engage until after hiring a manager; timing issue.
+E01247,L00906,not_now,0.8,Polite decline citing a recent 12-month contract with another provider; door not explicitly closed.
+E01248,L00799,out_of_office,0.97,Automatic travel away message saying they are back October 11; says nothing about the offer.
+E01249,L00155,interested,0.97,"Asks for a demonstration of recurring invoice handling, signaling a clear next step."
+E01250,L00810,unsubscribe,0.97,Sender asks to delete their data and stop all further contact.
+E01251,L00739,unsubscribe,0.97,The sender replied with 'Remove.' asking to be taken off the mailing list.
+E01252,L00464,out_of_office,0.97,Automatic reply saying sender is out sick; says nothing about the offer.
+E01253,L01580,interested,0.85,"Asks for a proposal to review with partner, signaling intent to move forward."
+E01254,L01012,out_of_office,0.97,Automatic reply saying the sender is away until October 15; says nothing about the offer.
+E01255,L01066,out_of_office,0.97,Automatic reply saying sender is on annual leave until October 5.
+E01256,L00880,interested,0.85,"Asks for a proposal to review with partner, signaling intent to move forward."
+E01257,L01906,not_now,0.8,"Signed a 12-month contract with another provider; polite decline, not an unsubscribe request."
+E01258,L01715,unsubscribe,0.97,"Sender explicitly asks to stop receiving emails, so no further outreach should be sent."
+E01259,L00957,not_now,0.9,Polite decline citing being too busy at the moment; door not closed for good.
+E01260,L01580,not_now,0.85,Interested in principle but defers evaluation until after hiring a new manager; bad timing.
+E01261,L00877,interested,0.95,"Sender says they've been looking for this and asks about onboarding, signaling readiness to move forward."
+E01262,L01410,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E01263,L00728,out_of_office,0.93,"Automatic away message until October 9; refers urgent matters to a colleague, but offer itself unaddressed."
+E01264,L00121,interested,0.97,Sender agrees to look and asks for a Thursday afternoon call.
+E01265,L01383,out_of_office,0.97,Automatic away message until October 9; says nothing about the offer.
+E01266,L00004,out_of_office,0.97,Automatic away message about being away until October 18; says nothing about the offer.
+E01267,L01866,not_now,0.93,"Polite decline citing bad timing and staffing; no closed door stated, so not unsubscribe."
+E01268,L01129,interested,0.97,Sender says they are interested and asks for a demo of recurring invoices.
+E01269,L01823,referral,0.97,"Sender directs us to Ryan Garrett, the office manager, with his email address."
+E01270,L00414,out_of_office,0.97,Automatic travel away message with return date; says nothing about the offer.
+E01271,L01323,interested,0.93,"Asks about onboarding for the product, signaling genuine interest in moving forward."
+E01272,L00888,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01273,L01026,interested,0.97,Sender says timing is good and asks for a demo booking link.
+E01274,L00063,interested,0.97,Asks for a demo and wants a colleague to join; clear move-forward signal.
+E01275,L01010,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E01276,L01419,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 13.
+E01277,L01550,unsubscribe,0.98,Sender asks to delete their email and not be contacted again.
+E01278,L00303,interested,0.85,"Asks for a proposal to review with partner, signaling movement toward next steps."
+E01279,L00436,interested,0.97,"Asks to start a trial this week, a clear request to move forward now."
+E01280,L00943,out_of_office,0.97,Automatic sick-leave reply; says nothing about the offer.
+E01281,L00957,out_of_office,0.93,"Automatic away message until October 15; refers to a colleague, but no offer response."
+E01282,L01383,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E01283,L00939,interested,0.97,"Sender asks for a demo of recurring invoice handling, signaling clear interest in next steps."
+E01284,L00733,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E01285,L00336,interested,0.97,"Sender asks for pricing for their team size, a clear buying signal."
+E01286,L00516,interested,0.93,"Asks how long setup takes for her business, showing curiosity and intent to evaluate further."
+E01287,L01549,not_now,0.9,Polite deferral due to a move; asks to try again in a couple of months.
+E01288,L00458,unsubscribe,0.98,"Sender explicitly asks to be removed from the mailing list, so no further emails."
+E01289,L01792,interested,0.97,"Says yes and asks for the earliest walkthrough, a clear request to move forward now."
+E01290,L01166,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E01291,L00063,unsubscribe,0.97,Explicit request to be removed from the mailing list and a clear rejection.
+E01292,L00657,interested,0.97,Sender says interested and asks for a demo of recurring invoice handling.
+E01293,L01098,interested,0.97,Asks for a demo and wants a colleague to join; clear intent to move forward.
+E01294,L00904,out_of_office,0.93,Automatic away message until October 22; it mentions a contact but says nothing about the offer.
+E01295,L00846,interested,0.97,"Sender explicitly asks for a demo of recurring invoice handling, a clear next step."
+E01296,L00806,referral,0.96,Sender says they are not the right person and names Caitlin Watkins as the software contact.
+E01297,L00192,referral,0.95,"Sender redirects the rep to Alec, the office manager, providing his email address."
+E01298,L00460,not_now,0.9,Polite decline due to move; asks to retry in a couple of months.
+E01299,L01257,unsubscribe,0.98,Sender explicitly asks to be removed from all future emails.
+E01300,L00923,interested,0.97,"Asks for pricing for their team size, a clear move-forward signal."
+E01301,L01252,out_of_office,0.97,Automatic travel away message; says nothing about the offer itself.
+E01302,L01056,referral,0.97,Sender says it's not their area and points to Brian French for admin and billing.
+E01303,L01028,not_now,0.93,Polite decline citing being too busy at the moment; door not closed for good.
+E01304,L01901,referral,0.97,Sender says it's not her area and points to Cory Holland in admin and billing.
+E01305,L00897,referral,0.97,"Sender says it's not their area and redirects to Tiffany Carroll, who handles admin and billing."
+E01306,L00102,interested,0.93,"Asks how long setup takes for their business, signaling engagement and readiness to explore further."
+E01307,L00564,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01308,L00485,interested,0.97,"Sender asks for a demo link and says current setup is a mess, clearly wants to proceed."
+E01309,L00028,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E01310,L01022,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E01311,L00121,interested,0.97,Sender says yes and asks for a Thursday afternoon call.
+E01312,L01410,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 22.
+E01313,L01529,interested,0.97,"Sender asks for the earliest walkthrough, clearly wanting to move forward now."
+E01314,L00058,out_of_office,0.97,Automatic travel away message with return date; says nothing about the offer.
+E01315,L00896,not_now,0.8,"Asks for follow-up next quarter; timing is deferred, not an immediate yes."
+E01316,L00443,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; door stays open.
+E01317,L01219,out_of_office,0.97,Automatic reply saying the sender is on annual leave until October 24.
+E01318,L01530,interested,0.97,"Sender asks for pricing for their team, signaling clear intent to move forward."
+E01319,L01068,interested,0.95,"Asks about onboarding for a product they've been looking for, signaling readiness to move forward."
+E01320,L00941,not_now,0.95,Budget frozen until Q2 and asks to reach out then; polite no for now.
+E01321,L01255,not_now,0.85,Polite deferral: interested in the idea but can't look until after hiring a manager.
+E01322,L00516,not_now,0.93,Polite decline citing bad timing and staffing constraints; door not closed for good.
+E01323,L00613,interested,0.95,"Sender says they have been looking for this and asks about onboarding, signaling readiness to move forward."
+E01324,L00541,out_of_office,0.98,Automatic reply saying the sender is on annual leave until October 23.
+E01325,L00284,not_now,0.85,Interested in the idea but deferring until after hiring a new manager; timing is the blocker.
+E01326,L01447,out_of_office,0.9,Automatic away message until October 22; gives a backup contact but no real interest signal.
+E01327,L01252,not_now,0.85,"Polite decline; they are happy with current solution for now, door not closed."
+E01328,L00297,interested,0.97,"Sender is keen and asks directly when they can chat, wanting to move forward."
+E01329,L00799,not_now,0.8,"Signed a 12-month contract with another provider; a polite no, though it may be a firm no."
+E01330,L01603,out_of_office,0.98,Automatic reply saying sender is on annual leave until October 17.
+E01331,L00416,unsubscribe,0.97,"Sender says 'Remove.' asking to be taken off the list, so no further email."
+E01332,L01668,interested,0.97,"Sender is keen and asks when they can chat, so they want a call now."
+E01333,L00630,not_now,0.95,Polite decline citing frozen budget until Q2; asks to reach out later.
+E01334,L00355,out_of_office,0.97,Automatic reply saying the sender is on annual leave until October 26.
+E01335,L01550,out_of_office,0.97,Automatic travel away message with return date; says nothing about the offer.
+E01336,L00631,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01337,L00934,not_now,0.9,Polite decline citing satisfaction with current solution; door not closed for good.
+E01338,L00809,unsubscribe,0.97,Explicit request to be removed from the list and a clear rejection of the offer.
+E01339,L00576,referral,0.96,"Sender redirects the rep to Patrick Yu, the office manager, with his email address."
+E01340,L01473,out_of_office,0.97,Automatic reply saying the sender is at a trade show until October 20.
+E01341,L00507,not_now,0.92,Polite decline citing bad timing during a move; asks to retry in a couple of months.
+E01342,L00284,interested,0.97,"Sender says yes and asks for the earliest walkthrough, a clear request to move forward now."
+E01343,L00666,unsubscribe,0.97,Sender explicitly asks to be removed from all future emails.
+E01344,L00279,interested,0.97,"Asks for pricing for their team size, a clear move-forward signal."
+E01345,L00657,not_now,0.8,"Recently signed a 12-month contract with another provider; polite decline, not interested currently."
+E01346,L00897,referral,0.97,Sender left the company and points to Janet Wilson with her email as the new contact.
+E01347,L00302,unsubscribe,0.97,Explicit request to be removed from the list; sender says they are not interested.
+E01348,L01255,unsubscribe,0.97,Sender explicitly asks to be removed from the mailing list.
+E01349,L00630,not_now,0.92,Polite decline citing being too busy at the moment; not a permanent no.
+E01350,L01773,not_now,0.85,Likes the idea but cannot look until after hiring a new manager; defers to later.
+E01351,L00768,not_now,0.8,Polite decline citing an existing 12-month contract with another provider; door not explicitly closed.
+E01352,L00363,unsubscribe,0.97,Explicit request to be removed from the list and clear rejection of the offer.
+E01353,L00902,interested,0.93,"Asks how long setup takes for their business, signaling genuine interest in moving forward."
+E01354,L00600,referral,0.97,Sender left the company and points to Joshua Maxwell with his email address.
+E01355,L01321,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E01356,L01316,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 22; no statement about the offer.
+E01357,L00100,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until October 20.
+E01358,L01622,interested,0.97,Asks for a demo and wants a colleague to join; clear intent to move forward.
+E01359,L00849,not_now,0.92,Polite decline citing being too busy at the moment; door not closed.
+E01360,L00521,unsubscribe,0.97,Sender asks to delete their email and never be contacted again.
+E01361,L01179,not_now,0.9,"Sender is too busy at the moment; a polite no for now, not a permanent closure."
+E01362,L01512,not_now,0.9,Polite decline citing satisfaction with current solution; door not closed for good.
+E01363,L00560,unsubscribe,0.98,"Sender explicitly asks to be removed from the mailing list, so no further emails."
+E01364,L00234,not_now,0.85,Interested in the idea but deferring evaluation until after hiring a new manager.
+E01365,L00768,interested,0.97,Sender says they are still keen and asks when they can chat.
+E01366,L00849,out_of_office,0.97,Automatic reply stating the sender is travelling and returns Friday October 23.
+E01367,L01678,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 21.
+E01368,L00292,referral,0.96,Sender says they are not the right person and points to Jeremy Stewart with an email.
+E01369,L00560,interested,0.97,"Asks for pricing for their team size, a clear next step toward a deal."
+E01370,L00302,out_of_office,0.97,Automatic reply saying sender is out sick; says nothing about the offer.
+E01371,L00880,unsubscribe,0.98,Sender explicitly asks to unsubscribe from further emails.
+E01372,L01341,unsubscribe,0.97,Sender says 'Remove.' asking to be taken off the list.
+E01373,L01869,interested,0.95,"Asks about QuickBooks integration and conditionally agrees to talk, signaling readiness to move forward."
+E01374,L01355,not_now,0.95,Polite decline citing bad timing; asks to check back in the new year.
+E01375,L00849,interested,0.85,"Asks for the proposal to review, moving forward; partner review is a next step."
+E01376,L01622,interested,0.97,Asks for a demo and wants a colleague to join; clear next step.
+E01377,L00924,interested,0.97,Asks for a demo link and says timing is good; clear intent to move forward.
+E01378,L00780,interested,0.97,Asks for a demo and wants a colleague to join; clear next step.
+E01379,L01685,unsubscribe,0.97,Sender explicitly asks to unsubscribe and stop receiving emails.
+E01380,L01669,interested,0.93,"Asks about QuickBooks integration and says to talk if it fits, signaling interest in next steps."
+E01381,L01323,out_of_office,0.97,Automatic reply saying sender is travelling and returns October 22.
+E01382,L01446,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, a clear next step."
+E01383,L01668,interested,0.97,"Asks for pricing for their team size, signaling clear intent to move forward."
+E01384,L01044,interested,0.97,"Sender asks for the earliest walkthrough, clearly wanting to move forward with a demo."
+E01385,L00924,interested,0.93,"Asks about QuickBooks integration and says 'let's talk', signaling readiness for a call."
+E01386,L01483,out_of_office,0.97,Automatic reply saying the sender is on annual leave until October 28.
+E01387,L00304,not_now,0.93,"Polite decline for now, keeping current setup this year; door not closed for good."
+E01388,L01540,unsubscribe,0.97,"Sender explicitly asks to stop receiving emails, so no further outreach should be sent."
+E01389,L00898,interested,0.97,"Asks to start a trial this week, clear intent to move forward now."
+E01390,L00884,interested,0.97,"Sender asks for pricing for their team, a clear request to move forward."
+E01391,L00898,out_of_office,0.98,Automatic reply stating the sender is on annual leave until October 25.
+E01392,L00712,out_of_office,0.98,Automatic reply stating the sender is away until October 24; says nothing about the offer.
+E01393,L01455,not_now,0.93,Polite decline citing bad timing and staffing; door not closed permanently.
+E01394,L00360,out_of_office,0.9,"Automatic parental leave reply; it redirects to another contact but is an away message, not a referral."
+E01395,L01166,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until October 30.
+E01396,L00219,interested,0.97,"Sender says yes and asks for the earliest walkthrough, a clear request to move forward."
+E01397,L01185,out_of_office,0.97,Automatic holiday closure reply with no engagement on the offer.
+E01398,L00443,interested,0.93,"Prospect is engaged and asks how long setup takes, signaling intent to move forward."
+E01399,L00902,out_of_office,0.9,Automatic away message until October 30; it names a backup contact but says nothing about the offer.
+E01400,L00866,not_now,0.85,"Defers evaluation to next quarter; asks for follow-up later, not an immediate next step."
+E01401,L01251,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until October 30.
+E01402,L01070,not_now,0.93,Sender is mid-move and asks to be contacted again in a couple of months.
+E01403,L01823,out_of_office,0.9,Automatic away message until November 4; it mentions a contact but says nothing about the offer.
+E01404,L01193,out_of_office,0.97,Automatic reply stating annual leave with return date; says nothing about the offer.
+E01405,L01078,interested,0.97,"Sender agrees to look and proposes a Thursday afternoon call, so the rep should book it."
+E01406,L00056,interested,0.97,"Sender explicitly asks for the earliest walkthrough, a clear request to move forward now."
+E01407,L00956,interested,0.97,"Asks how the product handles recurring invoices, signaling a desire to see a demo."
+E01408,L00918,not_now,0.95,Polite decline for timing reasons; asks to check back in the new year.
+E01409,L00630,referral,0.97,Sender says they are not the right person and points to Jill James with email.
+E01410,L01170,referral,0.9,Sender forwards the thread to operations manager Brittany Hernandez instead of engaging directly.
+E01411,L01175,not_now,0.8,Polite decline because they signed a 12-month contract with another provider; door not closed.
+E01412,L00360,not_now,0.93,"Polite decline citing low priority, asks to check back in the new year."
+E01413,L01823,out_of_office,0.97,Automatic holiday away message stating office is closed until October 27.
+E01414,L00476,interested,0.97,Asks for a demo and wants a colleague to join; clearly moving forward.
+E01415,L00886,referral,0.97,Sender says she is not the right person and points to Stephen Mccormick with email.
+E01416,L00932,interested,0.95,Asks for a demo and wants a colleague to join; clear next step.
+E01417,L01455,referral,0.95,Sender says she doesn't buy tools and points to Patrick Edwards with his email.
+E01418,L00680,not_now,0.92,"Sender is too busy at the moment; polite decline for now, not a permanent no."
+E01419,L00897,interested,0.97,"Sender asks for a demo link and says current setup is a mess, so wants to move forward."
+E01420,L01073,unsubscribe,0.98,Sender explicitly asks to stop receiving emails.
+E01421,L01154,referral,0.97,Sender says it's not their area and points to Matthew Tanner for admin and billing.
+E01422,L01479,out_of_office,0.97,Automatic away message until October 29; offers Tiffany as urgent contact but no real referral.
+E01423,L00344,interested,0.85,"Asks for a proposal to review with partner, signaling forward movement."
+E01424,L01242,not_now,0.85,Polite decline stating they are happy with current solution for now; door not closed.
+E01425,L01202,not_now,0.95,Polite decline citing timing; asks to check back in the new year.
+E01426,L01073,not_now,0.9,"Asks to follow up after busy season in March; a polite deferral, not a closed door."
+E01427,L01102,interested,0.97,Sender explicitly requests a demo and wants a colleague to join the call.
+E01428,L01583,not_now,0.8,"Signed a 12-month contract with a competitor; polite decline, though the 12-month term suggests a later window."
+E01429,L01530,interested,0.97,Sender agrees to look and asks for a Thursday afternoon call.
+E01430,L00344,referral,0.97,Sender left the company and points to Jacob Smith with his email address.
+E01431,L01332,not_now,0.93,"Polite decline citing bad timing and staffing; no closed door stated, so not unsubscribe."
+E01432,L00600,referral,0.95,Sender says she doesn't buy tools and points to Patricia Mahoney with her email.
+E01433,L00130,not_now,0.93,"Polite decline citing bad timing and staffing; no closed door stated, so not unsubscribe."
+E01434,L01101,referral,0.95,Sender says it's not her area and points to Danielle Mills with email.
+E01435,L00867,out_of_office,0.98,Automatic reply saying sender is away until November 6; says nothing about the offer.
+E01436,L01234,unsubscribe,0.97,Sender explicitly asks to be removed and states they are not interested ever.
+E01437,L00849,interested,0.85,"Asks for a proposal to review with partner, indicating engagement and a next step."
+E01438,L01355,not_now,0.9,"Polite decline for now, keeping current setup this year; door not closed permanently."
+E01439,L00205,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01440,L01450,interested,0.97,Asks for the earliest walkthrough after saying yes to the trial offer.
+E01441,L00044,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E01442,L00228,not_now,0.92,Polite decline for now citing keeping current setup this year; door not closed.
+E01443,L00961,referral,0.97,"Debbie redirects the rep to Stephanie Reynolds, the office manager, with her email."
+E01444,L00006,out_of_office,0.97,Automatic reply saying sender is at a trade show until October 28.
+E01445,L01419,interested,0.97,"Asks for pricing for their team size, a clear request to move forward."
+E01446,L01901,not_now,0.8,"Defers evaluation to next quarter, so not ready now; follow-up later is requested."
+E01447,L01010,interested,0.97,Asks for a demo and wants a colleague to join; clear next step.
+E01448,L00102,not_now,0.85,Interested in the idea but defers evaluation until after hiring a new manager; a polite delay.
+E01449,L01855,unsubscribe,0.98,"Sender explicitly tells the rep to stop emailing them, so they want no more contact."
+E01450,L00063,referral,0.97,"Sender redirects us to Jennifer Cooper, who makes the decisions, with her email provided."
+E01451,L00055,not_now,0.8,"Recently signed a 12-month contract with a competitor; polite decline, but no interest for a year."
+E01452,L00624,out_of_office,0.97,Automatic reply saying sender is away until November 9; says nothing about the offer.
+E01453,L01031,out_of_office,0.97,Automatic reply saying the sender is at a trade show until October 30.
+E01454,L01605,interested,0.97,"Asks how the product handles recurring invoices, signaling desire to learn more and move forward."
+E01455,L01012,not_now,0.9,Polite decline for now citing keeping things as they are this year; door not closed.
+E01456,L01652,not_now,0.9,"Asks to follow up after busy season ending in March; polite deferral, not a closed door."
+E01457,L00904,out_of_office,0.97,Automatic reply saying the sender is out sick; says nothing about the offer.
+E01458,L00055,referral,0.95,Sender doesn't buy tools and points to Carol Elliott with her email address.
+E01459,L01910,unsubscribe,0.97,"The sender replied with just 'Remove.', asking to be taken off the mailing list."
+E01460,L00846,out_of_office,0.95,Automatic parental leave reply; it provides a contact but says nothing about the offer itself.
+E01461,L00278,unsubscribe,0.98,Sender explicitly says not interested and asks to be removed from the list.
+E01462,L00806,referral,0.97,Sender says they are not the right person and points to Ronald White with an email address.
+E01463,L01794,out_of_office,0.98,Automatic reply saying the sender is on annual leave until November 10.
+E01464,L00651,unsubscribe,0.97,Sender explicitly says 'Unsubscribe' and wants no further emails.
+E01465,L01622,interested,0.97,"Asks to see how the product handles recurring invoices, a clear request for a demo."
+E01466,L00416,unsubscribe,0.98,Sender explicitly asks to be removed from the mailing list.
+E01467,L01425,referral,0.97,Sender left the company and points to Thomas Morrison with his email address.
+E01468,L00305,out_of_office,0.97,Automatic travel away message with a return date; says nothing about the offer.
+E01469,L01179,interested,0.97,"Asks to start a trial this week, clearly wanting to move forward now."
+E01470,L00828,interested,0.97,Sender agrees to look and proposes a Thursday afternoon call.
+E01471,L01416,out_of_office,0.9,Automatic parental leave reply; it points to a colleague but is primarily an away message.
+E01472,L01652,interested,0.85,"Requests the proposal to review with partner, signaling movement toward next steps."
+E01473,L00185,interested,0.97,Asks for a demo and wants a colleague to join; clear forward momentum.
+E01474,L01573,referral,0.97,"Sender redirects the rep to Donald, the actual decision maker, with his email address."
+E01475,L00385,unsubscribe,0.97,Explicitly declines and asks to be removed from the mailing list.
+E01476,L00370,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from further emails.
+E01477,L00604,not_now,0.95,"Budget frozen until Q2 and asks to reach out then; polite deferral, not a closed door."
+E01478,L00065,not_now,0.85,"Polite decline citing satisfaction with current solution; door not closed, so not unsubscribe."
+E01479,L00370,not_now,0.8,"Polite decline citing a recent 12-month contract with a competitor; door not closed for good, though contract lock-in suggests longer timeline."
+E01480,L01202,unsubscribe,0.98,Sender explicitly asks to be unsubscribed from all future emails.
+E01481,L00503,referral,0.95,Sender says it's not his area and points to Keith Foster for admin and billing.
+E01482,L01078,not_now,0.95,"Polite decline citing low priority, asks to check back in the new year."
+E01483,L00780,referral,0.96,"Sender redirects the rep to Lynn Hurley, the actual decision maker, with email provided."
+E01484,L01831,unsubscribe,0.98,"Explicitly asks to be removed from the mailing list, so no more emails."
+E01485,L00115,out_of_office,0.97,Automatic reply saying the office is closed for the holiday until November 9.
+E01486,L00385,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E01487,L01604,referral,0.97,"Sender says it's not their area and redirects to Jonathan Davis, who handles admin and billing."
+E01488,L00818,unsubscribe,0.97,Sender asks to delete their data and stop all future contact.
+E01489,L01831,unsubscribe,0.97,"Sender asks for deletion and no further contact, angry about being emailed."
+E01490,L00713,unsubscribe,0.98,"Sender explicitly asks to be removed from the mailing list, so no further email should be sent."
+E01491,L00126,unsubscribe,0.97,Sender explicitly asks to be removed from the list and says they will never be interested.
+E01492,L00063,interested,0.96,"Asks for a demo and wants Lori, a colleague, to join the call."
+E01493,L00932,interested,0.97,"Asks for a demo and says a colleague should join, so the rep should schedule it."
+E01494,L00304,referral,0.96,Sender declines buying but points to Sean Montes with his email address.
+E01495,L01479,unsubscribe,0.97,Sender explicitly asks to be removed from the email list.
+E01496,L01255,interested,0.95,"Asks about onboarding after saying they've been looking for this, signaling intent to move forward."
+E01497,L00445,unsubscribe,0.97,Sender asks to delete their email and not be contacted again.
+E01498,L01605,interested,0.93,"Asks about QuickBooks integration and says ""let's talk"", signaling readiness for a call."
+E01499,L01416,not_now,0.93,"Polite no due to timing and staffing; can't take on a new tool currently, not permanently closed."
+E01500,L01349,not_now,0.9,"Polite decline for now, keeping current setup this year; door not closed for good."
