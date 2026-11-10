@@ -1,12 +1,12 @@
 # router/: speed-to-lead router
 
-**In the last 50 inbound leads, the median wait for a first reply was 13 minutes. 9 of the 48 that got a reply waited more than an hour, and 2 never got one. The router assigns an owner and alerts them in about 6 ms.**
+**In the last 50 inbound leads, the median wait for a first reply was 13 minutes. 9 of the 48 that got a reply waited more than an hour, and 2 never got one. The router assigns an owner and alerts them in about 8 ms (median of the committed run; timing varies by machine).**
 
 Why it matters: in this data, inbound leads answered within an hour win 25% of closed deals, and
 slow ones win 10% (see the slow-first-response leak in [`docs/SCHEMA.md`](../docs/SCHEMA.md)).
 
 What the router does and doesn't do: it removes the time spent working out whose lead it is, and it
-tells that rep straight away. **A person still has to reply.** 6 ms is the time to get the lead to
+tells that rep straight away. **A person still has to reply.** 8 ms is the time to get the lead to
 an owner, not a response time, and nothing here proves reps would answer faster. The router takes
 away the routing delay, so any delay left is the rep's.
 
@@ -75,10 +75,10 @@ L01930: validate 0.01 ms -> dedupe 0.00 ms -> enrich 0.01 ms -> score 0.00 ms ->
     Owner: R02 [existing owner (email match)] | score 60 | email:L00481 | flags: duplicate_contact
     Lead to owner in 0.04 ms
 ...
-Historical median first response 13 minutes (9 of 48 waited over an hour, 2 never got a reply); routed in 6.2 ms (median, max 7.0 ms).
+Historical median first response 13 minutes (9 of 48 waited over an hour, 2 never got a reply); routed in 8.0 ms (median, max 11.3 ms).
 ```
 
-Most of the 6 ms is the fuzzy company search over ~1,900 names. An exact email hit returns before
+Most of the 8 ms is the fuzzy company search over ~1,900 names. An exact email hit returns before
 that search runs.
 
 ### How the replay works
