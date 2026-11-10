@@ -4,9 +4,7 @@ Finds where revenue leaks out of a sales pipeline, and what to fix first.
 
 **$881,884 leaking from a $1.0M pipeline, found by six automated checks over 2,000 leads and 600 deals.**
 
-[Live dashboard](https://revenue-leak-engine-yh3ipqcltain2zvnralelv.streamlit.app/) · Loom walkthrough (coming soon) · Case study (coming soon)
-<!-- LOOM_URL: replace "Loom walkthrough (coming soon)" with [Loom walkthrough](LOOM_URL) -->
-<!-- CASE_STUDY_URL: replace "Case study (coming soon)" with [Case study](CASE_STUDY_URL) -->
+[Live dashboard](https://revenue-leak-engine-yh3ipqcltain2zvnralelv.streamlit.app/) · [Case study](https://rynojor.github.io/case-study.html) · [Portfolio](https://rynojor.github.io)
 
 ![Dashboard walkthrough: overview, reps, replies and the weekly digest](docs/img/walkthrough.gif)
 
