@@ -45,8 +45,8 @@ def render() -> None:
     )
 
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Won revenue", ui.usd(kpi["won_usd"]), help=f'{kpi["won_deals"]} won deals', border=True)
-    c2.metric("Open pipeline", ui.usd(kpi["open_usd"]), help=f'{kpi["open_deals"]} open deals', border=True)
+    c1.metric("Won revenue", f"${kpi['won_usd'] / 1e6:.2f}M", help=f'{kpi["won_deals"]} won deals, {ui.usd(kpi["won_usd"])}', border=True)
+    c2.metric("Open pipeline", f"${kpi['open_usd'] / 1e6:.2f}M", help=f'{kpi["open_deals"]} open deals, {ui.usd(kpi["open_usd"])}', border=True)
     c3.metric(
         "Win rate",
         ui.pct(kpi["win_rate"], 1),
