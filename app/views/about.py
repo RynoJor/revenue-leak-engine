@@ -73,6 +73,6 @@ def render() -> None:
         )
         st.markdown("#### Built by")
         st.markdown(
-            f"**Ryno Jordaan**, GTM engineer. [LinkedIn]({ui.LINKEDIN}) · [GitHub]({ui.REPO})\n\n"
+            f"**Ryno Jordaan**, GTM engineer. [Portfolio]({ui.PORTFOLIO}) · [LinkedIn]({ui.LINKEDIN}) · [GitHub]({ui.REPO})\n\n"
             "Stack: Python, pandas, numpy, Claude API (offline, cached), Streamlit, Plotly."
         )

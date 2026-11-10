@@ -42,7 +42,7 @@ page = st.navigation(pages)
 
 with st.sidebar:
     st.caption(
-        f"Built by **Ryno Jordaan** · [LinkedIn]({ui.LINKEDIN}) · [GitHub]({ui.REPO})\n\n"
+        f"Built by **Ryno Jordaan** · [Portfolio]({ui.PORTFOLIO}) · [LinkedIn]({ui.LINKEDIN}) · [GitHub]({ui.REPO})\n\n"
         "Synthetic CRM data, snapshot 31 Oct 2026. Every figure is read from a module's committed output."
     )
 

@@ -20,6 +20,7 @@ FONT = '"Source Sans", "Source Sans Pro", "Segoe UI", system-ui, sans-serif'
 
 REPO = "https://github.com/RynoJor/revenue-leak-engine"
 LINKEDIN = "https://www.linkedin.com/in/ryno-jordaan/"
+PORTFOLIO = "https://rynojor.github.io"
 
 # The six hygiene checks, in the vocabulary a sales leader uses.
 LEAKS = {
